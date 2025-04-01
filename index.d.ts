@@ -1485,7 +1485,7 @@ type CherryWoodStates = Pick<BlockStateSuperset, 'pillar_axis' | 'stripped_bit'>
 /**
  * States specific to Chest
  */
-type ChestStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type ChestStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
 /**
  * States specific to ChiseledBookshelf
  */
@@ -1785,7 +1785,7 @@ type EndRodStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to EnderChest
  */
-type EnderChestStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type EnderChestStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
 /**
  * States specific to ExposedCutCopperSlab
  */
@@ -2661,7 +2661,7 @@ type StonebrickStates = Pick<BlockStateSuperset, 'stone_brick_type'>;
 /**
  * States specific to StonecutterBlock
  */
-type StonecutterBlockStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type StonecutterBlockStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
 /**
  * States specific to StrippedAcaciaLog
  */
@@ -2765,7 +2765,7 @@ type TrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upsid
 /**
  * States specific to TrappedChest
  */
-type TrappedChestStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type TrappedChestStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
 /**
  * States specific to TripWire
  */
