@@ -1383,6 +1383,7 @@ type BlockStateSuperset = {
     ['covered_bit']?: boolean;
     ['cracked_state']?: string;
     ['crafting']?: boolean;
+    ['creaking_heart_state']?: string;
     ['damage']?: string;
     ['dead_bit']?: boolean;
     ['deprecated']?: number;
@@ -1499,7 +1500,7 @@ type AcaciaButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facin
 /**
  * States specific to AcaciaDoor
  */
-type AcaciaDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type AcaciaDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to AcaciaDoubleSlab
  */
@@ -1507,7 +1508,7 @@ type AcaciaDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'
 /**
  * States specific to AcaciaFenceGate
  */
-type AcaciaFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type AcaciaFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to AcaciaHangingSign
  */
@@ -1603,7 +1604,7 @@ type BambooButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facin
 /**
  * States specific to BambooDoor
  */
-type BambooDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type BambooDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to BambooDoubleSlab
  */
@@ -1611,7 +1612,7 @@ type BambooDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'
 /**
  * States specific to BambooFenceGate
  */
-type BambooFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type BambooFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to BambooHangingSign
  */
@@ -1699,7 +1700,7 @@ type BirchButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing
 /**
  * States specific to BirchDoor
  */
-type BirchDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type BirchDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to BirchDoubleSlab
  */
@@ -1707,7 +1708,7 @@ type BirchDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>
 /**
  * States specific to BirchFenceGate
  */
-type BirchFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type BirchFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to BirchHangingSign
  */
@@ -1923,7 +1924,7 @@ type CherryButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facin
 /**
  * States specific to CherryDoor
  */
-type CherryDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type CherryDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to CherryDoubleSlab
  */
@@ -1931,7 +1932,7 @@ type CherryDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'
 /**
  * States specific to CherryFenceGate
  */
-type CherryFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type CherryFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to CherryHangingSign
  */
@@ -2063,7 +2064,7 @@ type CopperBulbStates = Pick<BlockStateSuperset, 'lit' | 'powered_bit'>;
 /**
  * States specific to CopperDoor
  */
-type CopperDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type CopperDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to CopperTrapdoor
  */
@@ -2075,7 +2076,7 @@ type CrafterStates = Pick<BlockStateSuperset, 'crafting' | 'orientation' | 'trig
 /**
  * States specific to CreakingHeart
  */
-type CreakingHeartStates = Pick<BlockStateSuperset, 'active' | 'natural' | 'pillar_axis'>;
+type CreakingHeartStates = Pick<BlockStateSuperset, 'creaking_heart_state' | 'natural' | 'pillar_axis'>;
 /**
  * States specific to CreeperHead
  */
@@ -2087,7 +2088,7 @@ type CrimsonButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'faci
 /**
  * States specific to CrimsonDoor
  */
-type CrimsonDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type CrimsonDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to CrimsonDoubleSlab
  */
@@ -2095,7 +2096,7 @@ type CrimsonDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half
 /**
  * States specific to CrimsonFenceGate
  */
-type CrimsonFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type CrimsonFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to CrimsonHangingSign
  */
@@ -2179,7 +2180,7 @@ type DarkOakButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'faci
 /**
  * States specific to DarkOakDoor
  */
-type DarkOakDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type DarkOakDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to DarkOakDoubleSlab
  */
@@ -2187,7 +2188,7 @@ type DarkOakDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half
 /**
  * States specific to DarkOakFenceGate
  */
-type DarkOakFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type DarkOakFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to DarkOakHangingSign
  */
@@ -2407,7 +2408,7 @@ type ExposedCopperBulbStates = Pick<BlockStateSuperset, 'lit' | 'powered_bit'>;
 /**
  * States specific to ExposedCopperDoor
  */
-type ExposedCopperDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type ExposedCopperDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to ExposedCopperTrapdoor
  */
@@ -2431,7 +2432,7 @@ type FarmlandStates = Pick<BlockStateSuperset, 'moisturized_amount'>;
 /**
  * States specific to FenceGate
  */
-type FenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type FenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to Fire
  */
@@ -2551,7 +2552,7 @@ type InfestedDeepslateStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to IronDoor
  */
-type IronDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type IronDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to IronTrapdoor
  */
@@ -2567,7 +2568,7 @@ type JungleButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facin
 /**
  * States specific to JungleDoor
  */
-type JungleDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type JungleDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to JungleDoubleSlab
  */
@@ -2575,7 +2576,7 @@ type JungleDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'
 /**
  * States specific to JungleFenceGate
  */
-type JungleFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type JungleFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to JungleHangingSign
  */
@@ -2739,7 +2740,7 @@ type MangroveButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'fac
 /**
  * States specific to MangroveDoor
  */
-type MangroveDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type MangroveDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to MangroveDoubleSlab
  */
@@ -2747,7 +2748,7 @@ type MangroveDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_hal
 /**
  * States specific to MangroveFenceGate
  */
-type MangroveFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type MangroveFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to MangroveHangingSign
  */
@@ -2951,7 +2952,7 @@ type OxidizedCopperBulbStates = Pick<BlockStateSuperset, 'lit' | 'powered_bit'>;
 /**
  * States specific to OxidizedCopperDoor
  */
-type OxidizedCopperDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type OxidizedCopperDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to OxidizedCopperTrapdoor
  */
@@ -2983,7 +2984,7 @@ type PaleOakButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'faci
 /**
  * States specific to PaleOakDoor
  */
-type PaleOakDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type PaleOakDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to PaleOakDoubleSlab
  */
@@ -2991,7 +2992,7 @@ type PaleOakDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half
 /**
  * States specific to PaleOakFenceGate
  */
-type PaleOakFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type PaleOakFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to PaleOakHangingSign
  */
@@ -3551,7 +3552,7 @@ type SpruceButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facin
 /**
  * States specific to SpruceDoor
  */
-type SpruceDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type SpruceDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to SpruceDoubleSlab
  */
@@ -3559,7 +3560,7 @@ type SpruceDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'
 /**
  * States specific to SpruceFenceGate
  */
-type SpruceFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type SpruceFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to SpruceHangingSign
  */
@@ -3895,7 +3896,7 @@ type WarpedButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facin
 /**
  * States specific to WarpedDoor
  */
-type WarpedDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type WarpedDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to WarpedDoubleSlab
  */
@@ -3903,7 +3904,7 @@ type WarpedDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'
 /**
  * States specific to WarpedFenceGate
  */
-type WarpedFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type WarpedFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
 /**
  * States specific to WarpedHangingSign
  */
@@ -3951,7 +3952,7 @@ type WaxedCopperBulbStates = Pick<BlockStateSuperset, 'lit' | 'powered_bit'>;
 /**
  * States specific to WaxedCopperDoor
  */
-type WaxedCopperDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type WaxedCopperDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to WaxedCopperTrapdoor
  */
@@ -3975,7 +3976,7 @@ type WaxedExposedCopperBulbStates = Pick<BlockStateSuperset, 'lit' | 'powered_bi
 /**
  * States specific to WaxedExposedCopperDoor
  */
-type WaxedExposedCopperDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type WaxedExposedCopperDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to WaxedExposedCopperTrapdoor
  */
@@ -3999,7 +4000,7 @@ type WaxedOxidizedCopperBulbStates = Pick<BlockStateSuperset, 'lit' | 'powered_b
 /**
  * States specific to WaxedOxidizedCopperDoor
  */
-type WaxedOxidizedCopperDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type WaxedOxidizedCopperDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to WaxedOxidizedCopperTrapdoor
  */
@@ -4023,7 +4024,7 @@ type WaxedWeatheredCopperBulbStates = Pick<BlockStateSuperset, 'lit' | 'powered_
 /**
  * States specific to WaxedWeatheredCopperDoor
  */
-type WaxedWeatheredCopperDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type WaxedWeatheredCopperDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to WaxedWeatheredCopperTrapdoor
  */
@@ -4047,7 +4048,7 @@ type WeatheredCopperBulbStates = Pick<BlockStateSuperset, 'lit' | 'powered_bit'>
 /**
  * States specific to WeatheredCopperDoor
  */
-type WeatheredCopperDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type WeatheredCopperDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to WeatheredCopperTrapdoor
  */
@@ -4095,7 +4096,7 @@ type WoodenButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facin
 /**
  * States specific to WoodenDoor
  */
-type WoodenDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type WoodenDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to WoodenPressurePlate
  */
@@ -5759,7 +5760,6 @@ declare enum MinecraftItemTypes {
     AcaciaTrapdoor = "minecraft:acacia_trapdoor",
     AcaciaWood = "minecraft:acacia_wood",
     ActivatorRail = "minecraft:activator_rail",
-    Air = "minecraft:air",
     AllaySpawnEgg = "minecraft:allay_spawn_egg",
     Allium = "minecraft:allium",
     Allow = "minecraft:allow",
