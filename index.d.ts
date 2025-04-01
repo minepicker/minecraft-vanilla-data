@@ -69,7 +69,9 @@ declare enum MinecraftBlockTypes {
     BlackCandle = "minecraft:black_candle",
     BlackCandleCake = "minecraft:black_candle_cake",
     BlackCarpet = "minecraft:black_carpet",
+    BlackConcrete = "minecraft:black_concrete",
     BlackGlazedTerracotta = "minecraft:black_glazed_terracotta",
+    BlackShulkerBox = "minecraft:black_shulker_box",
     BlackWool = "minecraft:black_wool",
     Blackstone = "minecraft:blackstone",
     BlackstoneDoubleSlab = "minecraft:blackstone_double_slab",
@@ -80,8 +82,10 @@ declare enum MinecraftBlockTypes {
     BlueCandle = "minecraft:blue_candle",
     BlueCandleCake = "minecraft:blue_candle_cake",
     BlueCarpet = "minecraft:blue_carpet",
+    BlueConcrete = "minecraft:blue_concrete",
     BlueGlazedTerracotta = "minecraft:blue_glazed_terracotta",
     BlueIce = "minecraft:blue_ice",
+    BlueShulkerBox = "minecraft:blue_shulker_box",
     BlueWool = "minecraft:blue_wool",
     BoneBlock = "minecraft:bone_block",
     Bookshelf = "minecraft:bookshelf",
@@ -93,9 +97,11 @@ declare enum MinecraftBlockTypes {
     BrownCandle = "minecraft:brown_candle",
     BrownCandleCake = "minecraft:brown_candle_cake",
     BrownCarpet = "minecraft:brown_carpet",
+    BrownConcrete = "minecraft:brown_concrete",
     BrownGlazedTerracotta = "minecraft:brown_glazed_terracotta",
     BrownMushroom = "minecraft:brown_mushroom",
     BrownMushroomBlock = "minecraft:brown_mushroom_block",
+    BrownShulkerBox = "minecraft:brown_shulker_box",
     BrownWool = "minecraft:brown_wool",
     BubbleColumn = "minecraft:bubble_column",
     BubbleCoral = "minecraft:bubble_coral",
@@ -159,7 +165,6 @@ declare enum MinecraftBlockTypes {
     ColoredTorchRg = "minecraft:colored_torch_rg",
     CommandBlock = "minecraft:command_block",
     Composter = "minecraft:composter",
-    Concrete = "minecraft:concrete",
     ConcretePowder = "minecraft:concrete_powder",
     Conduit = "minecraft:conduit",
     CopperBlock = "minecraft:copper_block",
@@ -200,7 +205,9 @@ declare enum MinecraftBlockTypes {
     CyanCandle = "minecraft:cyan_candle",
     CyanCandleCake = "minecraft:cyan_candle_cake",
     CyanCarpet = "minecraft:cyan_carpet",
+    CyanConcrete = "minecraft:cyan_concrete",
     CyanGlazedTerracotta = "minecraft:cyan_glazed_terracotta",
+    CyanShulkerBox = "minecraft:cyan_shulker_box",
     CyanWool = "minecraft:cyan_wool",
     DarkOakButton = "minecraft:dark_oak_button",
     DarkOakDoor = "minecraft:dark_oak_door",
@@ -426,12 +433,16 @@ declare enum MinecraftBlockTypes {
     GrayCandle = "minecraft:gray_candle",
     GrayCandleCake = "minecraft:gray_candle_cake",
     GrayCarpet = "minecraft:gray_carpet",
+    GrayConcrete = "minecraft:gray_concrete",
     GrayGlazedTerracotta = "minecraft:gray_glazed_terracotta",
+    GrayShulkerBox = "minecraft:gray_shulker_box",
     GrayWool = "minecraft:gray_wool",
     GreenCandle = "minecraft:green_candle",
     GreenCandleCake = "minecraft:green_candle_cake",
     GreenCarpet = "minecraft:green_carpet",
+    GreenConcrete = "minecraft:green_concrete",
     GreenGlazedTerracotta = "minecraft:green_glazed_terracotta",
+    GreenShulkerBox = "minecraft:green_shulker_box",
     GreenWool = "minecraft:green_wool",
     Grindstone = "minecraft:grindstone",
     HangingRoots = "minecraft:hanging_roots",
@@ -484,18 +495,24 @@ declare enum MinecraftBlockTypes {
     LightBlueCandle = "minecraft:light_blue_candle",
     LightBlueCandleCake = "minecraft:light_blue_candle_cake",
     LightBlueCarpet = "minecraft:light_blue_carpet",
+    LightBlueConcrete = "minecraft:light_blue_concrete",
     LightBlueGlazedTerracotta = "minecraft:light_blue_glazed_terracotta",
+    LightBlueShulkerBox = "minecraft:light_blue_shulker_box",
     LightBlueWool = "minecraft:light_blue_wool",
     LightGrayCandle = "minecraft:light_gray_candle",
     LightGrayCandleCake = "minecraft:light_gray_candle_cake",
     LightGrayCarpet = "minecraft:light_gray_carpet",
+    LightGrayConcrete = "minecraft:light_gray_concrete",
+    LightGrayShulkerBox = "minecraft:light_gray_shulker_box",
     LightGrayWool = "minecraft:light_gray_wool",
     LightWeightedPressurePlate = "minecraft:light_weighted_pressure_plate",
     LightningRod = "minecraft:lightning_rod",
     LimeCandle = "minecraft:lime_candle",
     LimeCandleCake = "minecraft:lime_candle_cake",
     LimeCarpet = "minecraft:lime_carpet",
+    LimeConcrete = "minecraft:lime_concrete",
     LimeGlazedTerracotta = "minecraft:lime_glazed_terracotta",
+    LimeShulkerBox = "minecraft:lime_shulker_box",
     LimeWool = "minecraft:lime_wool",
     LitBlastFurnace = "minecraft:lit_blast_furnace",
     LitDeepslateRedstoneOre = "minecraft:lit_deepslate_redstone_ore",
@@ -509,7 +526,9 @@ declare enum MinecraftBlockTypes {
     MagentaCandle = "minecraft:magenta_candle",
     MagentaCandleCake = "minecraft:magenta_candle_cake",
     MagentaCarpet = "minecraft:magenta_carpet",
+    MagentaConcrete = "minecraft:magenta_concrete",
     MagentaGlazedTerracotta = "minecraft:magenta_glazed_terracotta",
+    MagentaShulkerBox = "minecraft:magenta_shulker_box",
     MagentaWool = "minecraft:magenta_wool",
     Magma = "minecraft:magma",
     MangroveButton = "minecraft:mangrove_button",
@@ -571,7 +590,9 @@ declare enum MinecraftBlockTypes {
     OrangeCandle = "minecraft:orange_candle",
     OrangeCandleCake = "minecraft:orange_candle_cake",
     OrangeCarpet = "minecraft:orange_carpet",
+    OrangeConcrete = "minecraft:orange_concrete",
     OrangeGlazedTerracotta = "minecraft:orange_glazed_terracotta",
+    OrangeShulkerBox = "minecraft:orange_shulker_box",
     OrangeWool = "minecraft:orange_wool",
     OxidizedCopper = "minecraft:oxidized_copper",
     OxidizedCutCopper = "minecraft:oxidized_cut_copper",
@@ -584,8 +605,10 @@ declare enum MinecraftBlockTypes {
     PinkCandle = "minecraft:pink_candle",
     PinkCandleCake = "minecraft:pink_candle_cake",
     PinkCarpet = "minecraft:pink_carpet",
+    PinkConcrete = "minecraft:pink_concrete",
     PinkGlazedTerracotta = "minecraft:pink_glazed_terracotta",
     PinkPetals = "minecraft:pink_petals",
+    PinkShulkerBox = "minecraft:pink_shulker_box",
     PinkWool = "minecraft:pink_wool",
     Piston = "minecraft:piston",
     PistonArmCollision = "minecraft:piston_arm_collision",
@@ -628,7 +651,9 @@ declare enum MinecraftBlockTypes {
     PurpleCandle = "minecraft:purple_candle",
     PurpleCandleCake = "minecraft:purple_candle_cake",
     PurpleCarpet = "minecraft:purple_carpet",
+    PurpleConcrete = "minecraft:purple_concrete",
     PurpleGlazedTerracotta = "minecraft:purple_glazed_terracotta",
+    PurpleShulkerBox = "minecraft:purple_shulker_box",
     PurpleWool = "minecraft:purple_wool",
     PurpurBlock = "minecraft:purpur_block",
     PurpurStairs = "minecraft:purpur_stairs",
@@ -643,6 +668,7 @@ declare enum MinecraftBlockTypes {
     RedCandle = "minecraft:red_candle",
     RedCandleCake = "minecraft:red_candle_cake",
     RedCarpet = "minecraft:red_carpet",
+    RedConcrete = "minecraft:red_concrete",
     RedFlower = "minecraft:red_flower",
     RedGlazedTerracotta = "minecraft:red_glazed_terracotta",
     RedMushroom = "minecraft:red_mushroom",
@@ -651,6 +677,7 @@ declare enum MinecraftBlockTypes {
     RedNetherBrickStairs = "minecraft:red_nether_brick_stairs",
     RedSandstone = "minecraft:red_sandstone",
     RedSandstoneStairs = "minecraft:red_sandstone_stairs",
+    RedShulkerBox = "minecraft:red_shulker_box",
     RedWool = "minecraft:red_wool",
     RedstoneBlock = "minecraft:redstone_block",
     RedstoneLamp = "minecraft:redstone_lamp",
@@ -676,7 +703,6 @@ declare enum MinecraftBlockTypes {
     SeaPickle = "minecraft:sea_pickle",
     Seagrass = "minecraft:seagrass",
     Shroomlight = "minecraft:shroomlight",
-    ShulkerBox = "minecraft:shulker_box",
     SilverGlazedTerracotta = "minecraft:silver_glazed_terracotta",
     Skull = "minecraft:skull",
     Slime = "minecraft:slime",
@@ -827,7 +853,9 @@ declare enum MinecraftBlockTypes {
     WhiteCandle = "minecraft:white_candle",
     WhiteCandleCake = "minecraft:white_candle_cake",
     WhiteCarpet = "minecraft:white_carpet",
+    WhiteConcrete = "minecraft:white_concrete",
     WhiteGlazedTerracotta = "minecraft:white_glazed_terracotta",
+    WhiteShulkerBox = "minecraft:white_shulker_box",
     WhiteWool = "minecraft:white_wool",
     WitherRose = "minecraft:wither_rose",
     Wood = "minecraft:wood",
@@ -838,18 +866,20 @@ declare enum MinecraftBlockTypes {
     YellowCandle = "minecraft:yellow_candle",
     YellowCandleCake = "minecraft:yellow_candle_cake",
     YellowCarpet = "minecraft:yellow_carpet",
+    YellowConcrete = "minecraft:yellow_concrete",
     YellowFlower = "minecraft:yellow_flower",
     YellowGlazedTerracotta = "minecraft:yellow_glazed_terracotta",
+    YellowShulkerBox = "minecraft:yellow_shulker_box",
     YellowWool = "minecraft:yellow_wool"
 }
 /**
  * Union type equivalent of the MinecraftBlockTypes enum.
  */
-declare type MinecraftBlockTypesUnion = keyof typeof MinecraftBlockTypes;
+type MinecraftBlockTypesUnion = keyof typeof MinecraftBlockTypes;
 /**
  * All supported states and their types for MinecraftBlockTypes
  */
-declare type BlockStateSuperset = {
+type BlockStateSuperset = {
     ['active']?: boolean;
     ['age']?: number;
     ['age_bit']?: boolean;
@@ -987,1943 +1017,1935 @@ declare type BlockStateSuperset = {
 /**
  * States specific to AcaciaButton
  */
-declare type AcaciaButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type AcaciaButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to AcaciaDoor
  */
-declare type AcaciaDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type AcaciaDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to AcaciaFenceGate
  */
-declare type AcaciaFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type AcaciaFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to AcaciaHangingSign
  */
-declare type AcaciaHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type AcaciaHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to AcaciaLog
  */
-declare type AcaciaLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type AcaciaLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to AcaciaPressurePlate
  */
-declare type AcaciaPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type AcaciaPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to AcaciaStairs
  */
-declare type AcaciaStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type AcaciaStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to AcaciaStandingSign
  */
-declare type AcaciaStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type AcaciaStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to AcaciaTrapdoor
  */
-declare type AcaciaTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type AcaciaTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to AcaciaWallSign
  */
-declare type AcaciaWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type AcaciaWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to ActivatorRail
  */
-declare type ActivatorRailStates = Pick<BlockStateSuperset, 'rail_data_bit' | 'rail_direction'>;
+type ActivatorRailStates = Pick<BlockStateSuperset, 'rail_data_bit' | 'rail_direction'>;
 /**
  * States specific to AmethystCluster
  */
-declare type AmethystClusterStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type AmethystClusterStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to AndesiteStairs
  */
-declare type AndesiteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type AndesiteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to Anvil
  */
-declare type AnvilStates = Pick<BlockStateSuperset, 'damage' | 'direction'>;
+type AnvilStates = Pick<BlockStateSuperset, 'damage' | 'direction'>;
 /**
  * States specific to AzaleaLeaves
  */
-declare type AzaleaLeavesStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
+type AzaleaLeavesStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
 /**
  * States specific to AzaleaLeavesFlowered
  */
-declare type AzaleaLeavesFloweredStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
+type AzaleaLeavesFloweredStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
 /**
  * States specific to Bamboo
  */
-declare type BambooStates = Pick<BlockStateSuperset, 'age_bit' | 'bamboo_leaf_size' | 'bamboo_stalk_thickness'>;
+type BambooStates = Pick<BlockStateSuperset, 'age_bit' | 'bamboo_leaf_size' | 'bamboo_stalk_thickness'>;
 /**
  * States specific to BambooBlock
  */
-declare type BambooBlockStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type BambooBlockStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to BambooButton
  */
-declare type BambooButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type BambooButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to BambooDoor
  */
-declare type BambooDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type BambooDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to BambooDoubleSlab
  */
-declare type BambooDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type BambooDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to BambooFenceGate
  */
-declare type BambooFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type BambooFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to BambooHangingSign
  */
-declare type BambooHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type BambooHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to BambooMosaicDoubleSlab
  */
-declare type BambooMosaicDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type BambooMosaicDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to BambooMosaicSlab
  */
-declare type BambooMosaicSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type BambooMosaicSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to BambooMosaicStairs
  */
-declare type BambooMosaicStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type BambooMosaicStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to BambooPressurePlate
  */
-declare type BambooPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type BambooPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to BambooSapling
  */
-declare type BambooSaplingStates = Pick<BlockStateSuperset, 'age_bit' | 'sapling_type'>;
+type BambooSaplingStates = Pick<BlockStateSuperset, 'age_bit' | 'sapling_type'>;
 /**
  * States specific to BambooSlab
  */
-declare type BambooSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type BambooSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to BambooStairs
  */
-declare type BambooStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type BambooStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to BambooStandingSign
  */
-declare type BambooStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type BambooStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to BambooTrapdoor
  */
-declare type BambooTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type BambooTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to BambooWallSign
  */
-declare type BambooWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type BambooWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to Barrel
  */
-declare type BarrelStates = Pick<BlockStateSuperset, 'facing_direction' | 'open_bit'>;
+type BarrelStates = Pick<BlockStateSuperset, 'facing_direction' | 'open_bit'>;
 /**
  * States specific to Basalt
  */
-declare type BasaltStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type BasaltStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to Bed
  */
-declare type BedStates = Pick<BlockStateSuperset, 'direction' | 'head_piece_bit' | 'occupied_bit'>;
+type BedStates = Pick<BlockStateSuperset, 'direction' | 'head_piece_bit' | 'occupied_bit'>;
 /**
  * States specific to Bedrock
  */
-declare type BedrockStates = Pick<BlockStateSuperset, 'infiniburn_bit'>;
+type BedrockStates = Pick<BlockStateSuperset, 'infiniburn_bit'>;
 /**
  * States specific to BeeNest
  */
-declare type BeeNestStates = Pick<BlockStateSuperset, 'direction' | 'honey_level'>;
+type BeeNestStates = Pick<BlockStateSuperset, 'direction' | 'honey_level'>;
 /**
  * States specific to Beehive
  */
-declare type BeehiveStates = Pick<BlockStateSuperset, 'direction' | 'honey_level'>;
+type BeehiveStates = Pick<BlockStateSuperset, 'direction' | 'honey_level'>;
 /**
  * States specific to Beetroot
  */
-declare type BeetrootStates = Pick<BlockStateSuperset, 'growth'>;
+type BeetrootStates = Pick<BlockStateSuperset, 'growth'>;
 /**
  * States specific to Bell
  */
-declare type BellStates = Pick<BlockStateSuperset, 'attachment' | 'direction' | 'toggle_bit'>;
+type BellStates = Pick<BlockStateSuperset, 'attachment' | 'direction' | 'toggle_bit'>;
 /**
  * States specific to BigDripleaf
  */
-declare type BigDripleafStates = Pick<BlockStateSuperset, 'big_dripleaf_head' | 'big_dripleaf_tilt' | 'direction'>;
+type BigDripleafStates = Pick<BlockStateSuperset, 'big_dripleaf_head' | 'big_dripleaf_tilt' | 'direction'>;
 /**
  * States specific to BirchButton
  */
-declare type BirchButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type BirchButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to BirchDoor
  */
-declare type BirchDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type BirchDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to BirchFenceGate
  */
-declare type BirchFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type BirchFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to BirchHangingSign
  */
-declare type BirchHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type BirchHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to BirchLog
  */
-declare type BirchLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type BirchLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to BirchPressurePlate
  */
-declare type BirchPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type BirchPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to BirchStairs
  */
-declare type BirchStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type BirchStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to BirchStandingSign
  */
-declare type BirchStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type BirchStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to BirchTrapdoor
  */
-declare type BirchTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type BirchTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to BirchWallSign
  */
-declare type BirchWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type BirchWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to BlackCandle
  */
-declare type BlackCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type BlackCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to BlackCandleCake
  */
-declare type BlackCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type BlackCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to BlackGlazedTerracotta
  */
-declare type BlackGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type BlackGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to BlackstoneDoubleSlab
  */
-declare type BlackstoneDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type BlackstoneDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to BlackstoneSlab
  */
-declare type BlackstoneSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type BlackstoneSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to BlackstoneStairs
  */
-declare type BlackstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type BlackstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to BlackstoneWall
  */
-declare type BlackstoneWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+type BlackstoneWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
  * States specific to BlastFurnace
  */
-declare type BlastFurnaceStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type BlastFurnaceStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to BlueCandle
  */
-declare type BlueCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type BlueCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to BlueCandleCake
  */
-declare type BlueCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type BlueCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to BlueGlazedTerracotta
  */
-declare type BlueGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type BlueGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to BoneBlock
  */
-declare type BoneBlockStates = Pick<BlockStateSuperset, 'deprecated' | 'pillar_axis'>;
+type BoneBlockStates = Pick<BlockStateSuperset, 'deprecated' | 'pillar_axis'>;
 /**
  * States specific to BorderBlock
  */
-declare type BorderBlockStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+type BorderBlockStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
  * States specific to BrewingStand
  */
-declare type BrewingStandStates = Pick<BlockStateSuperset, 'brewing_stand_slot_a_bit' | 'brewing_stand_slot_b_bit' | 'brewing_stand_slot_c_bit'>;
+type BrewingStandStates = Pick<BlockStateSuperset, 'brewing_stand_slot_a_bit' | 'brewing_stand_slot_b_bit' | 'brewing_stand_slot_c_bit'>;
 /**
  * States specific to BrickStairs
  */
-declare type BrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type BrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to BrownCandle
  */
-declare type BrownCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type BrownCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to BrownCandleCake
  */
-declare type BrownCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type BrownCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to BrownGlazedTerracotta
  */
-declare type BrownGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type BrownGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to BrownMushroomBlock
  */
-declare type BrownMushroomBlockStates = Pick<BlockStateSuperset, 'huge_mushroom_bits'>;
+type BrownMushroomBlockStates = Pick<BlockStateSuperset, 'huge_mushroom_bits'>;
 /**
  * States specific to BubbleColumn
  */
-declare type BubbleColumnStates = Pick<BlockStateSuperset, 'drag_down'>;
+type BubbleColumnStates = Pick<BlockStateSuperset, 'drag_down'>;
 /**
  * States specific to Cactus
  */
-declare type CactusStates = Pick<BlockStateSuperset, 'age'>;
+type CactusStates = Pick<BlockStateSuperset, 'age'>;
 /**
  * States specific to Cake
  */
-declare type CakeStates = Pick<BlockStateSuperset, 'bite_counter'>;
+type CakeStates = Pick<BlockStateSuperset, 'bite_counter'>;
 /**
  * States specific to CalibratedSculkSensor
  */
-declare type CalibratedSculkSensorStates = Pick<BlockStateSuperset, 'direction' | 'sculk_sensor_phase'>;
+type CalibratedSculkSensorStates = Pick<BlockStateSuperset, 'direction' | 'sculk_sensor_phase'>;
 /**
  * States specific to Campfire
  */
-declare type CampfireStates = Pick<BlockStateSuperset, 'direction' | 'extinguished'>;
+type CampfireStates = Pick<BlockStateSuperset, 'direction' | 'extinguished'>;
 /**
  * States specific to Candle
  */
-declare type CandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type CandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to CandleCake
  */
-declare type CandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type CandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to Carrots
  */
-declare type CarrotsStates = Pick<BlockStateSuperset, 'growth'>;
+type CarrotsStates = Pick<BlockStateSuperset, 'growth'>;
 /**
  * States specific to CarvedPumpkin
  */
-declare type CarvedPumpkinStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
+type CarvedPumpkinStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
 /**
  * States specific to Cauldron
  */
-declare type CauldronStates = Pick<BlockStateSuperset, 'cauldron_liquid' | 'fill_level'>;
+type CauldronStates = Pick<BlockStateSuperset, 'cauldron_liquid' | 'fill_level'>;
 /**
  * States specific to CaveVines
  */
-declare type CaveVinesStates = Pick<BlockStateSuperset, 'growing_plant_age'>;
+type CaveVinesStates = Pick<BlockStateSuperset, 'growing_plant_age'>;
 /**
  * States specific to CaveVinesBodyWithBerries
  */
-declare type CaveVinesBodyWithBerriesStates = Pick<BlockStateSuperset, 'growing_plant_age'>;
+type CaveVinesBodyWithBerriesStates = Pick<BlockStateSuperset, 'growing_plant_age'>;
 /**
  * States specific to CaveVinesHeadWithBerries
  */
-declare type CaveVinesHeadWithBerriesStates = Pick<BlockStateSuperset, 'growing_plant_age'>;
+type CaveVinesHeadWithBerriesStates = Pick<BlockStateSuperset, 'growing_plant_age'>;
 /**
  * States specific to Chain
  */
-declare type ChainStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type ChainStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to ChainCommandBlock
  */
-declare type ChainCommandBlockStates = Pick<BlockStateSuperset, 'conditional_bit' | 'facing_direction'>;
+type ChainCommandBlockStates = Pick<BlockStateSuperset, 'conditional_bit' | 'facing_direction'>;
 /**
  * States specific to ChemistryTable
  */
-declare type ChemistryTableStates = Pick<BlockStateSuperset, 'chemistry_table_type' | 'direction'>;
+type ChemistryTableStates = Pick<BlockStateSuperset, 'chemistry_table_type' | 'direction'>;
 /**
  * States specific to CherryButton
  */
-declare type CherryButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type CherryButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to CherryDoor
  */
-declare type CherryDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type CherryDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to CherryDoubleSlab
  */
-declare type CherryDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type CherryDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to CherryFenceGate
  */
-declare type CherryFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type CherryFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to CherryHangingSign
  */
-declare type CherryHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type CherryHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to CherryLeaves
  */
-declare type CherryLeavesStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
+type CherryLeavesStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
 /**
  * States specific to CherryLog
  */
-declare type CherryLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type CherryLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to CherryPressurePlate
  */
-declare type CherryPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type CherryPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to CherrySapling
  */
-declare type CherrySaplingStates = Pick<BlockStateSuperset, 'age_bit'>;
+type CherrySaplingStates = Pick<BlockStateSuperset, 'age_bit'>;
 /**
  * States specific to CherrySlab
  */
-declare type CherrySlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type CherrySlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to CherryStairs
  */
-declare type CherryStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type CherryStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to CherryStandingSign
  */
-declare type CherryStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type CherryStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to CherryTrapdoor
  */
-declare type CherryTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type CherryTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to CherryWallSign
  */
-declare type CherryWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type CherryWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to CherryWood
  */
-declare type CherryWoodStates = Pick<BlockStateSuperset, 'pillar_axis' | 'stripped_bit'>;
+type CherryWoodStates = Pick<BlockStateSuperset, 'pillar_axis' | 'stripped_bit'>;
 /**
  * States specific to Chest
  */
-declare type ChestStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type ChestStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to ChiseledBookshelf
  */
-declare type ChiseledBookshelfStates = Pick<BlockStateSuperset, 'books_stored' | 'direction'>;
+type ChiseledBookshelfStates = Pick<BlockStateSuperset, 'books_stored' | 'direction'>;
 /**
  * States specific to ChorusFlower
  */
-declare type ChorusFlowerStates = Pick<BlockStateSuperset, 'age'>;
+type ChorusFlowerStates = Pick<BlockStateSuperset, 'age'>;
 /**
  * States specific to CobbledDeepslateDoubleSlab
  */
-declare type CobbledDeepslateDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type CobbledDeepslateDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to CobbledDeepslateSlab
  */
-declare type CobbledDeepslateSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type CobbledDeepslateSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to CobbledDeepslateStairs
  */
-declare type CobbledDeepslateStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type CobbledDeepslateStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to CobbledDeepslateWall
  */
-declare type CobbledDeepslateWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+type CobbledDeepslateWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
  * States specific to CobblestoneWall
  */
-declare type CobblestoneWallStates = Pick<BlockStateSuperset, 'wall_block_type' | 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+type CobblestoneWallStates = Pick<BlockStateSuperset, 'wall_block_type' | 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
  * States specific to Cocoa
  */
-declare type CocoaStates = Pick<BlockStateSuperset, 'age' | 'direction'>;
+type CocoaStates = Pick<BlockStateSuperset, 'age' | 'direction'>;
 /**
  * States specific to ColoredTorchBp
  */
-declare type ColoredTorchBpStates = Pick<BlockStateSuperset, 'color_bit' | 'torch_facing_direction'>;
+type ColoredTorchBpStates = Pick<BlockStateSuperset, 'color_bit' | 'torch_facing_direction'>;
 /**
  * States specific to ColoredTorchRg
  */
-declare type ColoredTorchRgStates = Pick<BlockStateSuperset, 'color_bit' | 'torch_facing_direction'>;
+type ColoredTorchRgStates = Pick<BlockStateSuperset, 'color_bit' | 'torch_facing_direction'>;
 /**
  * States specific to CommandBlock
  */
-declare type CommandBlockStates = Pick<BlockStateSuperset, 'conditional_bit' | 'facing_direction'>;
+type CommandBlockStates = Pick<BlockStateSuperset, 'conditional_bit' | 'facing_direction'>;
 /**
  * States specific to Composter
  */
-declare type ComposterStates = Pick<BlockStateSuperset, 'composter_fill_level'>;
-/**
- * States specific to Concrete
- */
-declare type ConcreteStates = Pick<BlockStateSuperset, 'color'>;
+type ComposterStates = Pick<BlockStateSuperset, 'composter_fill_level'>;
 /**
  * States specific to ConcretePowder
  */
-declare type ConcretePowderStates = Pick<BlockStateSuperset, 'color'>;
+type ConcretePowderStates = Pick<BlockStateSuperset, 'color'>;
 /**
  * States specific to CoralBlock
  */
-declare type CoralBlockStates = Pick<BlockStateSuperset, 'coral_color' | 'dead_bit'>;
+type CoralBlockStates = Pick<BlockStateSuperset, 'coral_color' | 'dead_bit'>;
 /**
  * States specific to CoralFan
  */
-declare type CoralFanStates = Pick<BlockStateSuperset, 'coral_color' | 'coral_fan_direction'>;
+type CoralFanStates = Pick<BlockStateSuperset, 'coral_color' | 'coral_fan_direction'>;
 /**
  * States specific to CoralFanDead
  */
-declare type CoralFanDeadStates = Pick<BlockStateSuperset, 'coral_color' | 'coral_fan_direction'>;
+type CoralFanDeadStates = Pick<BlockStateSuperset, 'coral_color' | 'coral_fan_direction'>;
 /**
  * States specific to CoralFanHang
  */
-declare type CoralFanHangStates = Pick<BlockStateSuperset, 'coral_direction' | 'coral_hang_type_bit' | 'dead_bit'>;
+type CoralFanHangStates = Pick<BlockStateSuperset, 'coral_direction' | 'coral_hang_type_bit' | 'dead_bit'>;
 /**
  * States specific to CoralFanHang2
  */
-declare type CoralFanHang2States = Pick<BlockStateSuperset, 'coral_direction' | 'coral_hang_type_bit' | 'dead_bit'>;
+type CoralFanHang2States = Pick<BlockStateSuperset, 'coral_direction' | 'coral_hang_type_bit' | 'dead_bit'>;
 /**
  * States specific to CoralFanHang3
  */
-declare type CoralFanHang3States = Pick<BlockStateSuperset, 'coral_direction' | 'coral_hang_type_bit' | 'dead_bit'>;
+type CoralFanHang3States = Pick<BlockStateSuperset, 'coral_direction' | 'coral_hang_type_bit' | 'dead_bit'>;
 /**
  * States specific to CrimsonButton
  */
-declare type CrimsonButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type CrimsonButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to CrimsonDoor
  */
-declare type CrimsonDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type CrimsonDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to CrimsonDoubleSlab
  */
-declare type CrimsonDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type CrimsonDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to CrimsonFenceGate
  */
-declare type CrimsonFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type CrimsonFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to CrimsonHangingSign
  */
-declare type CrimsonHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type CrimsonHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to CrimsonHyphae
  */
-declare type CrimsonHyphaeStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type CrimsonHyphaeStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to CrimsonPressurePlate
  */
-declare type CrimsonPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type CrimsonPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to CrimsonSlab
  */
-declare type CrimsonSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type CrimsonSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to CrimsonStairs
  */
-declare type CrimsonStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type CrimsonStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to CrimsonStandingSign
  */
-declare type CrimsonStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type CrimsonStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to CrimsonStem
  */
-declare type CrimsonStemStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type CrimsonStemStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to CrimsonTrapdoor
  */
-declare type CrimsonTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type CrimsonTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to CrimsonWallSign
  */
-declare type CrimsonWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type CrimsonWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to CutCopperSlab
  */
-declare type CutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type CutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to CutCopperStairs
  */
-declare type CutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type CutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to CyanCandle
  */
-declare type CyanCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type CyanCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to CyanCandleCake
  */
-declare type CyanCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type CyanCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to CyanGlazedTerracotta
  */
-declare type CyanGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type CyanGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to DarkOakButton
  */
-declare type DarkOakButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type DarkOakButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to DarkOakDoor
  */
-declare type DarkOakDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type DarkOakDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to DarkOakFenceGate
  */
-declare type DarkOakFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type DarkOakFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to DarkOakHangingSign
  */
-declare type DarkOakHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type DarkOakHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to DarkOakLog
  */
-declare type DarkOakLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type DarkOakLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to DarkOakPressurePlate
  */
-declare type DarkOakPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type DarkOakPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to DarkOakStairs
  */
-declare type DarkOakStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type DarkOakStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to DarkOakTrapdoor
  */
-declare type DarkOakTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type DarkOakTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to DarkPrismarineStairs
  */
-declare type DarkPrismarineStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type DarkPrismarineStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to DarkoakStandingSign
  */
-declare type DarkoakStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type DarkoakStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to DarkoakWallSign
  */
-declare type DarkoakWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type DarkoakWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to DaylightDetector
  */
-declare type DaylightDetectorStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type DaylightDetectorStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to DaylightDetectorInverted
  */
-declare type DaylightDetectorInvertedStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type DaylightDetectorInvertedStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to DecoratedPot
  */
-declare type DecoratedPotStates = Pick<BlockStateSuperset, 'direction'>;
+type DecoratedPotStates = Pick<BlockStateSuperset, 'direction'>;
 /**
  * States specific to Deepslate
  */
-declare type DeepslateStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type DeepslateStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to DeepslateBrickDoubleSlab
  */
-declare type DeepslateBrickDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type DeepslateBrickDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to DeepslateBrickSlab
  */
-declare type DeepslateBrickSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type DeepslateBrickSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to DeepslateBrickStairs
  */
-declare type DeepslateBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type DeepslateBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to DeepslateBrickWall
  */
-declare type DeepslateBrickWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+type DeepslateBrickWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
  * States specific to DeepslateTileDoubleSlab
  */
-declare type DeepslateTileDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type DeepslateTileDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to DeepslateTileSlab
  */
-declare type DeepslateTileSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type DeepslateTileSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to DeepslateTileStairs
  */
-declare type DeepslateTileStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type DeepslateTileStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to DeepslateTileWall
  */
-declare type DeepslateTileWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+type DeepslateTileWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
  * States specific to DetectorRail
  */
-declare type DetectorRailStates = Pick<BlockStateSuperset, 'rail_data_bit' | 'rail_direction'>;
+type DetectorRailStates = Pick<BlockStateSuperset, 'rail_data_bit' | 'rail_direction'>;
 /**
  * States specific to DioriteStairs
  */
-declare type DioriteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type DioriteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to Dirt
  */
-declare type DirtStates = Pick<BlockStateSuperset, 'dirt_type'>;
+type DirtStates = Pick<BlockStateSuperset, 'dirt_type'>;
 /**
  * States specific to Dispenser
  */
-declare type DispenserStates = Pick<BlockStateSuperset, 'facing_direction' | 'triggered_bit'>;
+type DispenserStates = Pick<BlockStateSuperset, 'facing_direction' | 'triggered_bit'>;
 /**
  * States specific to DoubleCutCopperSlab
  */
-declare type DoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type DoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to DoublePlant
  */
-declare type DoublePlantStates = Pick<BlockStateSuperset, 'double_plant_type' | 'upper_block_bit'>;
+type DoublePlantStates = Pick<BlockStateSuperset, 'double_plant_type' | 'upper_block_bit'>;
 /**
  * States specific to DoubleStoneBlockSlab
  */
-declare type DoubleStoneBlockSlabStates = Pick<BlockStateSuperset, 'stone_slab_type' | 'top_slot_bit'>;
+type DoubleStoneBlockSlabStates = Pick<BlockStateSuperset, 'stone_slab_type' | 'top_slot_bit'>;
 /**
  * States specific to DoubleStoneBlockSlab2
  */
-declare type DoubleStoneBlockSlab2States = Pick<BlockStateSuperset, 'stone_slab_type_2' | 'top_slot_bit'>;
+type DoubleStoneBlockSlab2States = Pick<BlockStateSuperset, 'stone_slab_type_2' | 'top_slot_bit'>;
 /**
  * States specific to DoubleStoneBlockSlab3
  */
-declare type DoubleStoneBlockSlab3States = Pick<BlockStateSuperset, 'stone_slab_type_3' | 'top_slot_bit'>;
+type DoubleStoneBlockSlab3States = Pick<BlockStateSuperset, 'stone_slab_type_3' | 'top_slot_bit'>;
 /**
  * States specific to DoubleStoneBlockSlab4
  */
-declare type DoubleStoneBlockSlab4States = Pick<BlockStateSuperset, 'stone_slab_type_4' | 'top_slot_bit'>;
+type DoubleStoneBlockSlab4States = Pick<BlockStateSuperset, 'stone_slab_type_4' | 'top_slot_bit'>;
 /**
  * States specific to DoubleWoodenSlab
  */
-declare type DoubleWoodenSlabStates = Pick<BlockStateSuperset, 'top_slot_bit' | 'wood_type'>;
+type DoubleWoodenSlabStates = Pick<BlockStateSuperset, 'top_slot_bit' | 'wood_type'>;
 /**
  * States specific to Dropper
  */
-declare type DropperStates = Pick<BlockStateSuperset, 'facing_direction' | 'triggered_bit'>;
+type DropperStates = Pick<BlockStateSuperset, 'facing_direction' | 'triggered_bit'>;
 /**
  * States specific to EndBrickStairs
  */
-declare type EndBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type EndBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to EndPortalFrame
  */
-declare type EndPortalFrameStates = Pick<BlockStateSuperset, 'direction' | 'end_portal_eye_bit'>;
+type EndPortalFrameStates = Pick<BlockStateSuperset, 'direction' | 'end_portal_eye_bit'>;
 /**
  * States specific to EndRod
  */
-declare type EndRodStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type EndRodStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to EnderChest
  */
-declare type EnderChestStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type EnderChestStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to ExposedCutCopperSlab
  */
-declare type ExposedCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type ExposedCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to ExposedCutCopperStairs
  */
-declare type ExposedCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type ExposedCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to ExposedDoubleCutCopperSlab
  */
-declare type ExposedDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type ExposedDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to Farmland
  */
-declare type FarmlandStates = Pick<BlockStateSuperset, 'moisturized_amount'>;
+type FarmlandStates = Pick<BlockStateSuperset, 'moisturized_amount'>;
 /**
  * States specific to FenceGate
  */
-declare type FenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type FenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to Fire
  */
-declare type FireStates = Pick<BlockStateSuperset, 'age'>;
+type FireStates = Pick<BlockStateSuperset, 'age'>;
 /**
  * States specific to FlowerPot
  */
-declare type FlowerPotStates = Pick<BlockStateSuperset, 'update_bit'>;
+type FlowerPotStates = Pick<BlockStateSuperset, 'update_bit'>;
 /**
  * States specific to FlowingLava
  */
-declare type FlowingLavaStates = Pick<BlockStateSuperset, 'liquid_depth'>;
+type FlowingLavaStates = Pick<BlockStateSuperset, 'liquid_depth'>;
 /**
  * States specific to FlowingWater
  */
-declare type FlowingWaterStates = Pick<BlockStateSuperset, 'liquid_depth'>;
+type FlowingWaterStates = Pick<BlockStateSuperset, 'liquid_depth'>;
 /**
  * States specific to Frame
  */
-declare type FrameStates = Pick<BlockStateSuperset, 'facing_direction' | 'item_frame_map_bit' | 'item_frame_photo_bit'>;
+type FrameStates = Pick<BlockStateSuperset, 'facing_direction' | 'item_frame_map_bit' | 'item_frame_photo_bit'>;
 /**
  * States specific to FrostedIce
  */
-declare type FrostedIceStates = Pick<BlockStateSuperset, 'age'>;
+type FrostedIceStates = Pick<BlockStateSuperset, 'age'>;
 /**
  * States specific to Furnace
  */
-declare type FurnaceStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type FurnaceStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to GlowFrame
  */
-declare type GlowFrameStates = Pick<BlockStateSuperset, 'facing_direction' | 'item_frame_map_bit' | 'item_frame_photo_bit'>;
+type GlowFrameStates = Pick<BlockStateSuperset, 'facing_direction' | 'item_frame_map_bit' | 'item_frame_photo_bit'>;
 /**
  * States specific to GlowLichen
  */
-declare type GlowLichenStates = Pick<BlockStateSuperset, 'multi_face_direction_bits'>;
+type GlowLichenStates = Pick<BlockStateSuperset, 'multi_face_direction_bits'>;
 /**
  * States specific to GoldenRail
  */
-declare type GoldenRailStates = Pick<BlockStateSuperset, 'rail_data_bit' | 'rail_direction'>;
+type GoldenRailStates = Pick<BlockStateSuperset, 'rail_data_bit' | 'rail_direction'>;
 /**
  * States specific to GraniteStairs
  */
-declare type GraniteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type GraniteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to GrayCandle
  */
-declare type GrayCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type GrayCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to GrayCandleCake
  */
-declare type GrayCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type GrayCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to GrayGlazedTerracotta
  */
-declare type GrayGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type GrayGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to GreenCandle
  */
-declare type GreenCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type GreenCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to GreenCandleCake
  */
-declare type GreenCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type GreenCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to GreenGlazedTerracotta
  */
-declare type GreenGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type GreenGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to Grindstone
  */
-declare type GrindstoneStates = Pick<BlockStateSuperset, 'attachment' | 'direction'>;
+type GrindstoneStates = Pick<BlockStateSuperset, 'attachment' | 'direction'>;
 /**
  * States specific to HardStainedGlass
  */
-declare type HardStainedGlassStates = Pick<BlockStateSuperset, 'color'>;
+type HardStainedGlassStates = Pick<BlockStateSuperset, 'color'>;
 /**
  * States specific to HardStainedGlassPane
  */
-declare type HardStainedGlassPaneStates = Pick<BlockStateSuperset, 'color'>;
+type HardStainedGlassPaneStates = Pick<BlockStateSuperset, 'color'>;
 /**
  * States specific to HayBlock
  */
-declare type HayBlockStates = Pick<BlockStateSuperset, 'deprecated' | 'pillar_axis'>;
+type HayBlockStates = Pick<BlockStateSuperset, 'deprecated' | 'pillar_axis'>;
 /**
  * States specific to HeavyWeightedPressurePlate
  */
-declare type HeavyWeightedPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type HeavyWeightedPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to Hopper
  */
-declare type HopperStates = Pick<BlockStateSuperset, 'facing_direction' | 'toggle_bit'>;
+type HopperStates = Pick<BlockStateSuperset, 'facing_direction' | 'toggle_bit'>;
 /**
  * States specific to InfestedDeepslate
  */
-declare type InfestedDeepslateStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type InfestedDeepslateStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to IronDoor
  */
-declare type IronDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type IronDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to IronTrapdoor
  */
-declare type IronTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type IronTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to Jigsaw
  */
-declare type JigsawStates = Pick<BlockStateSuperset, 'facing_direction' | 'rotation'>;
+type JigsawStates = Pick<BlockStateSuperset, 'facing_direction' | 'rotation'>;
 /**
  * States specific to JungleButton
  */
-declare type JungleButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type JungleButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to JungleDoor
  */
-declare type JungleDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type JungleDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to JungleFenceGate
  */
-declare type JungleFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type JungleFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to JungleHangingSign
  */
-declare type JungleHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type JungleHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to JungleLog
  */
-declare type JungleLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type JungleLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to JunglePressurePlate
  */
-declare type JunglePressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type JunglePressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to JungleStairs
  */
-declare type JungleStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type JungleStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to JungleStandingSign
  */
-declare type JungleStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type JungleStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to JungleTrapdoor
  */
-declare type JungleTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type JungleTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to JungleWallSign
  */
-declare type JungleWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type JungleWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to Kelp
  */
-declare type KelpStates = Pick<BlockStateSuperset, 'kelp_age'>;
+type KelpStates = Pick<BlockStateSuperset, 'kelp_age'>;
 /**
  * States specific to Ladder
  */
-declare type LadderStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type LadderStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to Lantern
  */
-declare type LanternStates = Pick<BlockStateSuperset, 'hanging'>;
+type LanternStates = Pick<BlockStateSuperset, 'hanging'>;
 /**
  * States specific to LargeAmethystBud
  */
-declare type LargeAmethystBudStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type LargeAmethystBudStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to Lava
  */
-declare type LavaStates = Pick<BlockStateSuperset, 'liquid_depth'>;
+type LavaStates = Pick<BlockStateSuperset, 'liquid_depth'>;
 /**
  * States specific to Leaves
  */
-declare type LeavesStates = Pick<BlockStateSuperset, 'old_leaf_type' | 'persistent_bit' | 'update_bit'>;
+type LeavesStates = Pick<BlockStateSuperset, 'old_leaf_type' | 'persistent_bit' | 'update_bit'>;
 /**
  * States specific to Leaves2
  */
-declare type Leaves2States = Pick<BlockStateSuperset, 'new_leaf_type' | 'persistent_bit' | 'update_bit'>;
+type Leaves2States = Pick<BlockStateSuperset, 'new_leaf_type' | 'persistent_bit' | 'update_bit'>;
 /**
  * States specific to Lectern
  */
-declare type LecternStates = Pick<BlockStateSuperset, 'direction' | 'powered_bit'>;
+type LecternStates = Pick<BlockStateSuperset, 'direction' | 'powered_bit'>;
 /**
  * States specific to Lever
  */
-declare type LeverStates = Pick<BlockStateSuperset, 'lever_direction' | 'open_bit'>;
+type LeverStates = Pick<BlockStateSuperset, 'lever_direction' | 'open_bit'>;
 /**
  * States specific to LightBlock
  */
-declare type LightBlockStates = Pick<BlockStateSuperset, 'block_light_level'>;
+type LightBlockStates = Pick<BlockStateSuperset, 'block_light_level'>;
 /**
  * States specific to LightBlueCandle
  */
-declare type LightBlueCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type LightBlueCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to LightBlueCandleCake
  */
-declare type LightBlueCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type LightBlueCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to LightBlueGlazedTerracotta
  */
-declare type LightBlueGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type LightBlueGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to LightGrayCandle
  */
-declare type LightGrayCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type LightGrayCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to LightGrayCandleCake
  */
-declare type LightGrayCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type LightGrayCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to LightWeightedPressurePlate
  */
-declare type LightWeightedPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type LightWeightedPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to LightningRod
  */
-declare type LightningRodStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type LightningRodStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to LimeCandle
  */
-declare type LimeCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type LimeCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to LimeCandleCake
  */
-declare type LimeCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type LimeCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to LimeGlazedTerracotta
  */
-declare type LimeGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type LimeGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to LitBlastFurnace
  */
-declare type LitBlastFurnaceStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type LitBlastFurnaceStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to LitFurnace
  */
-declare type LitFurnaceStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type LitFurnaceStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to LitPumpkin
  */
-declare type LitPumpkinStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
+type LitPumpkinStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
 /**
  * States specific to LitSmoker
  */
-declare type LitSmokerStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type LitSmokerStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to Loom
  */
-declare type LoomStates = Pick<BlockStateSuperset, 'direction'>;
+type LoomStates = Pick<BlockStateSuperset, 'direction'>;
 /**
  * States specific to MagentaCandle
  */
-declare type MagentaCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type MagentaCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to MagentaCandleCake
  */
-declare type MagentaCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type MagentaCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to MagentaGlazedTerracotta
  */
-declare type MagentaGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type MagentaGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to MangroveButton
  */
-declare type MangroveButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type MangroveButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to MangroveDoor
  */
-declare type MangroveDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type MangroveDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to MangroveDoubleSlab
  */
-declare type MangroveDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type MangroveDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to MangroveFenceGate
  */
-declare type MangroveFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type MangroveFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to MangroveHangingSign
  */
-declare type MangroveHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type MangroveHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to MangroveLeaves
  */
-declare type MangroveLeavesStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
+type MangroveLeavesStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
 /**
  * States specific to MangroveLog
  */
-declare type MangroveLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type MangroveLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to MangrovePressurePlate
  */
-declare type MangrovePressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type MangrovePressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to MangrovePropagule
  */
-declare type MangrovePropaguleStates = Pick<BlockStateSuperset, 'hanging' | 'propagule_stage'>;
+type MangrovePropaguleStates = Pick<BlockStateSuperset, 'hanging' | 'propagule_stage'>;
 /**
  * States specific to MangroveSlab
  */
-declare type MangroveSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type MangroveSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to MangroveStairs
  */
-declare type MangroveStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type MangroveStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to MangroveStandingSign
  */
-declare type MangroveStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type MangroveStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to MangroveTrapdoor
  */
-declare type MangroveTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type MangroveTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to MangroveWallSign
  */
-declare type MangroveWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type MangroveWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to MangroveWood
  */
-declare type MangroveWoodStates = Pick<BlockStateSuperset, 'pillar_axis' | 'stripped_bit'>;
+type MangroveWoodStates = Pick<BlockStateSuperset, 'pillar_axis' | 'stripped_bit'>;
 /**
  * States specific to MediumAmethystBud
  */
-declare type MediumAmethystBudStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type MediumAmethystBudStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to MelonStem
  */
-declare type MelonStemStates = Pick<BlockStateSuperset, 'facing_direction' | 'growth'>;
+type MelonStemStates = Pick<BlockStateSuperset, 'facing_direction' | 'growth'>;
 /**
  * States specific to MonsterEgg
  */
-declare type MonsterEggStates = Pick<BlockStateSuperset, 'monster_egg_stone_type'>;
+type MonsterEggStates = Pick<BlockStateSuperset, 'monster_egg_stone_type'>;
 /**
  * States specific to MossyCobblestoneStairs
  */
-declare type MossyCobblestoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type MossyCobblestoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to MossyStoneBrickStairs
  */
-declare type MossyStoneBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type MossyStoneBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to MudBrickDoubleSlab
  */
-declare type MudBrickDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type MudBrickDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to MudBrickSlab
  */
-declare type MudBrickSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type MudBrickSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to MudBrickStairs
  */
-declare type MudBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type MudBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to MudBrickWall
  */
-declare type MudBrickWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+type MudBrickWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
  * States specific to MuddyMangroveRoots
  */
-declare type MuddyMangroveRootsStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type MuddyMangroveRootsStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to NetherBrickStairs
  */
-declare type NetherBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type NetherBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to NetherWart
  */
-declare type NetherWartStates = Pick<BlockStateSuperset, 'age'>;
+type NetherWartStates = Pick<BlockStateSuperset, 'age'>;
 /**
  * States specific to NormalStoneStairs
  */
-declare type NormalStoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type NormalStoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to OakHangingSign
  */
-declare type OakHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type OakHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to OakLog
  */
-declare type OakLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type OakLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to OakStairs
  */
-declare type OakStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type OakStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to Observer
  */
-declare type ObserverStates = Pick<BlockStateSuperset, 'facing_direction' | 'powered_bit'>;
+type ObserverStates = Pick<BlockStateSuperset, 'minecraft:facing_direction' | 'powered_bit'>;
 /**
  * States specific to OchreFroglight
  */
-declare type OchreFroglightStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type OchreFroglightStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to OrangeCandle
  */
-declare type OrangeCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type OrangeCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to OrangeCandleCake
  */
-declare type OrangeCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type OrangeCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to OrangeGlazedTerracotta
  */
-declare type OrangeGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type OrangeGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to OxidizedCutCopperSlab
  */
-declare type OxidizedCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type OxidizedCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to OxidizedCutCopperStairs
  */
-declare type OxidizedCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type OxidizedCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to OxidizedDoubleCutCopperSlab
  */
-declare type OxidizedDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type OxidizedDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to PearlescentFroglight
  */
-declare type PearlescentFroglightStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type PearlescentFroglightStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to PinkCandle
  */
-declare type PinkCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type PinkCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to PinkCandleCake
  */
-declare type PinkCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type PinkCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to PinkGlazedTerracotta
  */
-declare type PinkGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type PinkGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to PinkPetals
  */
-declare type PinkPetalsStates = Pick<BlockStateSuperset, 'direction' | 'growth'>;
+type PinkPetalsStates = Pick<BlockStateSuperset, 'direction' | 'growth'>;
 /**
  * States specific to Piston
  */
-declare type PistonStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type PistonStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to PistonArmCollision
  */
-declare type PistonArmCollisionStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type PistonArmCollisionStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to PitcherCrop
  */
-declare type PitcherCropStates = Pick<BlockStateSuperset, 'growth' | 'upper_block_bit'>;
+type PitcherCropStates = Pick<BlockStateSuperset, 'growth' | 'upper_block_bit'>;
 /**
  * States specific to PitcherPlant
  */
-declare type PitcherPlantStates = Pick<BlockStateSuperset, 'upper_block_bit'>;
+type PitcherPlantStates = Pick<BlockStateSuperset, 'upper_block_bit'>;
 /**
  * States specific to Planks
  */
-declare type PlanksStates = Pick<BlockStateSuperset, 'wood_type'>;
+type PlanksStates = Pick<BlockStateSuperset, 'wood_type'>;
 /**
  * States specific to PointedDripstone
  */
-declare type PointedDripstoneStates = Pick<BlockStateSuperset, 'dripstone_thickness' | 'hanging'>;
+type PointedDripstoneStates = Pick<BlockStateSuperset, 'dripstone_thickness' | 'hanging'>;
 /**
  * States specific to PolishedAndesiteStairs
  */
-declare type PolishedAndesiteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type PolishedAndesiteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to PolishedBasalt
  */
-declare type PolishedBasaltStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type PolishedBasaltStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to PolishedBlackstoneBrickDoubleSlab
  */
-declare type PolishedBlackstoneBrickDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type PolishedBlackstoneBrickDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to PolishedBlackstoneBrickSlab
  */
-declare type PolishedBlackstoneBrickSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type PolishedBlackstoneBrickSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to PolishedBlackstoneBrickStairs
  */
-declare type PolishedBlackstoneBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type PolishedBlackstoneBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to PolishedBlackstoneBrickWall
  */
-declare type PolishedBlackstoneBrickWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+type PolishedBlackstoneBrickWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
  * States specific to PolishedBlackstoneButton
  */
-declare type PolishedBlackstoneButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type PolishedBlackstoneButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to PolishedBlackstoneDoubleSlab
  */
-declare type PolishedBlackstoneDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type PolishedBlackstoneDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to PolishedBlackstonePressurePlate
  */
-declare type PolishedBlackstonePressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type PolishedBlackstonePressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to PolishedBlackstoneSlab
  */
-declare type PolishedBlackstoneSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type PolishedBlackstoneSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to PolishedBlackstoneStairs
  */
-declare type PolishedBlackstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type PolishedBlackstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to PolishedBlackstoneWall
  */
-declare type PolishedBlackstoneWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+type PolishedBlackstoneWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
  * States specific to PolishedDeepslateDoubleSlab
  */
-declare type PolishedDeepslateDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type PolishedDeepslateDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to PolishedDeepslateSlab
  */
-declare type PolishedDeepslateSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type PolishedDeepslateSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to PolishedDeepslateStairs
  */
-declare type PolishedDeepslateStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type PolishedDeepslateStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to PolishedDeepslateWall
  */
-declare type PolishedDeepslateWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+type PolishedDeepslateWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
  * States specific to PolishedDioriteStairs
  */
-declare type PolishedDioriteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type PolishedDioriteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to PolishedGraniteStairs
  */
-declare type PolishedGraniteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type PolishedGraniteStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to Portal
  */
-declare type PortalStates = Pick<BlockStateSuperset, 'portal_axis'>;
+type PortalStates = Pick<BlockStateSuperset, 'portal_axis'>;
 /**
  * States specific to Potatoes
  */
-declare type PotatoesStates = Pick<BlockStateSuperset, 'growth'>;
+type PotatoesStates = Pick<BlockStateSuperset, 'growth'>;
 /**
  * States specific to PoweredComparator
  */
-declare type PoweredComparatorStates = Pick<BlockStateSuperset, 'direction' | 'output_lit_bit' | 'output_subtract_bit'>;
+type PoweredComparatorStates = Pick<BlockStateSuperset, 'direction' | 'output_lit_bit' | 'output_subtract_bit'>;
 /**
  * States specific to PoweredRepeater
  */
-declare type PoweredRepeaterStates = Pick<BlockStateSuperset, 'direction' | 'repeater_delay'>;
+type PoweredRepeaterStates = Pick<BlockStateSuperset, 'direction' | 'repeater_delay'>;
 /**
  * States specific to Prismarine
  */
-declare type PrismarineStates = Pick<BlockStateSuperset, 'prismarine_block_type'>;
+type PrismarineStates = Pick<BlockStateSuperset, 'prismarine_block_type'>;
 /**
  * States specific to PrismarineBricksStairs
  */
-declare type PrismarineBricksStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type PrismarineBricksStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to PrismarineStairs
  */
-declare type PrismarineStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type PrismarineStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to Pumpkin
  */
-declare type PumpkinStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
+type PumpkinStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
 /**
  * States specific to PumpkinStem
  */
-declare type PumpkinStemStates = Pick<BlockStateSuperset, 'facing_direction' | 'growth'>;
+type PumpkinStemStates = Pick<BlockStateSuperset, 'facing_direction' | 'growth'>;
 /**
  * States specific to PurpleCandle
  */
-declare type PurpleCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type PurpleCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to PurpleCandleCake
  */
-declare type PurpleCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type PurpleCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to PurpleGlazedTerracotta
  */
-declare type PurpleGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type PurpleGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to PurpurBlock
  */
-declare type PurpurBlockStates = Pick<BlockStateSuperset, 'chisel_type' | 'pillar_axis'>;
+type PurpurBlockStates = Pick<BlockStateSuperset, 'chisel_type' | 'pillar_axis'>;
 /**
  * States specific to PurpurStairs
  */
-declare type PurpurStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type PurpurStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to QuartzBlock
  */
-declare type QuartzBlockStates = Pick<BlockStateSuperset, 'chisel_type' | 'pillar_axis'>;
+type QuartzBlockStates = Pick<BlockStateSuperset, 'chisel_type' | 'pillar_axis'>;
 /**
  * States specific to QuartzStairs
  */
-declare type QuartzStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type QuartzStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to Rail
  */
-declare type RailStates = Pick<BlockStateSuperset, 'rail_direction'>;
+type RailStates = Pick<BlockStateSuperset, 'rail_direction'>;
 /**
  * States specific to RedCandle
  */
-declare type RedCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type RedCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to RedCandleCake
  */
-declare type RedCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type RedCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to RedFlower
  */
-declare type RedFlowerStates = Pick<BlockStateSuperset, 'flower_type'>;
+type RedFlowerStates = Pick<BlockStateSuperset, 'flower_type'>;
 /**
  * States specific to RedGlazedTerracotta
  */
-declare type RedGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type RedGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to RedMushroomBlock
  */
-declare type RedMushroomBlockStates = Pick<BlockStateSuperset, 'huge_mushroom_bits'>;
+type RedMushroomBlockStates = Pick<BlockStateSuperset, 'huge_mushroom_bits'>;
 /**
  * States specific to RedNetherBrickStairs
  */
-declare type RedNetherBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type RedNetherBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to RedSandstone
  */
-declare type RedSandstoneStates = Pick<BlockStateSuperset, 'sand_stone_type'>;
+type RedSandstoneStates = Pick<BlockStateSuperset, 'sand_stone_type'>;
 /**
  * States specific to RedSandstoneStairs
  */
-declare type RedSandstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type RedSandstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to RedstoneTorch
  */
-declare type RedstoneTorchStates = Pick<BlockStateSuperset, 'torch_facing_direction'>;
+type RedstoneTorchStates = Pick<BlockStateSuperset, 'torch_facing_direction'>;
 /**
  * States specific to RedstoneWire
  */
-declare type RedstoneWireStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type RedstoneWireStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to Reeds
  */
-declare type ReedsStates = Pick<BlockStateSuperset, 'age'>;
+type ReedsStates = Pick<BlockStateSuperset, 'age'>;
 /**
  * States specific to RepeatingCommandBlock
  */
-declare type RepeatingCommandBlockStates = Pick<BlockStateSuperset, 'conditional_bit' | 'facing_direction'>;
+type RepeatingCommandBlockStates = Pick<BlockStateSuperset, 'conditional_bit' | 'facing_direction'>;
 /**
  * States specific to RespawnAnchor
  */
-declare type RespawnAnchorStates = Pick<BlockStateSuperset, 'respawn_anchor_charge'>;
+type RespawnAnchorStates = Pick<BlockStateSuperset, 'respawn_anchor_charge'>;
 /**
  * States specific to Sand
  */
-declare type SandStates = Pick<BlockStateSuperset, 'sand_type'>;
+type SandStates = Pick<BlockStateSuperset, 'sand_type'>;
 /**
  * States specific to Sandstone
  */
-declare type SandstoneStates = Pick<BlockStateSuperset, 'sand_stone_type'>;
+type SandstoneStates = Pick<BlockStateSuperset, 'sand_stone_type'>;
 /**
  * States specific to SandstoneStairs
  */
-declare type SandstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type SandstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to Sapling
  */
-declare type SaplingStates = Pick<BlockStateSuperset, 'age_bit' | 'sapling_type'>;
+type SaplingStates = Pick<BlockStateSuperset, 'age_bit' | 'sapling_type'>;
 /**
  * States specific to Scaffolding
  */
-declare type ScaffoldingStates = Pick<BlockStateSuperset, 'stability' | 'stability_check'>;
+type ScaffoldingStates = Pick<BlockStateSuperset, 'stability' | 'stability_check'>;
 /**
  * States specific to SculkCatalyst
  */
-declare type SculkCatalystStates = Pick<BlockStateSuperset, 'bloom'>;
+type SculkCatalystStates = Pick<BlockStateSuperset, 'bloom'>;
 /**
  * States specific to SculkSensor
  */
-declare type SculkSensorStates = Pick<BlockStateSuperset, 'sculk_sensor_phase'>;
+type SculkSensorStates = Pick<BlockStateSuperset, 'sculk_sensor_phase'>;
 /**
  * States specific to SculkShrieker
  */
-declare type SculkShriekerStates = Pick<BlockStateSuperset, 'active' | 'can_summon'>;
+type SculkShriekerStates = Pick<BlockStateSuperset, 'active' | 'can_summon'>;
 /**
  * States specific to SculkVein
  */
-declare type SculkVeinStates = Pick<BlockStateSuperset, 'multi_face_direction_bits'>;
+type SculkVeinStates = Pick<BlockStateSuperset, 'multi_face_direction_bits'>;
 /**
  * States specific to SeaPickle
  */
-declare type SeaPickleStates = Pick<BlockStateSuperset, 'cluster_count' | 'dead_bit'>;
+type SeaPickleStates = Pick<BlockStateSuperset, 'cluster_count' | 'dead_bit'>;
 /**
  * States specific to Seagrass
  */
-declare type SeagrassStates = Pick<BlockStateSuperset, 'sea_grass_type'>;
-/**
- * States specific to ShulkerBox
- */
-declare type ShulkerBoxStates = Pick<BlockStateSuperset, 'color'>;
+type SeagrassStates = Pick<BlockStateSuperset, 'sea_grass_type'>;
 /**
  * States specific to SilverGlazedTerracotta
  */
-declare type SilverGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type SilverGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to Skull
  */
-declare type SkullStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type SkullStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to SmallAmethystBud
  */
-declare type SmallAmethystBudStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type SmallAmethystBudStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to SmallDripleafBlock
  */
-declare type SmallDripleafBlockStates = Pick<BlockStateSuperset, 'direction' | 'upper_block_bit'>;
+type SmallDripleafBlockStates = Pick<BlockStateSuperset, 'direction' | 'upper_block_bit'>;
 /**
  * States specific to Smoker
  */
-declare type SmokerStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type SmokerStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to SmoothQuartzStairs
  */
-declare type SmoothQuartzStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type SmoothQuartzStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to SmoothRedSandstoneStairs
  */
-declare type SmoothRedSandstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type SmoothRedSandstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to SmoothSandstoneStairs
  */
-declare type SmoothSandstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type SmoothSandstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to SnifferEgg
  */
-declare type SnifferEggStates = Pick<BlockStateSuperset, 'cracked_state'>;
+type SnifferEggStates = Pick<BlockStateSuperset, 'cracked_state'>;
 /**
  * States specific to SnowLayer
  */
-declare type SnowLayerStates = Pick<BlockStateSuperset, 'covered_bit' | 'height'>;
+type SnowLayerStates = Pick<BlockStateSuperset, 'covered_bit' | 'height'>;
 /**
  * States specific to SoulCampfire
  */
-declare type SoulCampfireStates = Pick<BlockStateSuperset, 'direction' | 'extinguished'>;
+type SoulCampfireStates = Pick<BlockStateSuperset, 'direction' | 'extinguished'>;
 /**
  * States specific to SoulFire
  */
-declare type SoulFireStates = Pick<BlockStateSuperset, 'age'>;
+type SoulFireStates = Pick<BlockStateSuperset, 'age'>;
 /**
  * States specific to SoulLantern
  */
-declare type SoulLanternStates = Pick<BlockStateSuperset, 'hanging'>;
+type SoulLanternStates = Pick<BlockStateSuperset, 'hanging'>;
 /**
  * States specific to SoulTorch
  */
-declare type SoulTorchStates = Pick<BlockStateSuperset, 'torch_facing_direction'>;
+type SoulTorchStates = Pick<BlockStateSuperset, 'torch_facing_direction'>;
 /**
  * States specific to Sponge
  */
-declare type SpongeStates = Pick<BlockStateSuperset, 'sponge_type'>;
+type SpongeStates = Pick<BlockStateSuperset, 'sponge_type'>;
 /**
  * States specific to SpruceButton
  */
-declare type SpruceButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type SpruceButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to SpruceDoor
  */
-declare type SpruceDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type SpruceDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to SpruceFenceGate
  */
-declare type SpruceFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type SpruceFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to SpruceHangingSign
  */
-declare type SpruceHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type SpruceHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to SpruceLog
  */
-declare type SpruceLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type SpruceLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to SprucePressurePlate
  */
-declare type SprucePressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type SprucePressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to SpruceStairs
  */
-declare type SpruceStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type SpruceStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to SpruceStandingSign
  */
-declare type SpruceStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type SpruceStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to SpruceTrapdoor
  */
-declare type SpruceTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type SpruceTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to SpruceWallSign
  */
-declare type SpruceWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type SpruceWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to StainedGlass
  */
-declare type StainedGlassStates = Pick<BlockStateSuperset, 'color'>;
+type StainedGlassStates = Pick<BlockStateSuperset, 'color'>;
 /**
  * States specific to StainedGlassPane
  */
-declare type StainedGlassPaneStates = Pick<BlockStateSuperset, 'color'>;
+type StainedGlassPaneStates = Pick<BlockStateSuperset, 'color'>;
 /**
  * States specific to StainedHardenedClay
  */
-declare type StainedHardenedClayStates = Pick<BlockStateSuperset, 'color'>;
+type StainedHardenedClayStates = Pick<BlockStateSuperset, 'color'>;
 /**
  * States specific to StandingBanner
  */
-declare type StandingBannerStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type StandingBannerStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to StandingSign
  */
-declare type StandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type StandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to StickyPiston
  */
-declare type StickyPistonStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type StickyPistonStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to StickyPistonArmCollision
  */
-declare type StickyPistonArmCollisionStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type StickyPistonArmCollisionStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to Stone
  */
-declare type StoneStates = Pick<BlockStateSuperset, 'stone_type'>;
+type StoneStates = Pick<BlockStateSuperset, 'stone_type'>;
 /**
  * States specific to StoneBlockSlab
  */
-declare type StoneBlockSlabStates = Pick<BlockStateSuperset, 'stone_slab_type' | 'top_slot_bit'>;
+type StoneBlockSlabStates = Pick<BlockStateSuperset, 'stone_slab_type' | 'top_slot_bit'>;
 /**
  * States specific to StoneBlockSlab2
  */
-declare type StoneBlockSlab2States = Pick<BlockStateSuperset, 'stone_slab_type_2' | 'top_slot_bit'>;
+type StoneBlockSlab2States = Pick<BlockStateSuperset, 'stone_slab_type_2' | 'top_slot_bit'>;
 /**
  * States specific to StoneBlockSlab3
  */
-declare type StoneBlockSlab3States = Pick<BlockStateSuperset, 'stone_slab_type_3' | 'top_slot_bit'>;
+type StoneBlockSlab3States = Pick<BlockStateSuperset, 'stone_slab_type_3' | 'top_slot_bit'>;
 /**
  * States specific to StoneBlockSlab4
  */
-declare type StoneBlockSlab4States = Pick<BlockStateSuperset, 'stone_slab_type_4' | 'top_slot_bit'>;
+type StoneBlockSlab4States = Pick<BlockStateSuperset, 'stone_slab_type_4' | 'top_slot_bit'>;
 /**
  * States specific to StoneBrickStairs
  */
-declare type StoneBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type StoneBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to StoneButton
  */
-declare type StoneButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type StoneButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to StonePressurePlate
  */
-declare type StonePressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type StonePressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to StoneStairs
  */
-declare type StoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type StoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to Stonebrick
  */
-declare type StonebrickStates = Pick<BlockStateSuperset, 'stone_brick_type'>;
+type StonebrickStates = Pick<BlockStateSuperset, 'stone_brick_type'>;
 /**
  * States specific to StonecutterBlock
  */
-declare type StonecutterBlockStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type StonecutterBlockStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to StrippedAcaciaLog
  */
-declare type StrippedAcaciaLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedAcaciaLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedBambooBlock
  */
-declare type StrippedBambooBlockStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedBambooBlockStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedBirchLog
  */
-declare type StrippedBirchLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedBirchLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedCherryLog
  */
-declare type StrippedCherryLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedCherryLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedCherryWood
  */
-declare type StrippedCherryWoodStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedCherryWoodStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedCrimsonHyphae
  */
-declare type StrippedCrimsonHyphaeStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedCrimsonHyphaeStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedCrimsonStem
  */
-declare type StrippedCrimsonStemStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedCrimsonStemStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedDarkOakLog
  */
-declare type StrippedDarkOakLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedDarkOakLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedJungleLog
  */
-declare type StrippedJungleLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedJungleLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedMangroveLog
  */
-declare type StrippedMangroveLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedMangroveLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedMangroveWood
  */
-declare type StrippedMangroveWoodStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedMangroveWoodStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedOakLog
  */
-declare type StrippedOakLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedOakLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedSpruceLog
  */
-declare type StrippedSpruceLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedSpruceLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedWarpedHyphae
  */
-declare type StrippedWarpedHyphaeStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedWarpedHyphaeStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedWarpedStem
  */
-declare type StrippedWarpedStemStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type StrippedWarpedStemStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StructureBlock
  */
-declare type StructureBlockStates = Pick<BlockStateSuperset, 'structure_block_type'>;
+type StructureBlockStates = Pick<BlockStateSuperset, 'structure_block_type'>;
 /**
  * States specific to StructureVoid
  */
-declare type StructureVoidStates = Pick<BlockStateSuperset, 'structure_void_type'>;
+type StructureVoidStates = Pick<BlockStateSuperset, 'structure_void_type'>;
 /**
  * States specific to SuspiciousGravel
  */
-declare type SuspiciousGravelStates = Pick<BlockStateSuperset, 'brushed_progress' | 'hanging'>;
+type SuspiciousGravelStates = Pick<BlockStateSuperset, 'brushed_progress' | 'hanging'>;
 /**
  * States specific to SuspiciousSand
  */
-declare type SuspiciousSandStates = Pick<BlockStateSuperset, 'brushed_progress' | 'hanging'>;
+type SuspiciousSandStates = Pick<BlockStateSuperset, 'brushed_progress' | 'hanging'>;
 /**
  * States specific to SweetBerryBush
  */
-declare type SweetBerryBushStates = Pick<BlockStateSuperset, 'growth'>;
+type SweetBerryBushStates = Pick<BlockStateSuperset, 'growth'>;
 /**
  * States specific to Tallgrass
  */
-declare type TallgrassStates = Pick<BlockStateSuperset, 'tall_grass_type'>;
+type TallgrassStates = Pick<BlockStateSuperset, 'tall_grass_type'>;
 /**
  * States specific to Tnt
  */
-declare type TntStates = Pick<BlockStateSuperset, 'allow_underwater_bit' | 'explode_bit'>;
+type TntStates = Pick<BlockStateSuperset, 'allow_underwater_bit' | 'explode_bit'>;
 /**
  * States specific to Torch
  */
-declare type TorchStates = Pick<BlockStateSuperset, 'torch_facing_direction'>;
+type TorchStates = Pick<BlockStateSuperset, 'torch_facing_direction'>;
 /**
  * States specific to TorchflowerCrop
  */
-declare type TorchflowerCropStates = Pick<BlockStateSuperset, 'growth'>;
+type TorchflowerCropStates = Pick<BlockStateSuperset, 'growth'>;
 /**
  * States specific to Trapdoor
  */
-declare type TrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type TrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to TrappedChest
  */
-declare type TrappedChestStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type TrappedChestStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to TripWire
  */
-declare type TripWireStates = Pick<BlockStateSuperset, 'attached_bit' | 'disarmed_bit' | 'powered_bit' | 'suspended_bit'>;
+type TripWireStates = Pick<BlockStateSuperset, 'attached_bit' | 'disarmed_bit' | 'powered_bit' | 'suspended_bit'>;
 /**
  * States specific to TripwireHook
  */
-declare type TripwireHookStates = Pick<BlockStateSuperset, 'attached_bit' | 'direction' | 'powered_bit'>;
+type TripwireHookStates = Pick<BlockStateSuperset, 'attached_bit' | 'direction' | 'powered_bit'>;
 /**
  * States specific to TurtleEgg
  */
-declare type TurtleEggStates = Pick<BlockStateSuperset, 'cracked_state' | 'turtle_egg_count'>;
+type TurtleEggStates = Pick<BlockStateSuperset, 'cracked_state' | 'turtle_egg_count'>;
 /**
  * States specific to TwistingVines
  */
-declare type TwistingVinesStates = Pick<BlockStateSuperset, 'twisting_vines_age'>;
+type TwistingVinesStates = Pick<BlockStateSuperset, 'twisting_vines_age'>;
 /**
  * States specific to UnderwaterTorch
  */
-declare type UnderwaterTorchStates = Pick<BlockStateSuperset, 'torch_facing_direction'>;
+type UnderwaterTorchStates = Pick<BlockStateSuperset, 'torch_facing_direction'>;
 /**
  * States specific to UnlitRedstoneTorch
  */
-declare type UnlitRedstoneTorchStates = Pick<BlockStateSuperset, 'torch_facing_direction'>;
+type UnlitRedstoneTorchStates = Pick<BlockStateSuperset, 'torch_facing_direction'>;
 /**
  * States specific to UnpoweredComparator
  */
-declare type UnpoweredComparatorStates = Pick<BlockStateSuperset, 'direction' | 'output_lit_bit' | 'output_subtract_bit'>;
+type UnpoweredComparatorStates = Pick<BlockStateSuperset, 'direction' | 'output_lit_bit' | 'output_subtract_bit'>;
 /**
  * States specific to UnpoweredRepeater
  */
-declare type UnpoweredRepeaterStates = Pick<BlockStateSuperset, 'direction' | 'repeater_delay'>;
+type UnpoweredRepeaterStates = Pick<BlockStateSuperset, 'direction' | 'repeater_delay'>;
 /**
  * States specific to VerdantFroglight
  */
-declare type VerdantFroglightStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type VerdantFroglightStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to Vine
  */
-declare type VineStates = Pick<BlockStateSuperset, 'vine_direction_bits'>;
+type VineStates = Pick<BlockStateSuperset, 'vine_direction_bits'>;
 /**
  * States specific to WallBanner
  */
-declare type WallBannerStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type WallBannerStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to WallSign
  */
-declare type WallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type WallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to WarpedButton
  */
-declare type WarpedButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type WarpedButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to WarpedDoor
  */
-declare type WarpedDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type WarpedDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to WarpedDoubleSlab
  */
-declare type WarpedDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WarpedDoubleSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WarpedFenceGate
  */
-declare type WarpedFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
+type WarpedFenceGateStates = Pick<BlockStateSuperset, 'direction' | 'in_wall_bit' | 'open_bit'>;
 /**
  * States specific to WarpedHangingSign
  */
-declare type WarpedHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+type WarpedHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
 /**
  * States specific to WarpedHyphae
  */
-declare type WarpedHyphaeStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type WarpedHyphaeStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to WarpedPressurePlate
  */
-declare type WarpedPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type WarpedPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to WarpedSlab
  */
-declare type WarpedSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WarpedSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WarpedStairs
  */
-declare type WarpedStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type WarpedStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to WarpedStandingSign
  */
-declare type WarpedStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+type WarpedStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
 /**
  * States specific to WarpedStem
  */
-declare type WarpedStemStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+type WarpedStemStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to WarpedTrapdoor
  */
-declare type WarpedTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+type WarpedTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
 /**
  * States specific to WarpedWallSign
  */
-declare type WarpedWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type WarpedWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to Water
  */
-declare type WaterStates = Pick<BlockStateSuperset, 'liquid_depth'>;
+type WaterStates = Pick<BlockStateSuperset, 'liquid_depth'>;
 /**
  * States specific to WaxedCutCopperSlab
  */
-declare type WaxedCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WaxedCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WaxedCutCopperStairs
  */
-declare type WaxedCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type WaxedCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to WaxedDoubleCutCopperSlab
  */
-declare type WaxedDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WaxedDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WaxedExposedCutCopperSlab
  */
-declare type WaxedExposedCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WaxedExposedCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WaxedExposedCutCopperStairs
  */
-declare type WaxedExposedCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type WaxedExposedCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to WaxedExposedDoubleCutCopperSlab
  */
-declare type WaxedExposedDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WaxedExposedDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WaxedOxidizedCutCopperSlab
  */
-declare type WaxedOxidizedCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WaxedOxidizedCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WaxedOxidizedCutCopperStairs
  */
-declare type WaxedOxidizedCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type WaxedOxidizedCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to WaxedOxidizedDoubleCutCopperSlab
  */
-declare type WaxedOxidizedDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WaxedOxidizedDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WaxedWeatheredCutCopperSlab
  */
-declare type WaxedWeatheredCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WaxedWeatheredCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WaxedWeatheredCutCopperStairs
  */
-declare type WaxedWeatheredCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type WaxedWeatheredCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to WaxedWeatheredDoubleCutCopperSlab
  */
-declare type WaxedWeatheredDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WaxedWeatheredDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WeatheredCutCopperSlab
  */
-declare type WeatheredCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WeatheredCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WeatheredCutCopperStairs
  */
-declare type WeatheredCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+type WeatheredCutCopperStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to WeatheredDoubleCutCopperSlab
  */
-declare type WeatheredDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
+type WeatheredDoubleCutCopperSlabStates = Pick<BlockStateSuperset, 'top_slot_bit'>;
 /**
  * States specific to WeepingVines
  */
-declare type WeepingVinesStates = Pick<BlockStateSuperset, 'weeping_vines_age'>;
+type WeepingVinesStates = Pick<BlockStateSuperset, 'weeping_vines_age'>;
 /**
  * States specific to Wheat
  */
-declare type WheatStates = Pick<BlockStateSuperset, 'growth'>;
+type WheatStates = Pick<BlockStateSuperset, 'growth'>;
 /**
  * States specific to WhiteCandle
  */
-declare type WhiteCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type WhiteCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to WhiteCandleCake
  */
-declare type WhiteCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type WhiteCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to WhiteGlazedTerracotta
  */
-declare type WhiteGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type WhiteGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * States specific to Wood
  */
-declare type WoodStates = Pick<BlockStateSuperset, 'pillar_axis' | 'stripped_bit' | 'wood_type'>;
+type WoodStates = Pick<BlockStateSuperset, 'pillar_axis' | 'stripped_bit' | 'wood_type'>;
 /**
  * States specific to WoodenButton
  */
-declare type WoodenButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+type WoodenButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
 /**
  * States specific to WoodenDoor
  */
-declare type WoodenDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
+type WoodenDoorStates = Pick<BlockStateSuperset, 'direction' | 'door_hinge_bit' | 'open_bit' | 'upper_block_bit'>;
 /**
  * States specific to WoodenPressurePlate
  */
-declare type WoodenPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+type WoodenPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
 /**
  * States specific to WoodenSlab
  */
-declare type WoodenSlabStates = Pick<BlockStateSuperset, 'top_slot_bit' | 'wood_type'>;
+type WoodenSlabStates = Pick<BlockStateSuperset, 'top_slot_bit' | 'wood_type'>;
 /**
  * States specific to YellowCandle
  */
-declare type YellowCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
+type YellowCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
 /**
  * States specific to YellowCandleCake
  */
-declare type YellowCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+type YellowCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
 /**
  * States specific to YellowGlazedTerracotta
  */
-declare type YellowGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+type YellowGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * Union of all types for Block states
  */
-declare type BlockStates = AcaciaButtonStates | AcaciaDoorStates | AcaciaFenceGateStates | AcaciaHangingSignStates | AcaciaLogStates | AcaciaPressurePlateStates | AcaciaStairsStates | AcaciaStandingSignStates | AcaciaTrapdoorStates | AcaciaWallSignStates | ActivatorRailStates | AmethystClusterStates | AndesiteStairsStates | AnvilStates | AzaleaLeavesStates | AzaleaLeavesFloweredStates | BambooStates | BambooBlockStates | BambooButtonStates | BambooDoorStates | BambooDoubleSlabStates | BambooFenceGateStates | BambooHangingSignStates | BambooMosaicDoubleSlabStates | BambooMosaicSlabStates | BambooMosaicStairsStates | BambooPressurePlateStates | BambooSaplingStates | BambooSlabStates | BambooStairsStates | BambooStandingSignStates | BambooTrapdoorStates | BambooWallSignStates | BarrelStates | BasaltStates | BedStates | BedrockStates | BeeNestStates | BeehiveStates | BeetrootStates | BellStates | BigDripleafStates | BirchButtonStates | BirchDoorStates | BirchFenceGateStates | BirchHangingSignStates | BirchLogStates | BirchPressurePlateStates | BirchStairsStates | BirchStandingSignStates | BirchTrapdoorStates | BirchWallSignStates | BlackCandleStates | BlackCandleCakeStates | BlackGlazedTerracottaStates | BlackstoneDoubleSlabStates | BlackstoneSlabStates | BlackstoneStairsStates | BlackstoneWallStates | BlastFurnaceStates | BlueCandleStates | BlueCandleCakeStates | BlueGlazedTerracottaStates | BoneBlockStates | BorderBlockStates | BrewingStandStates | BrickStairsStates | BrownCandleStates | BrownCandleCakeStates | BrownGlazedTerracottaStates | BrownMushroomBlockStates | BubbleColumnStates | CactusStates | CakeStates | CalibratedSculkSensorStates | CampfireStates | CandleStates | CandleCakeStates | CarrotsStates | CarvedPumpkinStates | CauldronStates | CaveVinesStates | CaveVinesBodyWithBerriesStates | CaveVinesHeadWithBerriesStates | ChainStates | ChainCommandBlockStates | ChemistryTableStates | CherryButtonStates | CherryDoorStates | CherryDoubleSlabStates | CherryFenceGateStates | CherryHangingSignStates | CherryLeavesStates | CherryLogStates | CherryPressurePlateStates | CherrySaplingStates | CherrySlabStates | CherryStairsStates | CherryStandingSignStates | CherryTrapdoorStates | CherryWallSignStates | CherryWoodStates | ChestStates | ChiseledBookshelfStates | ChorusFlowerStates | CobbledDeepslateDoubleSlabStates | CobbledDeepslateSlabStates | CobbledDeepslateStairsStates | CobbledDeepslateWallStates | CobblestoneWallStates | CocoaStates | ColoredTorchBpStates | ColoredTorchRgStates | CommandBlockStates | ComposterStates | ConcreteStates | ConcretePowderStates | CoralBlockStates | CoralFanStates | CoralFanDeadStates | CoralFanHangStates | CoralFanHang2States | CoralFanHang3States | CrimsonButtonStates | CrimsonDoorStates | CrimsonDoubleSlabStates | CrimsonFenceGateStates | CrimsonHangingSignStates | CrimsonHyphaeStates | CrimsonPressurePlateStates | CrimsonSlabStates | CrimsonStairsStates | CrimsonStandingSignStates | CrimsonStemStates | CrimsonTrapdoorStates | CrimsonWallSignStates | CutCopperSlabStates | CutCopperStairsStates | CyanCandleStates | CyanCandleCakeStates | CyanGlazedTerracottaStates | DarkOakButtonStates | DarkOakDoorStates | DarkOakFenceGateStates | DarkOakHangingSignStates | DarkOakLogStates | DarkOakPressurePlateStates | DarkOakStairsStates | DarkOakTrapdoorStates | DarkPrismarineStairsStates | DarkoakStandingSignStates | DarkoakWallSignStates | DaylightDetectorStates | DaylightDetectorInvertedStates | DecoratedPotStates | DeepslateStates | DeepslateBrickDoubleSlabStates | DeepslateBrickSlabStates | DeepslateBrickStairsStates | DeepslateBrickWallStates | DeepslateTileDoubleSlabStates | DeepslateTileSlabStates | DeepslateTileStairsStates | DeepslateTileWallStates | DetectorRailStates | DioriteStairsStates | DirtStates | DispenserStates | DoubleCutCopperSlabStates | DoublePlantStates | DoubleStoneBlockSlabStates | DoubleStoneBlockSlab2States | DoubleStoneBlockSlab3States | DoubleStoneBlockSlab4States | DoubleWoodenSlabStates | DropperStates | EndBrickStairsStates | EndPortalFrameStates | EndRodStates | EnderChestStates | ExposedCutCopperSlabStates | ExposedCutCopperStairsStates | ExposedDoubleCutCopperSlabStates | FarmlandStates | FenceGateStates | FireStates | FlowerPotStates | FlowingLavaStates | FlowingWaterStates | FrameStates | FrostedIceStates | FurnaceStates | GlowFrameStates | GlowLichenStates | GoldenRailStates | GraniteStairsStates | GrayCandleStates | GrayCandleCakeStates | GrayGlazedTerracottaStates | GreenCandleStates | GreenCandleCakeStates | GreenGlazedTerracottaStates | GrindstoneStates | HardStainedGlassStates | HardStainedGlassPaneStates | HayBlockStates | HeavyWeightedPressurePlateStates | HopperStates | InfestedDeepslateStates | IronDoorStates | IronTrapdoorStates | JigsawStates | JungleButtonStates | JungleDoorStates | JungleFenceGateStates | JungleHangingSignStates | JungleLogStates | JunglePressurePlateStates | JungleStairsStates | JungleStandingSignStates | JungleTrapdoorStates | JungleWallSignStates | KelpStates | LadderStates | LanternStates | LargeAmethystBudStates | LavaStates | LeavesStates | Leaves2States | LecternStates | LeverStates | LightBlockStates | LightBlueCandleStates | LightBlueCandleCakeStates | LightBlueGlazedTerracottaStates | LightGrayCandleStates | LightGrayCandleCakeStates | LightWeightedPressurePlateStates | LightningRodStates | LimeCandleStates | LimeCandleCakeStates | LimeGlazedTerracottaStates | LitBlastFurnaceStates | LitFurnaceStates | LitPumpkinStates | LitSmokerStates | LoomStates | MagentaCandleStates | MagentaCandleCakeStates | MagentaGlazedTerracottaStates | MangroveButtonStates | MangroveDoorStates | MangroveDoubleSlabStates | MangroveFenceGateStates | MangroveHangingSignStates | MangroveLeavesStates | MangroveLogStates | MangrovePressurePlateStates | MangrovePropaguleStates | MangroveSlabStates | MangroveStairsStates | MangroveStandingSignStates | MangroveTrapdoorStates | MangroveWallSignStates | MangroveWoodStates | MediumAmethystBudStates | MelonStemStates | MonsterEggStates | MossyCobblestoneStairsStates | MossyStoneBrickStairsStates | MudBrickDoubleSlabStates | MudBrickSlabStates | MudBrickStairsStates | MudBrickWallStates | MuddyMangroveRootsStates | NetherBrickStairsStates | NetherWartStates | NormalStoneStairsStates | OakHangingSignStates | OakLogStates | OakStairsStates | ObserverStates | OchreFroglightStates | OrangeCandleStates | OrangeCandleCakeStates | OrangeGlazedTerracottaStates | OxidizedCutCopperSlabStates | OxidizedCutCopperStairsStates | OxidizedDoubleCutCopperSlabStates | PearlescentFroglightStates | PinkCandleStates | PinkCandleCakeStates | PinkGlazedTerracottaStates | PinkPetalsStates | PistonStates | PistonArmCollisionStates | PitcherCropStates | PitcherPlantStates | PlanksStates | PointedDripstoneStates | PolishedAndesiteStairsStates | PolishedBasaltStates | PolishedBlackstoneBrickDoubleSlabStates | PolishedBlackstoneBrickSlabStates | PolishedBlackstoneBrickStairsStates | PolishedBlackstoneBrickWallStates | PolishedBlackstoneButtonStates | PolishedBlackstoneDoubleSlabStates | PolishedBlackstonePressurePlateStates | PolishedBlackstoneSlabStates | PolishedBlackstoneStairsStates | PolishedBlackstoneWallStates | PolishedDeepslateDoubleSlabStates | PolishedDeepslateSlabStates | PolishedDeepslateStairsStates | PolishedDeepslateWallStates | PolishedDioriteStairsStates | PolishedGraniteStairsStates | PortalStates | PotatoesStates | PoweredComparatorStates | PoweredRepeaterStates | PrismarineStates | PrismarineBricksStairsStates | PrismarineStairsStates | PumpkinStates | PumpkinStemStates | PurpleCandleStates | PurpleCandleCakeStates | PurpleGlazedTerracottaStates | PurpurBlockStates | PurpurStairsStates | QuartzBlockStates | QuartzStairsStates | RailStates | RedCandleStates | RedCandleCakeStates | RedFlowerStates | RedGlazedTerracottaStates | RedMushroomBlockStates | RedNetherBrickStairsStates | RedSandstoneStates | RedSandstoneStairsStates | RedstoneTorchStates | RedstoneWireStates | ReedsStates | RepeatingCommandBlockStates | RespawnAnchorStates | SandStates | SandstoneStates | SandstoneStairsStates | SaplingStates | ScaffoldingStates | SculkCatalystStates | SculkSensorStates | SculkShriekerStates | SculkVeinStates | SeaPickleStates | SeagrassStates | ShulkerBoxStates | SilverGlazedTerracottaStates | SkullStates | SmallAmethystBudStates | SmallDripleafBlockStates | SmokerStates | SmoothQuartzStairsStates | SmoothRedSandstoneStairsStates | SmoothSandstoneStairsStates | SnifferEggStates | SnowLayerStates | SoulCampfireStates | SoulFireStates | SoulLanternStates | SoulTorchStates | SpongeStates | SpruceButtonStates | SpruceDoorStates | SpruceFenceGateStates | SpruceHangingSignStates | SpruceLogStates | SprucePressurePlateStates | SpruceStairsStates | SpruceStandingSignStates | SpruceTrapdoorStates | SpruceWallSignStates | StainedGlassStates | StainedGlassPaneStates | StainedHardenedClayStates | StandingBannerStates | StandingSignStates | StickyPistonStates | StickyPistonArmCollisionStates | StoneStates | StoneBlockSlabStates | StoneBlockSlab2States | StoneBlockSlab3States | StoneBlockSlab4States | StoneBrickStairsStates | StoneButtonStates | StonePressurePlateStates | StoneStairsStates | StonebrickStates | StonecutterBlockStates | StrippedAcaciaLogStates | StrippedBambooBlockStates | StrippedBirchLogStates | StrippedCherryLogStates | StrippedCherryWoodStates | StrippedCrimsonHyphaeStates | StrippedCrimsonStemStates | StrippedDarkOakLogStates | StrippedJungleLogStates | StrippedMangroveLogStates | StrippedMangroveWoodStates | StrippedOakLogStates | StrippedSpruceLogStates | StrippedWarpedHyphaeStates | StrippedWarpedStemStates | StructureBlockStates | StructureVoidStates | SuspiciousGravelStates | SuspiciousSandStates | SweetBerryBushStates | TallgrassStates | TntStates | TorchStates | TorchflowerCropStates | TrapdoorStates | TrappedChestStates | TripWireStates | TripwireHookStates | TurtleEggStates | TwistingVinesStates | UnderwaterTorchStates | UnlitRedstoneTorchStates | UnpoweredComparatorStates | UnpoweredRepeaterStates | VerdantFroglightStates | VineStates | WallBannerStates | WallSignStates | WarpedButtonStates | WarpedDoorStates | WarpedDoubleSlabStates | WarpedFenceGateStates | WarpedHangingSignStates | WarpedHyphaeStates | WarpedPressurePlateStates | WarpedSlabStates | WarpedStairsStates | WarpedStandingSignStates | WarpedStemStates | WarpedTrapdoorStates | WarpedWallSignStates | WaterStates | WaxedCutCopperSlabStates | WaxedCutCopperStairsStates | WaxedDoubleCutCopperSlabStates | WaxedExposedCutCopperSlabStates | WaxedExposedCutCopperStairsStates | WaxedExposedDoubleCutCopperSlabStates | WaxedOxidizedCutCopperSlabStates | WaxedOxidizedCutCopperStairsStates | WaxedOxidizedDoubleCutCopperSlabStates | WaxedWeatheredCutCopperSlabStates | WaxedWeatheredCutCopperStairsStates | WaxedWeatheredDoubleCutCopperSlabStates | WeatheredCutCopperSlabStates | WeatheredCutCopperStairsStates | WeatheredDoubleCutCopperSlabStates | WeepingVinesStates | WheatStates | WhiteCandleStates | WhiteCandleCakeStates | WhiteGlazedTerracottaStates | WoodStates | WoodenButtonStates | WoodenDoorStates | WoodenPressurePlateStates | WoodenSlabStates | YellowCandleStates | YellowCandleCakeStates | YellowGlazedTerracottaStates;
+type BlockStates = AcaciaButtonStates | AcaciaDoorStates | AcaciaFenceGateStates | AcaciaHangingSignStates | AcaciaLogStates | AcaciaPressurePlateStates | AcaciaStairsStates | AcaciaStandingSignStates | AcaciaTrapdoorStates | AcaciaWallSignStates | ActivatorRailStates | AmethystClusterStates | AndesiteStairsStates | AnvilStates | AzaleaLeavesStates | AzaleaLeavesFloweredStates | BambooStates | BambooBlockStates | BambooButtonStates | BambooDoorStates | BambooDoubleSlabStates | BambooFenceGateStates | BambooHangingSignStates | BambooMosaicDoubleSlabStates | BambooMosaicSlabStates | BambooMosaicStairsStates | BambooPressurePlateStates | BambooSaplingStates | BambooSlabStates | BambooStairsStates | BambooStandingSignStates | BambooTrapdoorStates | BambooWallSignStates | BarrelStates | BasaltStates | BedStates | BedrockStates | BeeNestStates | BeehiveStates | BeetrootStates | BellStates | BigDripleafStates | BirchButtonStates | BirchDoorStates | BirchFenceGateStates | BirchHangingSignStates | BirchLogStates | BirchPressurePlateStates | BirchStairsStates | BirchStandingSignStates | BirchTrapdoorStates | BirchWallSignStates | BlackCandleStates | BlackCandleCakeStates | BlackGlazedTerracottaStates | BlackstoneDoubleSlabStates | BlackstoneSlabStates | BlackstoneStairsStates | BlackstoneWallStates | BlastFurnaceStates | BlueCandleStates | BlueCandleCakeStates | BlueGlazedTerracottaStates | BoneBlockStates | BorderBlockStates | BrewingStandStates | BrickStairsStates | BrownCandleStates | BrownCandleCakeStates | BrownGlazedTerracottaStates | BrownMushroomBlockStates | BubbleColumnStates | CactusStates | CakeStates | CalibratedSculkSensorStates | CampfireStates | CandleStates | CandleCakeStates | CarrotsStates | CarvedPumpkinStates | CauldronStates | CaveVinesStates | CaveVinesBodyWithBerriesStates | CaveVinesHeadWithBerriesStates | ChainStates | ChainCommandBlockStates | ChemistryTableStates | CherryButtonStates | CherryDoorStates | CherryDoubleSlabStates | CherryFenceGateStates | CherryHangingSignStates | CherryLeavesStates | CherryLogStates | CherryPressurePlateStates | CherrySaplingStates | CherrySlabStates | CherryStairsStates | CherryStandingSignStates | CherryTrapdoorStates | CherryWallSignStates | CherryWoodStates | ChestStates | ChiseledBookshelfStates | ChorusFlowerStates | CobbledDeepslateDoubleSlabStates | CobbledDeepslateSlabStates | CobbledDeepslateStairsStates | CobbledDeepslateWallStates | CobblestoneWallStates | CocoaStates | ColoredTorchBpStates | ColoredTorchRgStates | CommandBlockStates | ComposterStates | ConcretePowderStates | CoralBlockStates | CoralFanStates | CoralFanDeadStates | CoralFanHangStates | CoralFanHang2States | CoralFanHang3States | CrimsonButtonStates | CrimsonDoorStates | CrimsonDoubleSlabStates | CrimsonFenceGateStates | CrimsonHangingSignStates | CrimsonHyphaeStates | CrimsonPressurePlateStates | CrimsonSlabStates | CrimsonStairsStates | CrimsonStandingSignStates | CrimsonStemStates | CrimsonTrapdoorStates | CrimsonWallSignStates | CutCopperSlabStates | CutCopperStairsStates | CyanCandleStates | CyanCandleCakeStates | CyanGlazedTerracottaStates | DarkOakButtonStates | DarkOakDoorStates | DarkOakFenceGateStates | DarkOakHangingSignStates | DarkOakLogStates | DarkOakPressurePlateStates | DarkOakStairsStates | DarkOakTrapdoorStates | DarkPrismarineStairsStates | DarkoakStandingSignStates | DarkoakWallSignStates | DaylightDetectorStates | DaylightDetectorInvertedStates | DecoratedPotStates | DeepslateStates | DeepslateBrickDoubleSlabStates | DeepslateBrickSlabStates | DeepslateBrickStairsStates | DeepslateBrickWallStates | DeepslateTileDoubleSlabStates | DeepslateTileSlabStates | DeepslateTileStairsStates | DeepslateTileWallStates | DetectorRailStates | DioriteStairsStates | DirtStates | DispenserStates | DoubleCutCopperSlabStates | DoublePlantStates | DoubleStoneBlockSlabStates | DoubleStoneBlockSlab2States | DoubleStoneBlockSlab3States | DoubleStoneBlockSlab4States | DoubleWoodenSlabStates | DropperStates | EndBrickStairsStates | EndPortalFrameStates | EndRodStates | EnderChestStates | ExposedCutCopperSlabStates | ExposedCutCopperStairsStates | ExposedDoubleCutCopperSlabStates | FarmlandStates | FenceGateStates | FireStates | FlowerPotStates | FlowingLavaStates | FlowingWaterStates | FrameStates | FrostedIceStates | FurnaceStates | GlowFrameStates | GlowLichenStates | GoldenRailStates | GraniteStairsStates | GrayCandleStates | GrayCandleCakeStates | GrayGlazedTerracottaStates | GreenCandleStates | GreenCandleCakeStates | GreenGlazedTerracottaStates | GrindstoneStates | HardStainedGlassStates | HardStainedGlassPaneStates | HayBlockStates | HeavyWeightedPressurePlateStates | HopperStates | InfestedDeepslateStates | IronDoorStates | IronTrapdoorStates | JigsawStates | JungleButtonStates | JungleDoorStates | JungleFenceGateStates | JungleHangingSignStates | JungleLogStates | JunglePressurePlateStates | JungleStairsStates | JungleStandingSignStates | JungleTrapdoorStates | JungleWallSignStates | KelpStates | LadderStates | LanternStates | LargeAmethystBudStates | LavaStates | LeavesStates | Leaves2States | LecternStates | LeverStates | LightBlockStates | LightBlueCandleStates | LightBlueCandleCakeStates | LightBlueGlazedTerracottaStates | LightGrayCandleStates | LightGrayCandleCakeStates | LightWeightedPressurePlateStates | LightningRodStates | LimeCandleStates | LimeCandleCakeStates | LimeGlazedTerracottaStates | LitBlastFurnaceStates | LitFurnaceStates | LitPumpkinStates | LitSmokerStates | LoomStates | MagentaCandleStates | MagentaCandleCakeStates | MagentaGlazedTerracottaStates | MangroveButtonStates | MangroveDoorStates | MangroveDoubleSlabStates | MangroveFenceGateStates | MangroveHangingSignStates | MangroveLeavesStates | MangroveLogStates | MangrovePressurePlateStates | MangrovePropaguleStates | MangroveSlabStates | MangroveStairsStates | MangroveStandingSignStates | MangroveTrapdoorStates | MangroveWallSignStates | MangroveWoodStates | MediumAmethystBudStates | MelonStemStates | MonsterEggStates | MossyCobblestoneStairsStates | MossyStoneBrickStairsStates | MudBrickDoubleSlabStates | MudBrickSlabStates | MudBrickStairsStates | MudBrickWallStates | MuddyMangroveRootsStates | NetherBrickStairsStates | NetherWartStates | NormalStoneStairsStates | OakHangingSignStates | OakLogStates | OakStairsStates | ObserverStates | OchreFroglightStates | OrangeCandleStates | OrangeCandleCakeStates | OrangeGlazedTerracottaStates | OxidizedCutCopperSlabStates | OxidizedCutCopperStairsStates | OxidizedDoubleCutCopperSlabStates | PearlescentFroglightStates | PinkCandleStates | PinkCandleCakeStates | PinkGlazedTerracottaStates | PinkPetalsStates | PistonStates | PistonArmCollisionStates | PitcherCropStates | PitcherPlantStates | PlanksStates | PointedDripstoneStates | PolishedAndesiteStairsStates | PolishedBasaltStates | PolishedBlackstoneBrickDoubleSlabStates | PolishedBlackstoneBrickSlabStates | PolishedBlackstoneBrickStairsStates | PolishedBlackstoneBrickWallStates | PolishedBlackstoneButtonStates | PolishedBlackstoneDoubleSlabStates | PolishedBlackstonePressurePlateStates | PolishedBlackstoneSlabStates | PolishedBlackstoneStairsStates | PolishedBlackstoneWallStates | PolishedDeepslateDoubleSlabStates | PolishedDeepslateSlabStates | PolishedDeepslateStairsStates | PolishedDeepslateWallStates | PolishedDioriteStairsStates | PolishedGraniteStairsStates | PortalStates | PotatoesStates | PoweredComparatorStates | PoweredRepeaterStates | PrismarineStates | PrismarineBricksStairsStates | PrismarineStairsStates | PumpkinStates | PumpkinStemStates | PurpleCandleStates | PurpleCandleCakeStates | PurpleGlazedTerracottaStates | PurpurBlockStates | PurpurStairsStates | QuartzBlockStates | QuartzStairsStates | RailStates | RedCandleStates | RedCandleCakeStates | RedFlowerStates | RedGlazedTerracottaStates | RedMushroomBlockStates | RedNetherBrickStairsStates | RedSandstoneStates | RedSandstoneStairsStates | RedstoneTorchStates | RedstoneWireStates | ReedsStates | RepeatingCommandBlockStates | RespawnAnchorStates | SandStates | SandstoneStates | SandstoneStairsStates | SaplingStates | ScaffoldingStates | SculkCatalystStates | SculkSensorStates | SculkShriekerStates | SculkVeinStates | SeaPickleStates | SeagrassStates | SilverGlazedTerracottaStates | SkullStates | SmallAmethystBudStates | SmallDripleafBlockStates | SmokerStates | SmoothQuartzStairsStates | SmoothRedSandstoneStairsStates | SmoothSandstoneStairsStates | SnifferEggStates | SnowLayerStates | SoulCampfireStates | SoulFireStates | SoulLanternStates | SoulTorchStates | SpongeStates | SpruceButtonStates | SpruceDoorStates | SpruceFenceGateStates | SpruceHangingSignStates | SpruceLogStates | SprucePressurePlateStates | SpruceStairsStates | SpruceStandingSignStates | SpruceTrapdoorStates | SpruceWallSignStates | StainedGlassStates | StainedGlassPaneStates | StainedHardenedClayStates | StandingBannerStates | StandingSignStates | StickyPistonStates | StickyPistonArmCollisionStates | StoneStates | StoneBlockSlabStates | StoneBlockSlab2States | StoneBlockSlab3States | StoneBlockSlab4States | StoneBrickStairsStates | StoneButtonStates | StonePressurePlateStates | StoneStairsStates | StonebrickStates | StonecutterBlockStates | StrippedAcaciaLogStates | StrippedBambooBlockStates | StrippedBirchLogStates | StrippedCherryLogStates | StrippedCherryWoodStates | StrippedCrimsonHyphaeStates | StrippedCrimsonStemStates | StrippedDarkOakLogStates | StrippedJungleLogStates | StrippedMangroveLogStates | StrippedMangroveWoodStates | StrippedOakLogStates | StrippedSpruceLogStates | StrippedWarpedHyphaeStates | StrippedWarpedStemStates | StructureBlockStates | StructureVoidStates | SuspiciousGravelStates | SuspiciousSandStates | SweetBerryBushStates | TallgrassStates | TntStates | TorchStates | TorchflowerCropStates | TrapdoorStates | TrappedChestStates | TripWireStates | TripwireHookStates | TurtleEggStates | TwistingVinesStates | UnderwaterTorchStates | UnlitRedstoneTorchStates | UnpoweredComparatorStates | UnpoweredRepeaterStates | VerdantFroglightStates | VineStates | WallBannerStates | WallSignStates | WarpedButtonStates | WarpedDoorStates | WarpedDoubleSlabStates | WarpedFenceGateStates | WarpedHangingSignStates | WarpedHyphaeStates | WarpedPressurePlateStates | WarpedSlabStates | WarpedStairsStates | WarpedStandingSignStates | WarpedStemStates | WarpedTrapdoorStates | WarpedWallSignStates | WaterStates | WaxedCutCopperSlabStates | WaxedCutCopperStairsStates | WaxedDoubleCutCopperSlabStates | WaxedExposedCutCopperSlabStates | WaxedExposedCutCopperStairsStates | WaxedExposedDoubleCutCopperSlabStates | WaxedOxidizedCutCopperSlabStates | WaxedOxidizedCutCopperStairsStates | WaxedOxidizedDoubleCutCopperSlabStates | WaxedWeatheredCutCopperSlabStates | WaxedWeatheredCutCopperStairsStates | WaxedWeatheredDoubleCutCopperSlabStates | WeatheredCutCopperSlabStates | WeatheredCutCopperStairsStates | WeatheredDoubleCutCopperSlabStates | WeepingVinesStates | WheatStates | WhiteCandleStates | WhiteCandleCakeStates | WhiteGlazedTerracottaStates | WoodStates | WoodenButtonStates | WoodenDoorStates | WoodenPressurePlateStates | WoodenSlabStates | YellowCandleStates | YellowCandleCakeStates | YellowGlazedTerracottaStates;
 /**
  * Mapping of each Block name to it's states
  */
-declare type BlockStateMapping = {
+type BlockStateMapping = {
     [MinecraftBlockTypes.AcaciaButton]: AcaciaButtonStates;
     [MinecraftBlockTypes.AcaciaDoor]: AcaciaDoorStates;
     [MinecraftBlockTypes.AcaciaFenceGate]: AcaciaFenceGateStates;
@@ -3039,7 +3061,6 @@ declare type BlockStateMapping = {
     [MinecraftBlockTypes.ColoredTorchRg]: ColoredTorchRgStates;
     [MinecraftBlockTypes.CommandBlock]: CommandBlockStates;
     [MinecraftBlockTypes.Composter]: ComposterStates;
-    [MinecraftBlockTypes.Concrete]: ConcreteStates;
     [MinecraftBlockTypes.ConcretePowder]: ConcretePowderStates;
     [MinecraftBlockTypes.CoralBlock]: CoralBlockStates;
     [MinecraftBlockTypes.CoralFan]: CoralFanStates;
@@ -3283,7 +3304,6 @@ declare type BlockStateMapping = {
     [MinecraftBlockTypes.SculkVein]: SculkVeinStates;
     [MinecraftBlockTypes.SeaPickle]: SeaPickleStates;
     [MinecraftBlockTypes.Seagrass]: SeagrassStates;
-    [MinecraftBlockTypes.ShulkerBox]: ShulkerBoxStates;
     [MinecraftBlockTypes.SilverGlazedTerracotta]: SilverGlazedTerracottaStates;
     [MinecraftBlockTypes.Skull]: SkullStates;
     [MinecraftBlockTypes.SmallAmethystBud]: SmallAmethystBudStates;
@@ -3420,7 +3440,7 @@ declare enum MinecraftDimensionTypes {
 /**
  * Union type equivalent of the MinecraftDimensionTypes enum.
  */
-declare type MinecraftDimensionTypesUnion = keyof typeof MinecraftDimensionTypes;
+type MinecraftDimensionTypesUnion = keyof typeof MinecraftDimensionTypes;
 
 /**
  * All possible MinecraftEffectTypes
@@ -3461,7 +3481,7 @@ declare enum MinecraftEffectTypes {
 /**
  * Union type equivalent of the MinecraftEffectTypes enum.
  */
-declare type MinecraftEffectTypesUnion = keyof typeof MinecraftEffectTypes;
+type MinecraftEffectTypesUnion = keyof typeof MinecraftEffectTypes;
 
 /**
  * All possible MinecraftEnchantmentTypes
@@ -3509,7 +3529,7 @@ declare enum MinecraftEnchantmentTypes {
 /**
  * Union type equivalent of the MinecraftEnchantmentTypes enum.
  */
-declare type MinecraftEnchantmentTypesUnion = keyof typeof MinecraftEnchantmentTypes;
+type MinecraftEnchantmentTypesUnion = keyof typeof MinecraftEnchantmentTypes;
 
 /**
  * All possible MinecraftEntityTypes
@@ -3633,7 +3653,7 @@ declare enum MinecraftEntityTypes {
 /**
  * Union type equivalent of the MinecraftEntityTypes enum.
  */
-declare type MinecraftEntityTypesUnion = keyof typeof MinecraftEntityTypes;
+type MinecraftEntityTypesUnion = keyof typeof MinecraftEntityTypes;
 
 /**
  * All possible MinecraftItemTypes
@@ -3722,8 +3742,10 @@ declare enum MinecraftItemTypes {
     BirchTrapdoor = "minecraft:birch_trapdoor",
     BlackCandle = "minecraft:black_candle",
     BlackCarpet = "minecraft:black_carpet",
+    BlackConcrete = "minecraft:black_concrete",
     BlackDye = "minecraft:black_dye",
     BlackGlazedTerracotta = "minecraft:black_glazed_terracotta",
+    BlackShulkerBox = "minecraft:black_shulker_box",
     BlackWool = "minecraft:black_wool",
     Blackstone = "minecraft:blackstone",
     BlackstoneSlab = "minecraft:blackstone_slab",
@@ -3736,9 +3758,11 @@ declare enum MinecraftItemTypes {
     BlazeSpawnEgg = "minecraft:blaze_spawn_egg",
     BlueCandle = "minecraft:blue_candle",
     BlueCarpet = "minecraft:blue_carpet",
+    BlueConcrete = "minecraft:blue_concrete",
     BlueDye = "minecraft:blue_dye",
     BlueGlazedTerracotta = "minecraft:blue_glazed_terracotta",
     BlueIce = "minecraft:blue_ice",
+    BlueShulkerBox = "minecraft:blue_shulker_box",
     BlueWool = "minecraft:blue_wool",
     Boat = "minecraft:boat",
     Bone = "minecraft:bone",
@@ -3759,10 +3783,12 @@ declare enum MinecraftItemTypes {
     BrickStairs = "minecraft:brick_stairs",
     BrownCandle = "minecraft:brown_candle",
     BrownCarpet = "minecraft:brown_carpet",
+    BrownConcrete = "minecraft:brown_concrete",
     BrownDye = "minecraft:brown_dye",
     BrownGlazedTerracotta = "minecraft:brown_glazed_terracotta",
     BrownMushroom = "minecraft:brown_mushroom",
     BrownMushroomBlock = "minecraft:brown_mushroom_block",
+    BrownShulkerBox = "minecraft:brown_shulker_box",
     BrownWool = "minecraft:brown_wool",
     Brush = "minecraft:brush",
     BubbleCoral = "minecraft:bubble_coral",
@@ -3891,8 +3917,10 @@ declare enum MinecraftItemTypes {
     CutCopperStairs = "minecraft:cut_copper_stairs",
     CyanCandle = "minecraft:cyan_candle",
     CyanCarpet = "minecraft:cyan_carpet",
+    CyanConcrete = "minecraft:cyan_concrete",
     CyanDye = "minecraft:cyan_dye",
     CyanGlazedTerracotta = "minecraft:cyan_glazed_terracotta",
+    CyanShulkerBox = "minecraft:cyan_shulker_box",
     CyanWool = "minecraft:cyan_wool",
     DangerPotterySherd = "minecraft:danger_pottery_sherd",
     DarkOakBoat = "minecraft:dark_oak_boat",
@@ -4061,13 +4089,17 @@ declare enum MinecraftItemTypes {
     Gravel = "minecraft:gravel",
     GrayCandle = "minecraft:gray_candle",
     GrayCarpet = "minecraft:gray_carpet",
+    GrayConcrete = "minecraft:gray_concrete",
     GrayDye = "minecraft:gray_dye",
     GrayGlazedTerracotta = "minecraft:gray_glazed_terracotta",
+    GrayShulkerBox = "minecraft:gray_shulker_box",
     GrayWool = "minecraft:gray_wool",
     GreenCandle = "minecraft:green_candle",
     GreenCarpet = "minecraft:green_carpet",
+    GreenConcrete = "minecraft:green_concrete",
     GreenDye = "minecraft:green_dye",
     GreenGlazedTerracotta = "minecraft:green_glazed_terracotta",
+    GreenShulkerBox = "minecraft:green_shulker_box",
     GreenWool = "minecraft:green_wool",
     Grindstone = "minecraft:grindstone",
     GuardianSpawnEgg = "minecraft:guardian_spawn_egg",
@@ -4148,19 +4180,25 @@ declare enum MinecraftItemTypes {
     LightBlock = "minecraft:light_block",
     LightBlueCandle = "minecraft:light_blue_candle",
     LightBlueCarpet = "minecraft:light_blue_carpet",
+    LightBlueConcrete = "minecraft:light_blue_concrete",
     LightBlueDye = "minecraft:light_blue_dye",
     LightBlueGlazedTerracotta = "minecraft:light_blue_glazed_terracotta",
+    LightBlueShulkerBox = "minecraft:light_blue_shulker_box",
     LightBlueWool = "minecraft:light_blue_wool",
     LightGrayCandle = "minecraft:light_gray_candle",
     LightGrayCarpet = "minecraft:light_gray_carpet",
+    LightGrayConcrete = "minecraft:light_gray_concrete",
     LightGrayDye = "minecraft:light_gray_dye",
+    LightGrayShulkerBox = "minecraft:light_gray_shulker_box",
     LightGrayWool = "minecraft:light_gray_wool",
     LightWeightedPressurePlate = "minecraft:light_weighted_pressure_plate",
     LightningRod = "minecraft:lightning_rod",
     LimeCandle = "minecraft:lime_candle",
     LimeCarpet = "minecraft:lime_carpet",
+    LimeConcrete = "minecraft:lime_concrete",
     LimeDye = "minecraft:lime_dye",
     LimeGlazedTerracotta = "minecraft:lime_glazed_terracotta",
+    LimeShulkerBox = "minecraft:lime_shulker_box",
     LimeWool = "minecraft:lime_wool",
     LingeringPotion = "minecraft:lingering_potion",
     LitPumpkin = "minecraft:lit_pumpkin",
@@ -4172,8 +4210,10 @@ declare enum MinecraftItemTypes {
     Loom = "minecraft:loom",
     MagentaCandle = "minecraft:magenta_candle",
     MagentaCarpet = "minecraft:magenta_carpet",
+    MagentaConcrete = "minecraft:magenta_concrete",
     MagentaDye = "minecraft:magenta_dye",
     MagentaGlazedTerracotta = "minecraft:magenta_glazed_terracotta",
+    MagentaShulkerBox = "minecraft:magenta_shulker_box",
     MagentaWool = "minecraft:magenta_wool",
     Magma = "minecraft:magma",
     MagmaCream = "minecraft:magma_cream",
@@ -4279,8 +4319,10 @@ declare enum MinecraftItemTypes {
     OchreFroglight = "minecraft:ochre_froglight",
     OrangeCandle = "minecraft:orange_candle",
     OrangeCarpet = "minecraft:orange_carpet",
+    OrangeConcrete = "minecraft:orange_concrete",
     OrangeDye = "minecraft:orange_dye",
     OrangeGlazedTerracotta = "minecraft:orange_glazed_terracotta",
+    OrangeShulkerBox = "minecraft:orange_shulker_box",
     OrangeWool = "minecraft:orange_wool",
     OxidizedCopper = "minecraft:oxidized_copper",
     OxidizedCutCopper = "minecraft:oxidized_cut_copper",
@@ -4302,9 +4344,11 @@ declare enum MinecraftItemTypes {
     PillagerSpawnEgg = "minecraft:pillager_spawn_egg",
     PinkCandle = "minecraft:pink_candle",
     PinkCarpet = "minecraft:pink_carpet",
+    PinkConcrete = "minecraft:pink_concrete",
     PinkDye = "minecraft:pink_dye",
     PinkGlazedTerracotta = "minecraft:pink_glazed_terracotta",
     PinkPetals = "minecraft:pink_petals",
+    PinkShulkerBox = "minecraft:pink_shulker_box",
     PinkWool = "minecraft:pink_wool",
     Piston = "minecraft:piston",
     PitcherPlant = "minecraft:pitcher_plant",
@@ -4352,8 +4396,10 @@ declare enum MinecraftItemTypes {
     PumpkinSeeds = "minecraft:pumpkin_seeds",
     PurpleCandle = "minecraft:purple_candle",
     PurpleCarpet = "minecraft:purple_carpet",
+    PurpleConcrete = "minecraft:purple_concrete",
     PurpleDye = "minecraft:purple_dye",
     PurpleGlazedTerracotta = "minecraft:purple_glazed_terracotta",
+    PurpleShulkerBox = "minecraft:purple_shulker_box",
     PurpleWool = "minecraft:purple_wool",
     PurpurBlock = "minecraft:purpur_block",
     PurpurStairs = "minecraft:purpur_stairs",
@@ -4379,6 +4425,7 @@ declare enum MinecraftItemTypes {
     RecoveryCompass = "minecraft:recovery_compass",
     RedCandle = "minecraft:red_candle",
     RedCarpet = "minecraft:red_carpet",
+    RedConcrete = "minecraft:red_concrete",
     RedDye = "minecraft:red_dye",
     RedFlower = "minecraft:red_flower",
     RedGlazedTerracotta = "minecraft:red_glazed_terracotta",
@@ -4388,6 +4435,7 @@ declare enum MinecraftItemTypes {
     RedNetherBrickStairs = "minecraft:red_nether_brick_stairs",
     RedSandstone = "minecraft:red_sandstone",
     RedSandstoneStairs = "minecraft:red_sandstone_stairs",
+    RedShulkerBox = "minecraft:red_shulker_box",
     RedWool = "minecraft:red_wool",
     Redstone = "minecraft:redstone",
     RedstoneBlock = "minecraft:redstone_block",
@@ -4613,8 +4661,10 @@ declare enum MinecraftItemTypes {
     WheatSeeds = "minecraft:wheat_seeds",
     WhiteCandle = "minecraft:white_candle",
     WhiteCarpet = "minecraft:white_carpet",
+    WhiteConcrete = "minecraft:white_concrete",
     WhiteDye = "minecraft:white_dye",
     WhiteGlazedTerracotta = "minecraft:white_glazed_terracotta",
+    WhiteShulkerBox = "minecraft:white_shulker_box",
     WhiteWool = "minecraft:white_wool",
     WildArmorTrimSmithingTemplate = "minecraft:wild_armor_trim_smithing_template",
     WitchSpawnEgg = "minecraft:witch_spawn_egg",
@@ -4636,9 +4686,11 @@ declare enum MinecraftItemTypes {
     WritableBook = "minecraft:writable_book",
     YellowCandle = "minecraft:yellow_candle",
     YellowCarpet = "minecraft:yellow_carpet",
+    YellowConcrete = "minecraft:yellow_concrete",
     YellowDye = "minecraft:yellow_dye",
     YellowFlower = "minecraft:yellow_flower",
     YellowGlazedTerracotta = "minecraft:yellow_glazed_terracotta",
+    YellowShulkerBox = "minecraft:yellow_shulker_box",
     YellowWool = "minecraft:yellow_wool",
     ZoglinSpawnEgg = "minecraft:zoglin_spawn_egg",
     ZombieHorseSpawnEgg = "minecraft:zombie_horse_spawn_egg",
@@ -4649,7 +4701,7 @@ declare enum MinecraftItemTypes {
 /**
  * Union type equivalent of the MinecraftItemTypes enum.
  */
-declare type MinecraftItemTypesUnion = keyof typeof MinecraftItemTypes;
+type MinecraftItemTypesUnion = keyof typeof MinecraftItemTypes;
 
 export { MinecraftBlockTypes, MinecraftDimensionTypes, MinecraftEffectTypes, MinecraftEnchantmentTypes, MinecraftEntityTypes, MinecraftItemTypes };
-export type { AcaciaButtonStates, AcaciaDoorStates, AcaciaFenceGateStates, AcaciaHangingSignStates, AcaciaLogStates, AcaciaPressurePlateStates, AcaciaStairsStates, AcaciaStandingSignStates, AcaciaTrapdoorStates, AcaciaWallSignStates, ActivatorRailStates, AmethystClusterStates, AndesiteStairsStates, AnvilStates, AzaleaLeavesFloweredStates, AzaleaLeavesStates, BambooBlockStates, BambooButtonStates, BambooDoorStates, BambooDoubleSlabStates, BambooFenceGateStates, BambooHangingSignStates, BambooMosaicDoubleSlabStates, BambooMosaicSlabStates, BambooMosaicStairsStates, BambooPressurePlateStates, BambooSaplingStates, BambooSlabStates, BambooStairsStates, BambooStandingSignStates, BambooStates, BambooTrapdoorStates, BambooWallSignStates, BarrelStates, BasaltStates, BedStates, BedrockStates, BeeNestStates, BeehiveStates, BeetrootStates, BellStates, BigDripleafStates, BirchButtonStates, BirchDoorStates, BirchFenceGateStates, BirchHangingSignStates, BirchLogStates, BirchPressurePlateStates, BirchStairsStates, BirchStandingSignStates, BirchTrapdoorStates, BirchWallSignStates, BlackCandleCakeStates, BlackCandleStates, BlackGlazedTerracottaStates, BlackstoneDoubleSlabStates, BlackstoneSlabStates, BlackstoneStairsStates, BlackstoneWallStates, BlastFurnaceStates, BlockStateMapping, BlockStateSuperset, BlockStates, BlueCandleCakeStates, BlueCandleStates, BlueGlazedTerracottaStates, BoneBlockStates, BorderBlockStates, BrewingStandStates, BrickStairsStates, BrownCandleCakeStates, BrownCandleStates, BrownGlazedTerracottaStates, BrownMushroomBlockStates, BubbleColumnStates, CactusStates, CakeStates, CalibratedSculkSensorStates, CampfireStates, CandleCakeStates, CandleStates, CarrotsStates, CarvedPumpkinStates, CauldronStates, CaveVinesBodyWithBerriesStates, CaveVinesHeadWithBerriesStates, CaveVinesStates, ChainCommandBlockStates, ChainStates, ChemistryTableStates, CherryButtonStates, CherryDoorStates, CherryDoubleSlabStates, CherryFenceGateStates, CherryHangingSignStates, CherryLeavesStates, CherryLogStates, CherryPressurePlateStates, CherrySaplingStates, CherrySlabStates, CherryStairsStates, CherryStandingSignStates, CherryTrapdoorStates, CherryWallSignStates, CherryWoodStates, ChestStates, ChiseledBookshelfStates, ChorusFlowerStates, CobbledDeepslateDoubleSlabStates, CobbledDeepslateSlabStates, CobbledDeepslateStairsStates, CobbledDeepslateWallStates, CobblestoneWallStates, CocoaStates, ColoredTorchBpStates, ColoredTorchRgStates, CommandBlockStates, ComposterStates, ConcretePowderStates, ConcreteStates, CoralBlockStates, CoralFanDeadStates, CoralFanHang2States, CoralFanHang3States, CoralFanHangStates, CoralFanStates, CrimsonButtonStates, CrimsonDoorStates, CrimsonDoubleSlabStates, CrimsonFenceGateStates, CrimsonHangingSignStates, CrimsonHyphaeStates, CrimsonPressurePlateStates, CrimsonSlabStates, CrimsonStairsStates, CrimsonStandingSignStates, CrimsonStemStates, CrimsonTrapdoorStates, CrimsonWallSignStates, CutCopperSlabStates, CutCopperStairsStates, CyanCandleCakeStates, CyanCandleStates, CyanGlazedTerracottaStates, DarkOakButtonStates, DarkOakDoorStates, DarkOakFenceGateStates, DarkOakHangingSignStates, DarkOakLogStates, DarkOakPressurePlateStates, DarkOakStairsStates, DarkOakTrapdoorStates, DarkPrismarineStairsStates, DarkoakStandingSignStates, DarkoakWallSignStates, DaylightDetectorInvertedStates, DaylightDetectorStates, DecoratedPotStates, DeepslateBrickDoubleSlabStates, DeepslateBrickSlabStates, DeepslateBrickStairsStates, DeepslateBrickWallStates, DeepslateStates, DeepslateTileDoubleSlabStates, DeepslateTileSlabStates, DeepslateTileStairsStates, DeepslateTileWallStates, DetectorRailStates, DioriteStairsStates, DirtStates, DispenserStates, DoubleCutCopperSlabStates, DoublePlantStates, DoubleStoneBlockSlab2States, DoubleStoneBlockSlab3States, DoubleStoneBlockSlab4States, DoubleStoneBlockSlabStates, DoubleWoodenSlabStates, DropperStates, EndBrickStairsStates, EndPortalFrameStates, EndRodStates, EnderChestStates, ExposedCutCopperSlabStates, ExposedCutCopperStairsStates, ExposedDoubleCutCopperSlabStates, FarmlandStates, FenceGateStates, FireStates, FlowerPotStates, FlowingLavaStates, FlowingWaterStates, FrameStates, FrostedIceStates, FurnaceStates, GlowFrameStates, GlowLichenStates, GoldenRailStates, GraniteStairsStates, GrayCandleCakeStates, GrayCandleStates, GrayGlazedTerracottaStates, GreenCandleCakeStates, GreenCandleStates, GreenGlazedTerracottaStates, GrindstoneStates, HardStainedGlassPaneStates, HardStainedGlassStates, HayBlockStates, HeavyWeightedPressurePlateStates, HopperStates, InfestedDeepslateStates, IronDoorStates, IronTrapdoorStates, JigsawStates, JungleButtonStates, JungleDoorStates, JungleFenceGateStates, JungleHangingSignStates, JungleLogStates, JunglePressurePlateStates, JungleStairsStates, JungleStandingSignStates, JungleTrapdoorStates, JungleWallSignStates, KelpStates, LadderStates, LanternStates, LargeAmethystBudStates, LavaStates, Leaves2States, LeavesStates, LecternStates, LeverStates, LightBlockStates, LightBlueCandleCakeStates, LightBlueCandleStates, LightBlueGlazedTerracottaStates, LightGrayCandleCakeStates, LightGrayCandleStates, LightWeightedPressurePlateStates, LightningRodStates, LimeCandleCakeStates, LimeCandleStates, LimeGlazedTerracottaStates, LitBlastFurnaceStates, LitFurnaceStates, LitPumpkinStates, LitSmokerStates, LoomStates, MagentaCandleCakeStates, MagentaCandleStates, MagentaGlazedTerracottaStates, MangroveButtonStates, MangroveDoorStates, MangroveDoubleSlabStates, MangroveFenceGateStates, MangroveHangingSignStates, MangroveLeavesStates, MangroveLogStates, MangrovePressurePlateStates, MangrovePropaguleStates, MangroveSlabStates, MangroveStairsStates, MangroveStandingSignStates, MangroveTrapdoorStates, MangroveWallSignStates, MangroveWoodStates, MediumAmethystBudStates, MelonStemStates, MinecraftBlockTypesUnion, MinecraftDimensionTypesUnion, MinecraftEffectTypesUnion, MinecraftEnchantmentTypesUnion, MinecraftEntityTypesUnion, MinecraftItemTypesUnion, MonsterEggStates, MossyCobblestoneStairsStates, MossyStoneBrickStairsStates, MudBrickDoubleSlabStates, MudBrickSlabStates, MudBrickStairsStates, MudBrickWallStates, MuddyMangroveRootsStates, NetherBrickStairsStates, NetherWartStates, NormalStoneStairsStates, OakHangingSignStates, OakLogStates, OakStairsStates, ObserverStates, OchreFroglightStates, OrangeCandleCakeStates, OrangeCandleStates, OrangeGlazedTerracottaStates, OxidizedCutCopperSlabStates, OxidizedCutCopperStairsStates, OxidizedDoubleCutCopperSlabStates, PearlescentFroglightStates, PinkCandleCakeStates, PinkCandleStates, PinkGlazedTerracottaStates, PinkPetalsStates, PistonArmCollisionStates, PistonStates, PitcherCropStates, PitcherPlantStates, PlanksStates, PointedDripstoneStates, PolishedAndesiteStairsStates, PolishedBasaltStates, PolishedBlackstoneBrickDoubleSlabStates, PolishedBlackstoneBrickSlabStates, PolishedBlackstoneBrickStairsStates, PolishedBlackstoneBrickWallStates, PolishedBlackstoneButtonStates, PolishedBlackstoneDoubleSlabStates, PolishedBlackstonePressurePlateStates, PolishedBlackstoneSlabStates, PolishedBlackstoneStairsStates, PolishedBlackstoneWallStates, PolishedDeepslateDoubleSlabStates, PolishedDeepslateSlabStates, PolishedDeepslateStairsStates, PolishedDeepslateWallStates, PolishedDioriteStairsStates, PolishedGraniteStairsStates, PortalStates, PotatoesStates, PoweredComparatorStates, PoweredRepeaterStates, PrismarineBricksStairsStates, PrismarineStairsStates, PrismarineStates, PumpkinStates, PumpkinStemStates, PurpleCandleCakeStates, PurpleCandleStates, PurpleGlazedTerracottaStates, PurpurBlockStates, PurpurStairsStates, QuartzBlockStates, QuartzStairsStates, RailStates, RedCandleCakeStates, RedCandleStates, RedFlowerStates, RedGlazedTerracottaStates, RedMushroomBlockStates, RedNetherBrickStairsStates, RedSandstoneStairsStates, RedSandstoneStates, RedstoneTorchStates, RedstoneWireStates, ReedsStates, RepeatingCommandBlockStates, RespawnAnchorStates, SandStates, SandstoneStairsStates, SandstoneStates, SaplingStates, ScaffoldingStates, SculkCatalystStates, SculkSensorStates, SculkShriekerStates, SculkVeinStates, SeaPickleStates, SeagrassStates, ShulkerBoxStates, SilverGlazedTerracottaStates, SkullStates, SmallAmethystBudStates, SmallDripleafBlockStates, SmokerStates, SmoothQuartzStairsStates, SmoothRedSandstoneStairsStates, SmoothSandstoneStairsStates, SnifferEggStates, SnowLayerStates, SoulCampfireStates, SoulFireStates, SoulLanternStates, SoulTorchStates, SpongeStates, SpruceButtonStates, SpruceDoorStates, SpruceFenceGateStates, SpruceHangingSignStates, SpruceLogStates, SprucePressurePlateStates, SpruceStairsStates, SpruceStandingSignStates, SpruceTrapdoorStates, SpruceWallSignStates, StainedGlassPaneStates, StainedGlassStates, StainedHardenedClayStates, StandingBannerStates, StandingSignStates, StickyPistonArmCollisionStates, StickyPistonStates, StoneBlockSlab2States, StoneBlockSlab3States, StoneBlockSlab4States, StoneBlockSlabStates, StoneBrickStairsStates, StoneButtonStates, StonePressurePlateStates, StoneStairsStates, StoneStates, StonebrickStates, StonecutterBlockStates, StrippedAcaciaLogStates, StrippedBambooBlockStates, StrippedBirchLogStates, StrippedCherryLogStates, StrippedCherryWoodStates, StrippedCrimsonHyphaeStates, StrippedCrimsonStemStates, StrippedDarkOakLogStates, StrippedJungleLogStates, StrippedMangroveLogStates, StrippedMangroveWoodStates, StrippedOakLogStates, StrippedSpruceLogStates, StrippedWarpedHyphaeStates, StrippedWarpedStemStates, StructureBlockStates, StructureVoidStates, SuspiciousGravelStates, SuspiciousSandStates, SweetBerryBushStates, TallgrassStates, TntStates, TorchStates, TorchflowerCropStates, TrapdoorStates, TrappedChestStates, TripWireStates, TripwireHookStates, TurtleEggStates, TwistingVinesStates, UnderwaterTorchStates, UnlitRedstoneTorchStates, UnpoweredComparatorStates, UnpoweredRepeaterStates, VerdantFroglightStates, VineStates, WallBannerStates, WallSignStates, WarpedButtonStates, WarpedDoorStates, WarpedDoubleSlabStates, WarpedFenceGateStates, WarpedHangingSignStates, WarpedHyphaeStates, WarpedPressurePlateStates, WarpedSlabStates, WarpedStairsStates, WarpedStandingSignStates, WarpedStemStates, WarpedTrapdoorStates, WarpedWallSignStates, WaterStates, WaxedCutCopperSlabStates, WaxedCutCopperStairsStates, WaxedDoubleCutCopperSlabStates, WaxedExposedCutCopperSlabStates, WaxedExposedCutCopperStairsStates, WaxedExposedDoubleCutCopperSlabStates, WaxedOxidizedCutCopperSlabStates, WaxedOxidizedCutCopperStairsStates, WaxedOxidizedDoubleCutCopperSlabStates, WaxedWeatheredCutCopperSlabStates, WaxedWeatheredCutCopperStairsStates, WaxedWeatheredDoubleCutCopperSlabStates, WeatheredCutCopperSlabStates, WeatheredCutCopperStairsStates, WeatheredDoubleCutCopperSlabStates, WeepingVinesStates, WheatStates, WhiteCandleCakeStates, WhiteCandleStates, WhiteGlazedTerracottaStates, WoodStates, WoodenButtonStates, WoodenDoorStates, WoodenPressurePlateStates, WoodenSlabStates, YellowCandleCakeStates, YellowCandleStates, YellowGlazedTerracottaStates };
+export type { AcaciaButtonStates, AcaciaDoorStates, AcaciaFenceGateStates, AcaciaHangingSignStates, AcaciaLogStates, AcaciaPressurePlateStates, AcaciaStairsStates, AcaciaStandingSignStates, AcaciaTrapdoorStates, AcaciaWallSignStates, ActivatorRailStates, AmethystClusterStates, AndesiteStairsStates, AnvilStates, AzaleaLeavesFloweredStates, AzaleaLeavesStates, BambooBlockStates, BambooButtonStates, BambooDoorStates, BambooDoubleSlabStates, BambooFenceGateStates, BambooHangingSignStates, BambooMosaicDoubleSlabStates, BambooMosaicSlabStates, BambooMosaicStairsStates, BambooPressurePlateStates, BambooSaplingStates, BambooSlabStates, BambooStairsStates, BambooStandingSignStates, BambooStates, BambooTrapdoorStates, BambooWallSignStates, BarrelStates, BasaltStates, BedStates, BedrockStates, BeeNestStates, BeehiveStates, BeetrootStates, BellStates, BigDripleafStates, BirchButtonStates, BirchDoorStates, BirchFenceGateStates, BirchHangingSignStates, BirchLogStates, BirchPressurePlateStates, BirchStairsStates, BirchStandingSignStates, BirchTrapdoorStates, BirchWallSignStates, BlackCandleCakeStates, BlackCandleStates, BlackGlazedTerracottaStates, BlackstoneDoubleSlabStates, BlackstoneSlabStates, BlackstoneStairsStates, BlackstoneWallStates, BlastFurnaceStates, BlockStateMapping, BlockStateSuperset, BlockStates, BlueCandleCakeStates, BlueCandleStates, BlueGlazedTerracottaStates, BoneBlockStates, BorderBlockStates, BrewingStandStates, BrickStairsStates, BrownCandleCakeStates, BrownCandleStates, BrownGlazedTerracottaStates, BrownMushroomBlockStates, BubbleColumnStates, CactusStates, CakeStates, CalibratedSculkSensorStates, CampfireStates, CandleCakeStates, CandleStates, CarrotsStates, CarvedPumpkinStates, CauldronStates, CaveVinesBodyWithBerriesStates, CaveVinesHeadWithBerriesStates, CaveVinesStates, ChainCommandBlockStates, ChainStates, ChemistryTableStates, CherryButtonStates, CherryDoorStates, CherryDoubleSlabStates, CherryFenceGateStates, CherryHangingSignStates, CherryLeavesStates, CherryLogStates, CherryPressurePlateStates, CherrySaplingStates, CherrySlabStates, CherryStairsStates, CherryStandingSignStates, CherryTrapdoorStates, CherryWallSignStates, CherryWoodStates, ChestStates, ChiseledBookshelfStates, ChorusFlowerStates, CobbledDeepslateDoubleSlabStates, CobbledDeepslateSlabStates, CobbledDeepslateStairsStates, CobbledDeepslateWallStates, CobblestoneWallStates, CocoaStates, ColoredTorchBpStates, ColoredTorchRgStates, CommandBlockStates, ComposterStates, ConcretePowderStates, CoralBlockStates, CoralFanDeadStates, CoralFanHang2States, CoralFanHang3States, CoralFanHangStates, CoralFanStates, CrimsonButtonStates, CrimsonDoorStates, CrimsonDoubleSlabStates, CrimsonFenceGateStates, CrimsonHangingSignStates, CrimsonHyphaeStates, CrimsonPressurePlateStates, CrimsonSlabStates, CrimsonStairsStates, CrimsonStandingSignStates, CrimsonStemStates, CrimsonTrapdoorStates, CrimsonWallSignStates, CutCopperSlabStates, CutCopperStairsStates, CyanCandleCakeStates, CyanCandleStates, CyanGlazedTerracottaStates, DarkOakButtonStates, DarkOakDoorStates, DarkOakFenceGateStates, DarkOakHangingSignStates, DarkOakLogStates, DarkOakPressurePlateStates, DarkOakStairsStates, DarkOakTrapdoorStates, DarkPrismarineStairsStates, DarkoakStandingSignStates, DarkoakWallSignStates, DaylightDetectorInvertedStates, DaylightDetectorStates, DecoratedPotStates, DeepslateBrickDoubleSlabStates, DeepslateBrickSlabStates, DeepslateBrickStairsStates, DeepslateBrickWallStates, DeepslateStates, DeepslateTileDoubleSlabStates, DeepslateTileSlabStates, DeepslateTileStairsStates, DeepslateTileWallStates, DetectorRailStates, DioriteStairsStates, DirtStates, DispenserStates, DoubleCutCopperSlabStates, DoublePlantStates, DoubleStoneBlockSlab2States, DoubleStoneBlockSlab3States, DoubleStoneBlockSlab4States, DoubleStoneBlockSlabStates, DoubleWoodenSlabStates, DropperStates, EndBrickStairsStates, EndPortalFrameStates, EndRodStates, EnderChestStates, ExposedCutCopperSlabStates, ExposedCutCopperStairsStates, ExposedDoubleCutCopperSlabStates, FarmlandStates, FenceGateStates, FireStates, FlowerPotStates, FlowingLavaStates, FlowingWaterStates, FrameStates, FrostedIceStates, FurnaceStates, GlowFrameStates, GlowLichenStates, GoldenRailStates, GraniteStairsStates, GrayCandleCakeStates, GrayCandleStates, GrayGlazedTerracottaStates, GreenCandleCakeStates, GreenCandleStates, GreenGlazedTerracottaStates, GrindstoneStates, HardStainedGlassPaneStates, HardStainedGlassStates, HayBlockStates, HeavyWeightedPressurePlateStates, HopperStates, InfestedDeepslateStates, IronDoorStates, IronTrapdoorStates, JigsawStates, JungleButtonStates, JungleDoorStates, JungleFenceGateStates, JungleHangingSignStates, JungleLogStates, JunglePressurePlateStates, JungleStairsStates, JungleStandingSignStates, JungleTrapdoorStates, JungleWallSignStates, KelpStates, LadderStates, LanternStates, LargeAmethystBudStates, LavaStates, Leaves2States, LeavesStates, LecternStates, LeverStates, LightBlockStates, LightBlueCandleCakeStates, LightBlueCandleStates, LightBlueGlazedTerracottaStates, LightGrayCandleCakeStates, LightGrayCandleStates, LightWeightedPressurePlateStates, LightningRodStates, LimeCandleCakeStates, LimeCandleStates, LimeGlazedTerracottaStates, LitBlastFurnaceStates, LitFurnaceStates, LitPumpkinStates, LitSmokerStates, LoomStates, MagentaCandleCakeStates, MagentaCandleStates, MagentaGlazedTerracottaStates, MangroveButtonStates, MangroveDoorStates, MangroveDoubleSlabStates, MangroveFenceGateStates, MangroveHangingSignStates, MangroveLeavesStates, MangroveLogStates, MangrovePressurePlateStates, MangrovePropaguleStates, MangroveSlabStates, MangroveStairsStates, MangroveStandingSignStates, MangroveTrapdoorStates, MangroveWallSignStates, MangroveWoodStates, MediumAmethystBudStates, MelonStemStates, MinecraftBlockTypesUnion, MinecraftDimensionTypesUnion, MinecraftEffectTypesUnion, MinecraftEnchantmentTypesUnion, MinecraftEntityTypesUnion, MinecraftItemTypesUnion, MonsterEggStates, MossyCobblestoneStairsStates, MossyStoneBrickStairsStates, MudBrickDoubleSlabStates, MudBrickSlabStates, MudBrickStairsStates, MudBrickWallStates, MuddyMangroveRootsStates, NetherBrickStairsStates, NetherWartStates, NormalStoneStairsStates, OakHangingSignStates, OakLogStates, OakStairsStates, ObserverStates, OchreFroglightStates, OrangeCandleCakeStates, OrangeCandleStates, OrangeGlazedTerracottaStates, OxidizedCutCopperSlabStates, OxidizedCutCopperStairsStates, OxidizedDoubleCutCopperSlabStates, PearlescentFroglightStates, PinkCandleCakeStates, PinkCandleStates, PinkGlazedTerracottaStates, PinkPetalsStates, PistonArmCollisionStates, PistonStates, PitcherCropStates, PitcherPlantStates, PlanksStates, PointedDripstoneStates, PolishedAndesiteStairsStates, PolishedBasaltStates, PolishedBlackstoneBrickDoubleSlabStates, PolishedBlackstoneBrickSlabStates, PolishedBlackstoneBrickStairsStates, PolishedBlackstoneBrickWallStates, PolishedBlackstoneButtonStates, PolishedBlackstoneDoubleSlabStates, PolishedBlackstonePressurePlateStates, PolishedBlackstoneSlabStates, PolishedBlackstoneStairsStates, PolishedBlackstoneWallStates, PolishedDeepslateDoubleSlabStates, PolishedDeepslateSlabStates, PolishedDeepslateStairsStates, PolishedDeepslateWallStates, PolishedDioriteStairsStates, PolishedGraniteStairsStates, PortalStates, PotatoesStates, PoweredComparatorStates, PoweredRepeaterStates, PrismarineBricksStairsStates, PrismarineStairsStates, PrismarineStates, PumpkinStates, PumpkinStemStates, PurpleCandleCakeStates, PurpleCandleStates, PurpleGlazedTerracottaStates, PurpurBlockStates, PurpurStairsStates, QuartzBlockStates, QuartzStairsStates, RailStates, RedCandleCakeStates, RedCandleStates, RedFlowerStates, RedGlazedTerracottaStates, RedMushroomBlockStates, RedNetherBrickStairsStates, RedSandstoneStairsStates, RedSandstoneStates, RedstoneTorchStates, RedstoneWireStates, ReedsStates, RepeatingCommandBlockStates, RespawnAnchorStates, SandStates, SandstoneStairsStates, SandstoneStates, SaplingStates, ScaffoldingStates, SculkCatalystStates, SculkSensorStates, SculkShriekerStates, SculkVeinStates, SeaPickleStates, SeagrassStates, SilverGlazedTerracottaStates, SkullStates, SmallAmethystBudStates, SmallDripleafBlockStates, SmokerStates, SmoothQuartzStairsStates, SmoothRedSandstoneStairsStates, SmoothSandstoneStairsStates, SnifferEggStates, SnowLayerStates, SoulCampfireStates, SoulFireStates, SoulLanternStates, SoulTorchStates, SpongeStates, SpruceButtonStates, SpruceDoorStates, SpruceFenceGateStates, SpruceHangingSignStates, SpruceLogStates, SprucePressurePlateStates, SpruceStairsStates, SpruceStandingSignStates, SpruceTrapdoorStates, SpruceWallSignStates, StainedGlassPaneStates, StainedGlassStates, StainedHardenedClayStates, StandingBannerStates, StandingSignStates, StickyPistonArmCollisionStates, StickyPistonStates, StoneBlockSlab2States, StoneBlockSlab3States, StoneBlockSlab4States, StoneBlockSlabStates, StoneBrickStairsStates, StoneButtonStates, StonePressurePlateStates, StoneStairsStates, StoneStates, StonebrickStates, StonecutterBlockStates, StrippedAcaciaLogStates, StrippedBambooBlockStates, StrippedBirchLogStates, StrippedCherryLogStates, StrippedCherryWoodStates, StrippedCrimsonHyphaeStates, StrippedCrimsonStemStates, StrippedDarkOakLogStates, StrippedJungleLogStates, StrippedMangroveLogStates, StrippedMangroveWoodStates, StrippedOakLogStates, StrippedSpruceLogStates, StrippedWarpedHyphaeStates, StrippedWarpedStemStates, StructureBlockStates, StructureVoidStates, SuspiciousGravelStates, SuspiciousSandStates, SweetBerryBushStates, TallgrassStates, TntStates, TorchStates, TorchflowerCropStates, TrapdoorStates, TrappedChestStates, TripWireStates, TripwireHookStates, TurtleEggStates, TwistingVinesStates, UnderwaterTorchStates, UnlitRedstoneTorchStates, UnpoweredComparatorStates, UnpoweredRepeaterStates, VerdantFroglightStates, VineStates, WallBannerStates, WallSignStates, WarpedButtonStates, WarpedDoorStates, WarpedDoubleSlabStates, WarpedFenceGateStates, WarpedHangingSignStates, WarpedHyphaeStates, WarpedPressurePlateStates, WarpedSlabStates, WarpedStairsStates, WarpedStandingSignStates, WarpedStemStates, WarpedTrapdoorStates, WarpedWallSignStates, WaterStates, WaxedCutCopperSlabStates, WaxedCutCopperStairsStates, WaxedDoubleCutCopperSlabStates, WaxedExposedCutCopperSlabStates, WaxedExposedCutCopperStairsStates, WaxedExposedDoubleCutCopperSlabStates, WaxedOxidizedCutCopperSlabStates, WaxedOxidizedCutCopperStairsStates, WaxedOxidizedDoubleCutCopperSlabStates, WaxedWeatheredCutCopperSlabStates, WaxedWeatheredCutCopperStairsStates, WaxedWeatheredDoubleCutCopperSlabStates, WeatheredCutCopperSlabStates, WeatheredCutCopperStairsStates, WeatheredDoubleCutCopperSlabStates, WeepingVinesStates, WheatStates, WhiteCandleCakeStates, WhiteCandleStates, WhiteGlazedTerracottaStates, WoodStates, WoodenButtonStates, WoodenDoorStates, WoodenPressurePlateStates, WoodenSlabStates, YellowCandleCakeStates, YellowCandleStates, YellowGlazedTerracottaStates };
