@@ -6567,6 +6567,7 @@ declare enum MinecraftItemTypes {
     MusicDiscCreator = "minecraft:music_disc_creator",
     MusicDiscCreatorMusicBox = "minecraft:music_disc_creator_music_box",
     MusicDiscFar = "minecraft:music_disc_far",
+    MusicDiscLavaChicken = "minecraft:music_disc_lava_chicken",
     MusicDiscMall = "minecraft:music_disc_mall",
     MusicDiscMellohi = "minecraft:music_disc_mellohi",
     MusicDiscOtherside = "minecraft:music_disc_otherside",
