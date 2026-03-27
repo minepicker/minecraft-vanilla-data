@@ -645,6 +645,7 @@ declare enum MinecraftBlockTypes {
     Glowstone = "minecraft:glowstone",
     GoldBlock = "minecraft:gold_block",
     GoldOre = "minecraft:gold_ore",
+    GoldenDandelion = "minecraft:golden_dandelion",
     GoldenRail = "minecraft:golden_rail",
     Granite = "minecraft:granite",
     GraniteDoubleSlab = "minecraft:granite_double_slab",
@@ -1492,6 +1493,7 @@ type BlockStateSuperset = {
     ['minecraft:connection_west']?: boolean;
     ['minecraft:corner']?: string;
     ['minecraft:facing_direction']?: string;
+    ['minecraft:multi_block_part']?: number;
     ['minecraft:vertical_half']?: string;
     ['moisturized_amount']?: number;
     ['monster_egg_stone_type']?: string;
@@ -6715,6 +6717,7 @@ declare enum MinecraftItemTypes {
     GoldenBoots = "minecraft:golden_boots",
     GoldenCarrot = "minecraft:golden_carrot",
     GoldenChestplate = "minecraft:golden_chestplate",
+    GoldenDandelion = "minecraft:golden_dandelion",
     GoldenHelmet = "minecraft:golden_helmet",
     GoldenHoe = "minecraft:golden_hoe",
     GoldenHorseArmor = "minecraft:golden_horse_armor",
