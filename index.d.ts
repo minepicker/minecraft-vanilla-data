@@ -17,6 +17,7 @@ declare enum MinecraftBiomeTypes {
     ColdTaigaHills = "minecraft:cold_taiga_hills",
     ColdTaigaMutated = "minecraft:cold_taiga_mutated",
     CrimsonForest = "minecraft:crimson_forest",
+    DappledForest = "minecraft:dappled_forest",
     DeepColdOcean = "minecraft:deep_cold_ocean",
     DeepDark = "minecraft:deep_dark",
     DeepFrozenOcean = "minecraft:deep_frozen_ocean",
@@ -196,6 +197,9 @@ declare enum MinecraftBlockTypes {
     BlackStainedGlassPane = "minecraft:black_stained_glass_pane",
     BlackTerracotta = "minecraft:black_terracotta",
     BlackWool = "minecraft:black_wool",
+    BlackWoolDoubleSlab = "minecraft:black_wool_double_slab",
+    BlackWoolSlab = "minecraft:black_wool_slab",
+    BlackWoolStairs = "minecraft:black_wool_stairs",
     Blackstone = "minecraft:blackstone",
     BlackstoneDoubleSlab = "minecraft:blackstone_double_slab",
     BlackstoneSlab = "minecraft:blackstone_slab",
@@ -215,6 +219,9 @@ declare enum MinecraftBlockTypes {
     BlueStainedGlassPane = "minecraft:blue_stained_glass_pane",
     BlueTerracotta = "minecraft:blue_terracotta",
     BlueWool = "minecraft:blue_wool",
+    BlueWoolDoubleSlab = "minecraft:blue_wool_double_slab",
+    BlueWoolSlab = "minecraft:blue_wool_slab",
+    BlueWoolStairs = "minecraft:blue_wool_stairs",
     BoneBlock = "minecraft:bone_block",
     Bookshelf = "minecraft:bookshelf",
     BorderBlock = "minecraft:border_block",
@@ -241,6 +248,9 @@ declare enum MinecraftBlockTypes {
     BrownStainedGlassPane = "minecraft:brown_stained_glass_pane",
     BrownTerracotta = "minecraft:brown_terracotta",
     BrownWool = "minecraft:brown_wool",
+    BrownWoolDoubleSlab = "minecraft:brown_wool_double_slab",
+    BrownWoolSlab = "minecraft:brown_wool_slab",
+    BrownWoolStairs = "minecraft:brown_wool_stairs",
     BubbleColumn = "minecraft:bubble_column",
     BubbleCoral = "minecraft:bubble_coral",
     BubbleCoralBlock = "minecraft:bubble_coral_block",
@@ -397,6 +407,9 @@ declare enum MinecraftBlockTypes {
     CyanStainedGlassPane = "minecraft:cyan_stained_glass_pane",
     CyanTerracotta = "minecraft:cyan_terracotta",
     CyanWool = "minecraft:cyan_wool",
+    CyanWoolDoubleSlab = "minecraft:cyan_wool_double_slab",
+    CyanWoolSlab = "minecraft:cyan_wool_slab",
+    CyanWoolStairs = "minecraft:cyan_wool_stairs",
     DamagedAnvil = "minecraft:damaged_anvil",
     Dandelion = "minecraft:dandelion",
     DarkOakButton = "minecraft:dark_oak_button",
@@ -679,6 +692,9 @@ declare enum MinecraftBlockTypes {
     GrayStainedGlassPane = "minecraft:gray_stained_glass_pane",
     GrayTerracotta = "minecraft:gray_terracotta",
     GrayWool = "minecraft:gray_wool",
+    GrayWoolDoubleSlab = "minecraft:gray_wool_double_slab",
+    GrayWoolSlab = "minecraft:gray_wool_slab",
+    GrayWoolStairs = "minecraft:gray_wool_stairs",
     GreenCandle = "minecraft:green_candle",
     GreenCandleCake = "minecraft:green_candle_cake",
     GreenCarpet = "minecraft:green_carpet",
@@ -690,6 +706,9 @@ declare enum MinecraftBlockTypes {
     GreenStainedGlassPane = "minecraft:green_stained_glass_pane",
     GreenTerracotta = "minecraft:green_terracotta",
     GreenWool = "minecraft:green_wool",
+    GreenWoolDoubleSlab = "minecraft:green_wool_double_slab",
+    GreenWoolSlab = "minecraft:green_wool_slab",
+    GreenWoolStairs = "minecraft:green_wool_stairs",
     Grindstone = "minecraft:grindstone",
     HangingRoots = "minecraft:hanging_roots",
     HardBlackStainedGlass = "minecraft:hard_black_stained_glass",
@@ -810,6 +829,9 @@ declare enum MinecraftBlockTypes {
     LightBlueStainedGlassPane = "minecraft:light_blue_stained_glass_pane",
     LightBlueTerracotta = "minecraft:light_blue_terracotta",
     LightBlueWool = "minecraft:light_blue_wool",
+    LightBlueWoolDoubleSlab = "minecraft:light_blue_wool_double_slab",
+    LightBlueWoolSlab = "minecraft:light_blue_wool_slab",
+    LightBlueWoolStairs = "minecraft:light_blue_wool_stairs",
     LightGrayCandle = "minecraft:light_gray_candle",
     LightGrayCandleCake = "minecraft:light_gray_candle_cake",
     LightGrayCarpet = "minecraft:light_gray_carpet",
@@ -820,6 +842,9 @@ declare enum MinecraftBlockTypes {
     LightGrayStainedGlassPane = "minecraft:light_gray_stained_glass_pane",
     LightGrayTerracotta = "minecraft:light_gray_terracotta",
     LightGrayWool = "minecraft:light_gray_wool",
+    LightGrayWoolDoubleSlab = "minecraft:light_gray_wool_double_slab",
+    LightGrayWoolSlab = "minecraft:light_gray_wool_slab",
+    LightGrayWoolStairs = "minecraft:light_gray_wool_stairs",
     LightWeightedPressurePlate = "minecraft:light_weighted_pressure_plate",
     LightningRod = "minecraft:lightning_rod",
     Lilac = "minecraft:lilac",
@@ -835,6 +860,9 @@ declare enum MinecraftBlockTypes {
     LimeStainedGlassPane = "minecraft:lime_stained_glass_pane",
     LimeTerracotta = "minecraft:lime_terracotta",
     LimeWool = "minecraft:lime_wool",
+    LimeWoolDoubleSlab = "minecraft:lime_wool_double_slab",
+    LimeWoolSlab = "minecraft:lime_wool_slab",
+    LimeWoolStairs = "minecraft:lime_wool_stairs",
     LitBlastFurnace = "minecraft:lit_blast_furnace",
     LitDeepslateRedstoneOre = "minecraft:lit_deepslate_redstone_ore",
     LitFurnace = "minecraft:lit_furnace",
@@ -855,6 +883,9 @@ declare enum MinecraftBlockTypes {
     MagentaStainedGlassPane = "minecraft:magenta_stained_glass_pane",
     MagentaTerracotta = "minecraft:magenta_terracotta",
     MagentaWool = "minecraft:magenta_wool",
+    MagentaWoolDoubleSlab = "minecraft:magenta_wool_double_slab",
+    MagentaWoolSlab = "minecraft:magenta_wool_slab",
+    MagentaWoolStairs = "minecraft:magenta_wool_stairs",
     Magma = "minecraft:magma",
     MangroveButton = "minecraft:mangrove_button",
     MangroveDoor = "minecraft:mangrove_door",
@@ -938,12 +969,16 @@ declare enum MinecraftBlockTypes {
     OrangeConcrete = "minecraft:orange_concrete",
     OrangeConcretePowder = "minecraft:orange_concrete_powder",
     OrangeGlazedTerracotta = "minecraft:orange_glazed_terracotta",
+    OrangePoplarLeaves = "minecraft:orange_poplar_leaves",
     OrangeShulkerBox = "minecraft:orange_shulker_box",
     OrangeStainedGlass = "minecraft:orange_stained_glass",
     OrangeStainedGlassPane = "minecraft:orange_stained_glass_pane",
     OrangeTerracotta = "minecraft:orange_terracotta",
     OrangeTulip = "minecraft:orange_tulip",
     OrangeWool = "minecraft:orange_wool",
+    OrangeWoolDoubleSlab = "minecraft:orange_wool_double_slab",
+    OrangeWoolSlab = "minecraft:orange_wool_slab",
+    OrangeWoolStairs = "minecraft:orange_wool_stairs",
     OxeyeDaisy = "minecraft:oxeye_daisy",
     OxidizedChiseledCopper = "minecraft:oxidized_chiseled_copper",
     OxidizedCopper = "minecraft:oxidized_copper",
@@ -1002,6 +1037,9 @@ declare enum MinecraftBlockTypes {
     PinkTerracotta = "minecraft:pink_terracotta",
     PinkTulip = "minecraft:pink_tulip",
     PinkWool = "minecraft:pink_wool",
+    PinkWoolDoubleSlab = "minecraft:pink_wool_double_slab",
+    PinkWoolSlab = "minecraft:pink_wool_slab",
+    PinkWoolStairs = "minecraft:pink_wool_stairs",
     Piston = "minecraft:piston",
     PistonArmCollision = "minecraft:piston_arm_collision",
     PitcherCrop = "minecraft:pitcher_crop",
@@ -1054,6 +1092,23 @@ declare enum MinecraftBlockTypes {
     PolishedTuffSlab = "minecraft:polished_tuff_slab",
     PolishedTuffStairs = "minecraft:polished_tuff_stairs",
     PolishedTuffWall = "minecraft:polished_tuff_wall",
+    PoplarButton = "minecraft:poplar_button",
+    PoplarDoor = "minecraft:poplar_door",
+    PoplarDoubleSlab = "minecraft:poplar_double_slab",
+    PoplarFence = "minecraft:poplar_fence",
+    PoplarFenceGate = "minecraft:poplar_fence_gate",
+    PoplarHangingSign = "minecraft:poplar_hanging_sign",
+    PoplarLog = "minecraft:poplar_log",
+    PoplarPlanks = "minecraft:poplar_planks",
+    PoplarPressurePlate = "minecraft:poplar_pressure_plate",
+    PoplarSapling = "minecraft:poplar_sapling",
+    PoplarShelf = "minecraft:poplar_shelf",
+    PoplarSlab = "minecraft:poplar_slab",
+    PoplarStairs = "minecraft:poplar_stairs",
+    PoplarStandingSign = "minecraft:poplar_standing_sign",
+    PoplarTrapdoor = "minecraft:poplar_trapdoor",
+    PoplarWallSign = "minecraft:poplar_wall_sign",
+    PoplarWood = "minecraft:poplar_wood",
     Poppy = "minecraft:poppy",
     Portal = "minecraft:portal",
     Potatoes = "minecraft:potatoes",
@@ -1083,6 +1138,9 @@ declare enum MinecraftBlockTypes {
     PurpleStainedGlassPane = "minecraft:purple_stained_glass_pane",
     PurpleTerracotta = "minecraft:purple_terracotta",
     PurpleWool = "minecraft:purple_wool",
+    PurpleWoolDoubleSlab = "minecraft:purple_wool_double_slab",
+    PurpleWoolSlab = "minecraft:purple_wool_slab",
+    PurpleWoolStairs = "minecraft:purple_wool_stairs",
     PurpurBlock = "minecraft:purpur_block",
     PurpurDoubleSlab = "minecraft:purpur_double_slab",
     PurpurPillar = "minecraft:purpur_pillar",
@@ -1112,18 +1170,23 @@ declare enum MinecraftBlockTypes {
     RedNetherBrickSlab = "minecraft:red_nether_brick_slab",
     RedNetherBrickStairs = "minecraft:red_nether_brick_stairs",
     RedNetherBrickWall = "minecraft:red_nether_brick_wall",
+    RedPoplarLeaves = "minecraft:red_poplar_leaves",
     RedSand = "minecraft:red_sand",
     RedSandstone = "minecraft:red_sandstone",
     RedSandstoneDoubleSlab = "minecraft:red_sandstone_double_slab",
     RedSandstoneSlab = "minecraft:red_sandstone_slab",
     RedSandstoneStairs = "minecraft:red_sandstone_stairs",
     RedSandstoneWall = "minecraft:red_sandstone_wall",
+    RedShrub = "minecraft:red_shrub",
     RedShulkerBox = "minecraft:red_shulker_box",
     RedStainedGlass = "minecraft:red_stained_glass",
     RedStainedGlassPane = "minecraft:red_stained_glass_pane",
     RedTerracotta = "minecraft:red_terracotta",
     RedTulip = "minecraft:red_tulip",
     RedWool = "minecraft:red_wool",
+    RedWoolDoubleSlab = "minecraft:red_wool_double_slab",
+    RedWoolSlab = "minecraft:red_wool_slab",
+    RedWoolStairs = "minecraft:red_wool_stairs",
     RedstoneBlock = "minecraft:redstone_block",
     RedstoneLamp = "minecraft:redstone_lamp",
     RedstoneOre = "minecraft:redstone_ore",
@@ -1156,6 +1219,7 @@ declare enum MinecraftBlockTypes {
     SeaLantern = "minecraft:sea_lantern",
     SeaPickle = "minecraft:sea_pickle",
     Seagrass = "minecraft:seagrass",
+    ShelfMushroom = "minecraft:shelf_mushroom",
     ShortDryGrass = "minecraft:short_dry_grass",
     ShortGrass = "minecraft:short_grass",
     Shroomlight = "minecraft:shroomlight",
@@ -1225,6 +1289,7 @@ declare enum MinecraftBlockTypes {
     StonePressurePlate = "minecraft:stone_pressure_plate",
     StoneStairs = "minecraft:stone_stairs",
     StonecutterBlock = "minecraft:stonecutter_block",
+    StrawBed = "minecraft:straw_bed",
     StrippedAcaciaLog = "minecraft:stripped_acacia_log",
     StrippedAcaciaWood = "minecraft:stripped_acacia_wood",
     StrippedBambooBlock = "minecraft:stripped_bamboo_block",
@@ -1244,6 +1309,8 @@ declare enum MinecraftBlockTypes {
     StrippedOakWood = "minecraft:stripped_oak_wood",
     StrippedPaleOakLog = "minecraft:stripped_pale_oak_log",
     StrippedPaleOakWood = "minecraft:stripped_pale_oak_wood",
+    StrippedPoplarLog = "minecraft:stripped_poplar_log",
+    StrippedPoplarWood = "minecraft:stripped_poplar_wood",
     StrippedSpruceLog = "minecraft:stripped_spruce_log",
     StrippedSpruceWood = "minecraft:stripped_spruce_wood",
     StrippedWarpedHyphae = "minecraft:stripped_warped_hyphae",
@@ -1424,6 +1491,9 @@ declare enum MinecraftBlockTypes {
     WhiteTerracotta = "minecraft:white_terracotta",
     WhiteTulip = "minecraft:white_tulip",
     WhiteWool = "minecraft:white_wool",
+    WhiteWoolDoubleSlab = "minecraft:white_wool_double_slab",
+    WhiteWoolSlab = "minecraft:white_wool_slab",
+    WhiteWoolStairs = "minecraft:white_wool_stairs",
     Wildflowers = "minecraft:wildflowers",
     WitherRose = "minecraft:wither_rose",
     WitherSkeletonSkull = "minecraft:wither_skeleton_skull",
@@ -1436,11 +1506,15 @@ declare enum MinecraftBlockTypes {
     YellowConcrete = "minecraft:yellow_concrete",
     YellowConcretePowder = "minecraft:yellow_concrete_powder",
     YellowGlazedTerracotta = "minecraft:yellow_glazed_terracotta",
+    YellowPoplarLeaves = "minecraft:yellow_poplar_leaves",
     YellowShulkerBox = "minecraft:yellow_shulker_box",
     YellowStainedGlass = "minecraft:yellow_stained_glass",
     YellowStainedGlassPane = "minecraft:yellow_stained_glass_pane",
     YellowTerracotta = "minecraft:yellow_terracotta",
     YellowWool = "minecraft:yellow_wool",
+    YellowWoolDoubleSlab = "minecraft:yellow_wool_double_slab",
+    YellowWoolSlab = "minecraft:yellow_wool_slab",
+    YellowWoolStairs = "minecraft:yellow_wool_stairs",
     ZombieHead = "minecraft:zombie_head"
 }
 /**
@@ -1529,7 +1603,7 @@ type BlockStateSuperset = {
     ['minecraft:corner']?: string;
     ['minecraft:facing_direction']?: string;
     ['minecraft:multi_block_part']?: number;
-    ['minecraft:sixteen_way_rotation']?: string;
+    ['minecraft:sixteen_way_rotation']?: number;
     ['minecraft:vertical_half']?: string;
     ['moisturized_amount']?: number;
     ['monster_egg_stone_type']?: string;
@@ -1892,6 +1966,18 @@ type BlackCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  */
 type BlackGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
+ * States specific to BlackWoolDoubleSlab
+ */
+type BlackWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to BlackWoolSlab
+ */
+type BlackWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to BlackWoolStairs
+ */
+type BlackWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+/**
  * States specific to BlackstoneDoubleSlab
  */
 type BlackstoneDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
@@ -1923,6 +2009,18 @@ type BlueCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  * States specific to BlueGlazedTerracotta
  */
 type BlueGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+/**
+ * States specific to BlueWoolDoubleSlab
+ */
+type BlueWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to BlueWoolSlab
+ */
+type BlueWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to BlueWoolStairs
+ */
+type BlueWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to BoneBlock
  */
@@ -1975,6 +2073,18 @@ type BrownGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
  * States specific to BrownMushroomBlock
  */
 type BrownMushroomBlockStates = Pick<BlockStateSuperset, 'huge_mushroom_bits'>;
+/**
+ * States specific to BrownWoolDoubleSlab
+ */
+type BrownWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to BrownWoolSlab
+ */
+type BrownWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to BrownWoolStairs
+ */
+type BrownWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to BubbleColumn
  */
@@ -2352,6 +2462,18 @@ type CyanCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  */
 type CyanGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
+ * States specific to CyanWoolDoubleSlab
+ */
+type CyanWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to CyanWoolSlab
+ */
+type CyanWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to CyanWoolStairs
+ */
+type CyanWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+/**
  * States specific to DamagedAnvil
  */
 type DamagedAnvilStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
@@ -2720,6 +2842,18 @@ type GrayCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  */
 type GrayGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
+ * States specific to GrayWoolDoubleSlab
+ */
+type GrayWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to GrayWoolSlab
+ */
+type GrayWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to GrayWoolStairs
+ */
+type GrayWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+/**
  * States specific to GreenCandle
  */
 type GreenCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
@@ -2731,6 +2865,18 @@ type GreenCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  * States specific to GreenGlazedTerracotta
  */
 type GreenGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+/**
+ * States specific to GreenWoolDoubleSlab
+ */
+type GreenWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to GreenWoolSlab
+ */
+type GreenWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to GreenWoolStairs
+ */
+type GreenWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to Grindstone
  */
@@ -2892,6 +3038,18 @@ type LightBlueCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  */
 type LightBlueGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
+ * States specific to LightBlueWoolDoubleSlab
+ */
+type LightBlueWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to LightBlueWoolSlab
+ */
+type LightBlueWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to LightBlueWoolStairs
+ */
+type LightBlueWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+/**
  * States specific to LightGrayCandle
  */
 type LightGrayCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
@@ -2899,6 +3057,18 @@ type LightGrayCandleStates = Pick<BlockStateSuperset, 'candles' | 'lit'>;
  * States specific to LightGrayCandleCake
  */
 type LightGrayCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
+/**
+ * States specific to LightGrayWoolDoubleSlab
+ */
+type LightGrayWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to LightGrayWoolSlab
+ */
+type LightGrayWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to LightGrayWoolStairs
+ */
+type LightGrayWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to LightWeightedPressurePlate
  */
@@ -2923,6 +3093,18 @@ type LimeCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  * States specific to LimeGlazedTerracotta
  */
 type LimeGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+/**
+ * States specific to LimeWoolDoubleSlab
+ */
+type LimeWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to LimeWoolSlab
+ */
+type LimeWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to LimeWoolStairs
+ */
+type LimeWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to LitBlastFurnace
  */
@@ -2955,6 +3137,18 @@ type MagentaCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  * States specific to MagentaGlazedTerracotta
  */
 type MagentaGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+/**
+ * States specific to MagentaWoolDoubleSlab
+ */
+type MagentaWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to MagentaWoolSlab
+ */
+type MagentaWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to MagentaWoolStairs
+ */
+type MagentaWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to MangroveButton
  */
@@ -3176,6 +3370,22 @@ type OrangeCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  */
 type OrangeGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
+ * States specific to OrangePoplarLeaves
+ */
+type OrangePoplarLeavesStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
+/**
+ * States specific to OrangeWoolDoubleSlab
+ */
+type OrangeWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to OrangeWoolSlab
+ */
+type OrangeWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to OrangeWoolStairs
+ */
+type OrangeWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+/**
  * States specific to OxidizedCopperBulb
  */
 type OxidizedCopperBulbStates = Pick<BlockStateSuperset, 'lit' | 'powered_bit'>;
@@ -3327,6 +3537,18 @@ type PinkGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
  * States specific to PinkPetals
  */
 type PinkPetalsStates = Pick<BlockStateSuperset, 'growth' | 'minecraft:cardinal_direction'>;
+/**
+ * States specific to PinkWoolDoubleSlab
+ */
+type PinkWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to PinkWoolSlab
+ */
+type PinkWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to PinkWoolStairs
+ */
+type PinkWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to Piston
  */
@@ -3496,6 +3718,66 @@ type PolishedTuffStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'we
  */
 type PolishedTuffWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
+ * States specific to PoplarButton
+ */
+type PoplarButtonStates = Pick<BlockStateSuperset, 'button_pressed_bit' | 'facing_direction'>;
+/**
+ * States specific to PoplarDoor
+ */
+type PoplarDoorStates = Pick<BlockStateSuperset, 'door_hinge_bit' | 'minecraft:cardinal_direction' | 'open_bit' | 'upper_block_bit'>;
+/**
+ * States specific to PoplarDoubleSlab
+ */
+type PoplarDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to PoplarFenceGate
+ */
+type PoplarFenceGateStates = Pick<BlockStateSuperset, 'in_wall_bit' | 'minecraft:cardinal_direction' | 'open_bit'>;
+/**
+ * States specific to PoplarHangingSign
+ */
+type PoplarHangingSignStates = Pick<BlockStateSuperset, 'attached_bit' | 'facing_direction' | 'ground_sign_direction' | 'hanging'>;
+/**
+ * States specific to PoplarLog
+ */
+type PoplarLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+/**
+ * States specific to PoplarPressurePlate
+ */
+type PoplarPressurePlateStates = Pick<BlockStateSuperset, 'redstone_signal'>;
+/**
+ * States specific to PoplarSapling
+ */
+type PoplarSaplingStates = Pick<BlockStateSuperset, 'age_bit'>;
+/**
+ * States specific to PoplarShelf
+ */
+type PoplarShelfStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction' | 'powered_bit' | 'powered_shelf_type'>;
+/**
+ * States specific to PoplarSlab
+ */
+type PoplarSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to PoplarStairs
+ */
+type PoplarStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+/**
+ * States specific to PoplarStandingSign
+ */
+type PoplarStandingSignStates = Pick<BlockStateSuperset, 'ground_sign_direction'>;
+/**
+ * States specific to PoplarTrapdoor
+ */
+type PoplarTrapdoorStates = Pick<BlockStateSuperset, 'direction' | 'open_bit' | 'upside_down_bit'>;
+/**
+ * States specific to PoplarWallSign
+ */
+type PoplarWallSignStates = Pick<BlockStateSuperset, 'facing_direction'>;
+/**
+ * States specific to PoplarWood
+ */
+type PoplarWoodStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+/**
  * States specific to Portal
  */
 type PortalStates = Pick<BlockStateSuperset, 'portal_axis'>;
@@ -3563,6 +3845,18 @@ type PurpleCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  * States specific to PurpleGlazedTerracotta
  */
 type PurpleGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
+/**
+ * States specific to PurpleWoolDoubleSlab
+ */
+type PurpleWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to PurpleWoolSlab
+ */
+type PurpleWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to PurpleWoolStairs
+ */
+type PurpleWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to PurpurBlock
  */
@@ -3640,6 +3934,10 @@ type RedNetherBrickStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | '
  */
 type RedNetherBrickWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
 /**
+ * States specific to RedPoplarLeaves
+ */
+type RedPoplarLeavesStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
+/**
  * States specific to RedSandstoneDoubleSlab
  */
 type RedSandstoneDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
@@ -3655,6 +3953,18 @@ type RedSandstoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'we
  * States specific to RedSandstoneWall
  */
 type RedSandstoneWallStates = Pick<BlockStateSuperset, 'wall_connection_type_east' | 'wall_connection_type_north' | 'wall_connection_type_south' | 'wall_connection_type_west' | 'wall_post_bit'>;
+/**
+ * States specific to RedWoolDoubleSlab
+ */
+type RedWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to RedWoolSlab
+ */
+type RedWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to RedWoolStairs
+ */
+type RedWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
 /**
  * States specific to RedstoneTorch
  */
@@ -3743,6 +4053,10 @@ type SeaPickleStates = Pick<BlockStateSuperset, 'cluster_count' | 'dead_bit'>;
  * States specific to Seagrass
  */
 type SeagrassStates = Pick<BlockStateSuperset, 'sea_grass_type'>;
+/**
+ * States specific to ShelfMushroom
+ */
+type ShelfMushroomStates = Pick<BlockStateSuperset, 'growth' | 'minecraft:cardinal_direction'>;
 /**
  * States specific to SilverGlazedTerracotta
  */
@@ -3948,6 +4262,10 @@ type StoneStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_di
  */
 type StonecutterBlockStates = Pick<BlockStateSuperset, 'minecraft:cardinal_direction'>;
 /**
+ * States specific to StrawBed
+ */
+type StrawBedStates = Pick<BlockStateSuperset, 'head_piece_bit' | 'minecraft:cardinal_direction' | 'occupied_bit'>;
+/**
  * States specific to StrippedAcaciaLog
  */
 type StrippedAcaciaLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
@@ -4023,6 +4341,14 @@ type StrippedPaleOakLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
  * States specific to StrippedPaleOakWood
  */
 type StrippedPaleOakWoodStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+/**
+ * States specific to StrippedPoplarLog
+ */
+type StrippedPoplarLogStates = Pick<BlockStateSuperset, 'pillar_axis'>;
+/**
+ * States specific to StrippedPoplarWood
+ */
+type StrippedPoplarWoodStates = Pick<BlockStateSuperset, 'pillar_axis'>;
 /**
  * States specific to StrippedSpruceLog
  */
@@ -4520,6 +4846,18 @@ type WhiteCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  */
 type WhiteGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
+ * States specific to WhiteWoolDoubleSlab
+ */
+type WhiteWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to WhiteWoolSlab
+ */
+type WhiteWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to WhiteWoolStairs
+ */
+type WhiteWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+/**
  * States specific to Wildflowers
  */
 type WildflowersStates = Pick<BlockStateSuperset, 'growth' | 'minecraft:cardinal_direction'>;
@@ -4552,13 +4890,29 @@ type YellowCandleCakeStates = Pick<BlockStateSuperset, 'lit'>;
  */
 type YellowGlazedTerracottaStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
+ * States specific to YellowPoplarLeaves
+ */
+type YellowPoplarLeavesStates = Pick<BlockStateSuperset, 'persistent_bit' | 'update_bit'>;
+/**
+ * States specific to YellowWoolDoubleSlab
+ */
+type YellowWoolDoubleSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to YellowWoolSlab
+ */
+type YellowWoolSlabStates = Pick<BlockStateSuperset, 'minecraft:vertical_half'>;
+/**
+ * States specific to YellowWoolStairs
+ */
+type YellowWoolStairsStates = Pick<BlockStateSuperset, 'upside_down_bit' | 'weirdo_direction'>;
+/**
  * States specific to ZombieHead
  */
 type ZombieHeadStates = Pick<BlockStateSuperset, 'facing_direction'>;
 /**
  * Union of all types for Block states
  */
-type BlockStates = AcaciaButtonStates | AcaciaDoorStates | AcaciaDoubleSlabStates | AcaciaFenceGateStates | AcaciaHangingSignStates | AcaciaLeavesStates | AcaciaLogStates | AcaciaPressurePlateStates | AcaciaSaplingStates | AcaciaShelfStates | AcaciaSlabStates | AcaciaStairsStates | AcaciaStandingSignStates | AcaciaTrapdoorStates | AcaciaWallSignStates | AcaciaWoodStates | ActivatorRailStates | AmethystClusterStates | AndesiteDoubleSlabStates | AndesiteSlabStates | AndesiteStairsStates | AndesiteWallStates | AnvilStates | AzaleaLeavesStates | AzaleaLeavesFloweredStates | BambooStates | BambooBlockStates | BambooButtonStates | BambooDoorStates | BambooDoubleSlabStates | BambooFenceGateStates | BambooHangingSignStates | BambooMosaicDoubleSlabStates | BambooMosaicSlabStates | BambooMosaicStairsStates | BambooPressurePlateStates | BambooSaplingStates | BambooShelfStates | BambooSlabStates | BambooStairsStates | BambooStandingSignStates | BambooTrapdoorStates | BambooWallSignStates | BarrelStates | BasaltStates | BedStates | BedrockStates | BeeNestStates | BeehiveStates | BeetrootStates | BellStates | BigDripleafStates | BirchButtonStates | BirchDoorStates | BirchDoubleSlabStates | BirchFenceGateStates | BirchHangingSignStates | BirchLeavesStates | BirchLogStates | BirchPressurePlateStates | BirchSaplingStates | BirchShelfStates | BirchSlabStates | BirchStairsStates | BirchStandingSignStates | BirchTrapdoorStates | BirchWallSignStates | BirchWoodStates | BlackCandleStates | BlackCandleCakeStates | BlackGlazedTerracottaStates | BlackstoneDoubleSlabStates | BlackstoneSlabStates | BlackstoneStairsStates | BlackstoneWallStates | BlastFurnaceStates | BlueCandleStates | BlueCandleCakeStates | BlueGlazedTerracottaStates | BoneBlockStates | BorderBlockStates | BrainCoralFanStates | BrainCoralWallFanStates | BrewingStandStates | BrickDoubleSlabStates | BrickSlabStates | BrickStairsStates | BrickWallStates | BrownCandleStates | BrownCandleCakeStates | BrownGlazedTerracottaStates | BrownMushroomBlockStates | BubbleColumnStates | BubbleCoralFanStates | BubbleCoralWallFanStates | CactusStates | CakeStates | CalibratedSculkSensorStates | CampfireStates | CandleStates | CandleCakeStates | CarrotsStates | CarvedPumpkinStates | CauldronStates | CaveVinesStates | CaveVinesBodyWithBerriesStates | CaveVinesHeadWithBerriesStates | ChainCommandBlockStates | CherryButtonStates | CherryDoorStates | CherryDoubleSlabStates | CherryFenceGateStates | CherryHangingSignStates | CherryLeavesStates | CherryLogStates | CherryPressurePlateStates | CherrySaplingStates | CherryShelfStates | CherrySlabStates | CherryStairsStates | CherryStandingSignStates | CherryTrapdoorStates | CherryWallSignStates | CherryWoodStates | ChestStates | ChippedAnvilStates | ChiseledBookshelfStates | ChiseledQuartzBlockStates | ChorusFlowerStates | CinnabarBrickDoubleSlabStates | CinnabarBrickSlabStates | CinnabarBrickStairsStates | CinnabarBrickWallStates | CinnabarDoubleSlabStates | CinnabarSlabStates | CinnabarStairsStates | CinnabarWallStates | CobbledDeepslateDoubleSlabStates | CobbledDeepslateSlabStates | CobbledDeepslateStairsStates | CobbledDeepslateWallStates | CobblestoneDoubleSlabStates | CobblestoneSlabStates | CobblestoneWallStates | CocoaStates | ColoredTorchBlueStates | ColoredTorchGreenStates | ColoredTorchPurpleStates | ColoredTorchRedStates | CommandBlockStates | ComposterStates | CompoundCreatorStates | CopperBulbStates | CopperChainStates | CopperChestStates | CopperDoorStates | CopperGolemStatueStates | CopperLanternStates | CopperTorchStates | CopperTrapdoorStates | CrafterStates | CreakingHeartStates | CreeperHeadStates | CrimsonButtonStates | CrimsonDoorStates | CrimsonDoubleSlabStates | CrimsonFenceGateStates | CrimsonHangingSignStates | CrimsonHyphaeStates | CrimsonPressurePlateStates | CrimsonShelfStates | CrimsonSlabStates | CrimsonStairsStates | CrimsonStandingSignStates | CrimsonStemStates | CrimsonTrapdoorStates | CrimsonWallSignStates | CutCopperSlabStates | CutCopperStairsStates | CutRedSandstoneDoubleSlabStates | CutRedSandstoneSlabStates | CutSandstoneDoubleSlabStates | CutSandstoneSlabStates | CyanCandleStates | CyanCandleCakeStates | CyanGlazedTerracottaStates | DamagedAnvilStates | DarkOakButtonStates | DarkOakDoorStates | DarkOakDoubleSlabStates | DarkOakFenceGateStates | DarkOakHangingSignStates | DarkOakLeavesStates | DarkOakLogStates | DarkOakPressurePlateStates | DarkOakSaplingStates | DarkOakShelfStates | DarkOakSlabStates | DarkOakStairsStates | DarkOakTrapdoorStates | DarkOakWoodStates | DarkPrismarineDoubleSlabStates | DarkPrismarineSlabStates | DarkPrismarineStairsStates | DarkoakStandingSignStates | DarkoakWallSignStates | DaylightDetectorStates | DaylightDetectorInvertedStates | DeadBrainCoralFanStates | DeadBrainCoralWallFanStates | DeadBubbleCoralFanStates | DeadBubbleCoralWallFanStates | DeadFireCoralFanStates | DeadFireCoralWallFanStates | DeadHornCoralFanStates | DeadHornCoralWallFanStates | DeadTubeCoralFanStates | DeadTubeCoralWallFanStates | DecoratedPotStates | DeepslateStates | DeepslateBrickDoubleSlabStates | DeepslateBrickSlabStates | DeepslateBrickStairsStates | DeepslateBrickWallStates | DeepslateTileDoubleSlabStates | DeepslateTileSlabStates | DeepslateTileStairsStates | DeepslateTileWallStates | DetectorRailStates | DioriteDoubleSlabStates | DioriteSlabStates | DioriteStairsStates | DioriteWallStates | DispenserStates | DoubleCutCopperSlabStates | DragonHeadStates | DriedGhastStates | DropperStates | ElementConstructorStates | EndBrickStairsStates | EndPortalFrameStates | EndRodStates | EndStoneBrickDoubleSlabStates | EndStoneBrickSlabStates | EndStoneBrickWallStates | EnderChestStates | ExposedCopperBulbStates | ExposedCopperChainStates | ExposedCopperChestStates | ExposedCopperDoorStates | ExposedCopperGolemStatueStates | ExposedCopperLanternStates | ExposedCopperTrapdoorStates | ExposedCutCopperSlabStates | ExposedCutCopperStairsStates | ExposedDoubleCutCopperSlabStates | ExposedLightningRodStates | FarmlandStates | FenceGateStates | FireStates | FireCoralFanStates | FireCoralWallFanStates | FlowerPotStates | FlowingLavaStates | FlowingWaterStates | FrameStates | FrostedIceStates | FurnaceStates | GlowFrameStates | GlowLichenStates | GoldenRailStates | GraniteDoubleSlabStates | GraniteSlabStates | GraniteStairsStates | GraniteWallStates | GrayCandleStates | GrayCandleCakeStates | GrayGlazedTerracottaStates | GreenCandleStates | GreenCandleCakeStates | GreenGlazedTerracottaStates | GrindstoneStates | HayBlockStates | HeavyWeightedPressurePlateStates | HopperStates | HornCoralFanStates | HornCoralWallFanStates | InfestedDeepslateStates | IronChainStates | IronDoorStates | IronTrapdoorStates | JigsawStates | JungleButtonStates | JungleDoorStates | JungleDoubleSlabStates | JungleFenceGateStates | JungleHangingSignStates | JungleLeavesStates | JungleLogStates | JunglePressurePlateStates | JungleSaplingStates | JungleShelfStates | JungleSlabStates | JungleStairsStates | JungleStandingSignStates | JungleTrapdoorStates | JungleWallSignStates | JungleWoodStates | KelpStates | LabTableStates | LadderStates | LanternStates | LargeAmethystBudStates | LargeFernStates | LavaStates | LeafLitterStates | LecternStates | LeverStates | LightBlueCandleStates | LightBlueCandleCakeStates | LightBlueGlazedTerracottaStates | LightGrayCandleStates | LightGrayCandleCakeStates | LightWeightedPressurePlateStates | LightningRodStates | LilacStates | LimeCandleStates | LimeCandleCakeStates | LimeGlazedTerracottaStates | LitBlastFurnaceStates | LitFurnaceStates | LitPumpkinStates | LitSmokerStates | LoomStates | MagentaCandleStates | MagentaCandleCakeStates | MagentaGlazedTerracottaStates | MangroveButtonStates | MangroveDoorStates | MangroveDoubleSlabStates | MangroveFenceGateStates | MangroveHangingSignStates | MangroveLeavesStates | MangroveLogStates | MangrovePressurePlateStates | MangrovePropaguleStates | MangroveShelfStates | MangroveSlabStates | MangroveStairsStates | MangroveStandingSignStates | MangroveTrapdoorStates | MangroveWallSignStates | MangroveWoodStates | MaterialReducerStates | MediumAmethystBudStates | MelonStemStates | MossyCobblestoneDoubleSlabStates | MossyCobblestoneSlabStates | MossyCobblestoneStairsStates | MossyCobblestoneWallStates | MossyStoneBrickDoubleSlabStates | MossyStoneBrickSlabStates | MossyStoneBrickStairsStates | MossyStoneBrickWallStates | MudBrickDoubleSlabStates | MudBrickSlabStates | MudBrickStairsStates | MudBrickWallStates | MuddyMangroveRootsStates | MushroomStemStates | NetherBrickDoubleSlabStates | NetherBrickSlabStates | NetherBrickStairsStates | NetherBrickWallStates | NetherWartStates | NormalStoneDoubleSlabStates | NormalStoneSlabStates | NormalStoneStairsStates | OakDoubleSlabStates | OakHangingSignStates | OakLeavesStates | OakLogStates | OakSaplingStates | OakShelfStates | OakSlabStates | OakStairsStates | OakWoodStates | ObserverStates | OchreFroglightStates | OrangeCandleStates | OrangeCandleCakeStates | OrangeGlazedTerracottaStates | OxidizedCopperBulbStates | OxidizedCopperChainStates | OxidizedCopperChestStates | OxidizedCopperDoorStates | OxidizedCopperGolemStatueStates | OxidizedCopperLanternStates | OxidizedCopperTrapdoorStates | OxidizedCutCopperSlabStates | OxidizedCutCopperStairsStates | OxidizedDoubleCutCopperSlabStates | OxidizedLightningRodStates | PaleHangingMossStates | PaleMossCarpetStates | PaleOakButtonStates | PaleOakDoorStates | PaleOakDoubleSlabStates | PaleOakFenceGateStates | PaleOakHangingSignStates | PaleOakLeavesStates | PaleOakLogStates | PaleOakPressurePlateStates | PaleOakSaplingStates | PaleOakShelfStates | PaleOakSlabStates | PaleOakStairsStates | PaleOakStandingSignStates | PaleOakTrapdoorStates | PaleOakWallSignStates | PaleOakWoodStates | PearlescentFroglightStates | PeonyStates | PetrifiedOakDoubleSlabStates | PetrifiedOakSlabStates | PiglinHeadStates | PinkCandleStates | PinkCandleCakeStates | PinkGlazedTerracottaStates | PinkPetalsStates | PistonStates | PistonArmCollisionStates | PitcherCropStates | PitcherPlantStates | PlayerHeadStates | PointedDripstoneStates | PolishedAndesiteDoubleSlabStates | PolishedAndesiteSlabStates | PolishedAndesiteStairsStates | PolishedBasaltStates | PolishedBlackstoneBrickDoubleSlabStates | PolishedBlackstoneBrickSlabStates | PolishedBlackstoneBrickStairsStates | PolishedBlackstoneBrickWallStates | PolishedBlackstoneButtonStates | PolishedBlackstoneDoubleSlabStates | PolishedBlackstonePressurePlateStates | PolishedBlackstoneSlabStates | PolishedBlackstoneStairsStates | PolishedBlackstoneWallStates | PolishedCinnabarDoubleSlabStates | PolishedCinnabarSlabStates | PolishedCinnabarStairsStates | PolishedCinnabarWallStates | PolishedDeepslateDoubleSlabStates | PolishedDeepslateSlabStates | PolishedDeepslateStairsStates | PolishedDeepslateWallStates | PolishedDioriteDoubleSlabStates | PolishedDioriteSlabStates | PolishedDioriteStairsStates | PolishedGraniteDoubleSlabStates | PolishedGraniteSlabStates | PolishedGraniteStairsStates | PolishedSulfurDoubleSlabStates | PolishedSulfurSlabStates | PolishedSulfurStairsStates | PolishedSulfurWallStates | PolishedTuffDoubleSlabStates | PolishedTuffSlabStates | PolishedTuffStairsStates | PolishedTuffWallStates | PortalStates | PotatoesStates | PotentSulfurStates | PoweredComparatorStates | PoweredRepeaterStates | PrismarineBrickDoubleSlabStates | PrismarineBrickSlabStates | PrismarineBricksStairsStates | PrismarineDoubleSlabStates | PrismarineSlabStates | PrismarineStairsStates | PrismarineWallStates | PumpkinStates | PumpkinStemStates | PurpleCandleStates | PurpleCandleCakeStates | PurpleGlazedTerracottaStates | PurpurBlockStates | PurpurDoubleSlabStates | PurpurPillarStates | PurpurSlabStates | PurpurStairsStates | QuartzBlockStates | QuartzDoubleSlabStates | QuartzPillarStates | QuartzSlabStates | QuartzStairsStates | RailStates | RedCandleStates | RedCandleCakeStates | RedGlazedTerracottaStates | RedMushroomBlockStates | RedNetherBrickDoubleSlabStates | RedNetherBrickSlabStates | RedNetherBrickStairsStates | RedNetherBrickWallStates | RedSandstoneDoubleSlabStates | RedSandstoneSlabStates | RedSandstoneStairsStates | RedSandstoneWallStates | RedstoneTorchStates | RedstoneWireStates | ReedsStates | RepeatingCommandBlockStates | ResinBrickDoubleSlabStates | ResinBrickSlabStates | ResinBrickStairsStates | ResinBrickWallStates | ResinClumpStates | RespawnAnchorStates | RoseBushStates | SandstoneDoubleSlabStates | SandstoneSlabStates | SandstoneStairsStates | SandstoneWallStates | ScaffoldingStates | SculkCatalystStates | SculkSensorStates | SculkShriekerStates | SculkVeinStates | SeaPickleStates | SeagrassStates | SilverGlazedTerracottaStates | SkeletonSkullStates | SmallAmethystBudStates | SmallDripleafBlockStates | SmokerStates | SmoothQuartzStates | SmoothQuartzDoubleSlabStates | SmoothQuartzSlabStates | SmoothQuartzStairsStates | SmoothRedSandstoneDoubleSlabStates | SmoothRedSandstoneSlabStates | SmoothRedSandstoneStairsStates | SmoothSandstoneDoubleSlabStates | SmoothSandstoneSlabStates | SmoothSandstoneStairsStates | SmoothStoneDoubleSlabStates | SmoothStoneSlabStates | SnifferEggStates | SnowLayerStates | SoulCampfireStates | SoulFireStates | SoulLanternStates | SoulTorchStates | SpruceButtonStates | SpruceDoorStates | SpruceDoubleSlabStates | SpruceFenceGateStates | SpruceHangingSignStates | SpruceLeavesStates | SpruceLogStates | SprucePressurePlateStates | SpruceSaplingStates | SpruceShelfStates | SpruceSlabStates | SpruceStairsStates | SpruceStandingSignStates | SpruceTrapdoorStates | SpruceWallSignStates | SpruceWoodStates | StandingBannerStates | StandingSignStates | StickyPistonStates | StickyPistonArmCollisionStates | StoneBrickDoubleSlabStates | StoneBrickSlabStates | StoneBrickStairsStates | StoneBrickWallStates | StoneButtonStates | StonePressurePlateStates | StoneStairsStates | StonecutterBlockStates | StrippedAcaciaLogStates | StrippedAcaciaWoodStates | StrippedBambooBlockStates | StrippedBirchLogStates | StrippedBirchWoodStates | StrippedCherryLogStates | StrippedCherryWoodStates | StrippedCrimsonHyphaeStates | StrippedCrimsonStemStates | StrippedDarkOakLogStates | StrippedDarkOakWoodStates | StrippedJungleLogStates | StrippedJungleWoodStates | StrippedMangroveLogStates | StrippedMangroveWoodStates | StrippedOakLogStates | StrippedOakWoodStates | StrippedPaleOakLogStates | StrippedPaleOakWoodStates | StrippedSpruceLogStates | StrippedSpruceWoodStates | StrippedWarpedHyphaeStates | StrippedWarpedStemStates | StructureBlockStates | SulfurBrickDoubleSlabStates | SulfurBrickSlabStates | SulfurBrickStairsStates | SulfurBrickWallStates | SulfurDoubleSlabStates | SulfurSlabStates | SulfurSpikeStates | SulfurStairsStates | SulfurWallStates | SunflowerStates | SuspiciousGravelStates | SuspiciousSandStates | SweetBerryBushStates | TallGrassStates | TntStates | TorchStates | TorchflowerCropStates | TrapdoorStates | TrappedChestStates | TrialSpawnerStates | TripWireStates | TripwireHookStates | TubeCoralFanStates | TubeCoralWallFanStates | TuffBrickDoubleSlabStates | TuffBrickSlabStates | TuffBrickStairsStates | TuffBrickWallStates | TuffDoubleSlabStates | TuffSlabStates | TuffStairsStates | TuffWallStates | TurtleEggStates | TwistingVinesStates | UnderwaterTntStates | UnderwaterTorchStates | UnlitRedstoneTorchStates | UnpoweredComparatorStates | UnpoweredRepeaterStates | VaultStates | VerdantFroglightStates | VineStates | WallBannerStates | WallSignStates | WarpedButtonStates | WarpedDoorStates | WarpedDoubleSlabStates | WarpedFenceGateStates | WarpedHangingSignStates | WarpedHyphaeStates | WarpedPressurePlateStates | WarpedShelfStates | WarpedSlabStates | WarpedStairsStates | WarpedStandingSignStates | WarpedStemStates | WarpedTrapdoorStates | WarpedWallSignStates | WaterStates | WaxedCopperBulbStates | WaxedCopperChainStates | WaxedCopperChestStates | WaxedCopperDoorStates | WaxedCopperGolemStatueStates | WaxedCopperLanternStates | WaxedCopperTrapdoorStates | WaxedCutCopperSlabStates | WaxedCutCopperStairsStates | WaxedDoubleCutCopperSlabStates | WaxedExposedCopperBulbStates | WaxedExposedCopperChainStates | WaxedExposedCopperChestStates | WaxedExposedCopperDoorStates | WaxedExposedCopperGolemStatueStates | WaxedExposedCopperLanternStates | WaxedExposedCopperTrapdoorStates | WaxedExposedCutCopperSlabStates | WaxedExposedCutCopperStairsStates | WaxedExposedDoubleCutCopperSlabStates | WaxedExposedLightningRodStates | WaxedLightningRodStates | WaxedOxidizedCopperBulbStates | WaxedOxidizedCopperChainStates | WaxedOxidizedCopperChestStates | WaxedOxidizedCopperDoorStates | WaxedOxidizedCopperGolemStatueStates | WaxedOxidizedCopperLanternStates | WaxedOxidizedCopperTrapdoorStates | WaxedOxidizedCutCopperSlabStates | WaxedOxidizedCutCopperStairsStates | WaxedOxidizedDoubleCutCopperSlabStates | WaxedOxidizedLightningRodStates | WaxedWeatheredCopperBulbStates | WaxedWeatheredCopperChainStates | WaxedWeatheredCopperChestStates | WaxedWeatheredCopperDoorStates | WaxedWeatheredCopperGolemStatueStates | WaxedWeatheredCopperLanternStates | WaxedWeatheredCopperTrapdoorStates | WaxedWeatheredCutCopperSlabStates | WaxedWeatheredCutCopperStairsStates | WaxedWeatheredDoubleCutCopperSlabStates | WaxedWeatheredLightningRodStates | WeatheredCopperBulbStates | WeatheredCopperChainStates | WeatheredCopperChestStates | WeatheredCopperDoorStates | WeatheredCopperGolemStatueStates | WeatheredCopperLanternStates | WeatheredCopperTrapdoorStates | WeatheredCutCopperSlabStates | WeatheredCutCopperStairsStates | WeatheredDoubleCutCopperSlabStates | WeatheredLightningRodStates | WeepingVinesStates | WheatStates | WhiteCandleStates | WhiteCandleCakeStates | WhiteGlazedTerracottaStates | WildflowersStates | WitherSkeletonSkullStates | WoodenButtonStates | WoodenDoorStates | WoodenPressurePlateStates | YellowCandleStates | YellowCandleCakeStates | YellowGlazedTerracottaStates | ZombieHeadStates;
+type BlockStates = AcaciaButtonStates | AcaciaDoorStates | AcaciaDoubleSlabStates | AcaciaFenceGateStates | AcaciaHangingSignStates | AcaciaLeavesStates | AcaciaLogStates | AcaciaPressurePlateStates | AcaciaSaplingStates | AcaciaShelfStates | AcaciaSlabStates | AcaciaStairsStates | AcaciaStandingSignStates | AcaciaTrapdoorStates | AcaciaWallSignStates | AcaciaWoodStates | ActivatorRailStates | AmethystClusterStates | AndesiteDoubleSlabStates | AndesiteSlabStates | AndesiteStairsStates | AndesiteWallStates | AnvilStates | AzaleaLeavesStates | AzaleaLeavesFloweredStates | BambooStates | BambooBlockStates | BambooButtonStates | BambooDoorStates | BambooDoubleSlabStates | BambooFenceGateStates | BambooHangingSignStates | BambooMosaicDoubleSlabStates | BambooMosaicSlabStates | BambooMosaicStairsStates | BambooPressurePlateStates | BambooSaplingStates | BambooShelfStates | BambooSlabStates | BambooStairsStates | BambooStandingSignStates | BambooTrapdoorStates | BambooWallSignStates | BarrelStates | BasaltStates | BedStates | BedrockStates | BeeNestStates | BeehiveStates | BeetrootStates | BellStates | BigDripleafStates | BirchButtonStates | BirchDoorStates | BirchDoubleSlabStates | BirchFenceGateStates | BirchHangingSignStates | BirchLeavesStates | BirchLogStates | BirchPressurePlateStates | BirchSaplingStates | BirchShelfStates | BirchSlabStates | BirchStairsStates | BirchStandingSignStates | BirchTrapdoorStates | BirchWallSignStates | BirchWoodStates | BlackCandleStates | BlackCandleCakeStates | BlackGlazedTerracottaStates | BlackWoolDoubleSlabStates | BlackWoolSlabStates | BlackWoolStairsStates | BlackstoneDoubleSlabStates | BlackstoneSlabStates | BlackstoneStairsStates | BlackstoneWallStates | BlastFurnaceStates | BlueCandleStates | BlueCandleCakeStates | BlueGlazedTerracottaStates | BlueWoolDoubleSlabStates | BlueWoolSlabStates | BlueWoolStairsStates | BoneBlockStates | BorderBlockStates | BrainCoralFanStates | BrainCoralWallFanStates | BrewingStandStates | BrickDoubleSlabStates | BrickSlabStates | BrickStairsStates | BrickWallStates | BrownCandleStates | BrownCandleCakeStates | BrownGlazedTerracottaStates | BrownMushroomBlockStates | BrownWoolDoubleSlabStates | BrownWoolSlabStates | BrownWoolStairsStates | BubbleColumnStates | BubbleCoralFanStates | BubbleCoralWallFanStates | CactusStates | CakeStates | CalibratedSculkSensorStates | CampfireStates | CandleStates | CandleCakeStates | CarrotsStates | CarvedPumpkinStates | CauldronStates | CaveVinesStates | CaveVinesBodyWithBerriesStates | CaveVinesHeadWithBerriesStates | ChainCommandBlockStates | CherryButtonStates | CherryDoorStates | CherryDoubleSlabStates | CherryFenceGateStates | CherryHangingSignStates | CherryLeavesStates | CherryLogStates | CherryPressurePlateStates | CherrySaplingStates | CherryShelfStates | CherrySlabStates | CherryStairsStates | CherryStandingSignStates | CherryTrapdoorStates | CherryWallSignStates | CherryWoodStates | ChestStates | ChippedAnvilStates | ChiseledBookshelfStates | ChiseledQuartzBlockStates | ChorusFlowerStates | CinnabarBrickDoubleSlabStates | CinnabarBrickSlabStates | CinnabarBrickStairsStates | CinnabarBrickWallStates | CinnabarDoubleSlabStates | CinnabarSlabStates | CinnabarStairsStates | CinnabarWallStates | CobbledDeepslateDoubleSlabStates | CobbledDeepslateSlabStates | CobbledDeepslateStairsStates | CobbledDeepslateWallStates | CobblestoneDoubleSlabStates | CobblestoneSlabStates | CobblestoneWallStates | CocoaStates | ColoredTorchBlueStates | ColoredTorchGreenStates | ColoredTorchPurpleStates | ColoredTorchRedStates | CommandBlockStates | ComposterStates | CompoundCreatorStates | CopperBulbStates | CopperChainStates | CopperChestStates | CopperDoorStates | CopperGolemStatueStates | CopperLanternStates | CopperTorchStates | CopperTrapdoorStates | CrafterStates | CreakingHeartStates | CreeperHeadStates | CrimsonButtonStates | CrimsonDoorStates | CrimsonDoubleSlabStates | CrimsonFenceGateStates | CrimsonHangingSignStates | CrimsonHyphaeStates | CrimsonPressurePlateStates | CrimsonShelfStates | CrimsonSlabStates | CrimsonStairsStates | CrimsonStandingSignStates | CrimsonStemStates | CrimsonTrapdoorStates | CrimsonWallSignStates | CutCopperSlabStates | CutCopperStairsStates | CutRedSandstoneDoubleSlabStates | CutRedSandstoneSlabStates | CutSandstoneDoubleSlabStates | CutSandstoneSlabStates | CyanCandleStates | CyanCandleCakeStates | CyanGlazedTerracottaStates | CyanWoolDoubleSlabStates | CyanWoolSlabStates | CyanWoolStairsStates | DamagedAnvilStates | DarkOakButtonStates | DarkOakDoorStates | DarkOakDoubleSlabStates | DarkOakFenceGateStates | DarkOakHangingSignStates | DarkOakLeavesStates | DarkOakLogStates | DarkOakPressurePlateStates | DarkOakSaplingStates | DarkOakShelfStates | DarkOakSlabStates | DarkOakStairsStates | DarkOakTrapdoorStates | DarkOakWoodStates | DarkPrismarineDoubleSlabStates | DarkPrismarineSlabStates | DarkPrismarineStairsStates | DarkoakStandingSignStates | DarkoakWallSignStates | DaylightDetectorStates | DaylightDetectorInvertedStates | DeadBrainCoralFanStates | DeadBrainCoralWallFanStates | DeadBubbleCoralFanStates | DeadBubbleCoralWallFanStates | DeadFireCoralFanStates | DeadFireCoralWallFanStates | DeadHornCoralFanStates | DeadHornCoralWallFanStates | DeadTubeCoralFanStates | DeadTubeCoralWallFanStates | DecoratedPotStates | DeepslateStates | DeepslateBrickDoubleSlabStates | DeepslateBrickSlabStates | DeepslateBrickStairsStates | DeepslateBrickWallStates | DeepslateTileDoubleSlabStates | DeepslateTileSlabStates | DeepslateTileStairsStates | DeepslateTileWallStates | DetectorRailStates | DioriteDoubleSlabStates | DioriteSlabStates | DioriteStairsStates | DioriteWallStates | DispenserStates | DoubleCutCopperSlabStates | DragonHeadStates | DriedGhastStates | DropperStates | ElementConstructorStates | EndBrickStairsStates | EndPortalFrameStates | EndRodStates | EndStoneBrickDoubleSlabStates | EndStoneBrickSlabStates | EndStoneBrickWallStates | EnderChestStates | ExposedCopperBulbStates | ExposedCopperChainStates | ExposedCopperChestStates | ExposedCopperDoorStates | ExposedCopperGolemStatueStates | ExposedCopperLanternStates | ExposedCopperTrapdoorStates | ExposedCutCopperSlabStates | ExposedCutCopperStairsStates | ExposedDoubleCutCopperSlabStates | ExposedLightningRodStates | FarmlandStates | FenceGateStates | FireStates | FireCoralFanStates | FireCoralWallFanStates | FlowerPotStates | FlowingLavaStates | FlowingWaterStates | FrameStates | FrostedIceStates | FurnaceStates | GlowFrameStates | GlowLichenStates | GoldenRailStates | GraniteDoubleSlabStates | GraniteSlabStates | GraniteStairsStates | GraniteWallStates | GrayCandleStates | GrayCandleCakeStates | GrayGlazedTerracottaStates | GrayWoolDoubleSlabStates | GrayWoolSlabStates | GrayWoolStairsStates | GreenCandleStates | GreenCandleCakeStates | GreenGlazedTerracottaStates | GreenWoolDoubleSlabStates | GreenWoolSlabStates | GreenWoolStairsStates | GrindstoneStates | HayBlockStates | HeavyWeightedPressurePlateStates | HopperStates | HornCoralFanStates | HornCoralWallFanStates | InfestedDeepslateStates | IronChainStates | IronDoorStates | IronTrapdoorStates | JigsawStates | JungleButtonStates | JungleDoorStates | JungleDoubleSlabStates | JungleFenceGateStates | JungleHangingSignStates | JungleLeavesStates | JungleLogStates | JunglePressurePlateStates | JungleSaplingStates | JungleShelfStates | JungleSlabStates | JungleStairsStates | JungleStandingSignStates | JungleTrapdoorStates | JungleWallSignStates | JungleWoodStates | KelpStates | LabTableStates | LadderStates | LanternStates | LargeAmethystBudStates | LargeFernStates | LavaStates | LeafLitterStates | LecternStates | LeverStates | LightBlueCandleStates | LightBlueCandleCakeStates | LightBlueGlazedTerracottaStates | LightBlueWoolDoubleSlabStates | LightBlueWoolSlabStates | LightBlueWoolStairsStates | LightGrayCandleStates | LightGrayCandleCakeStates | LightGrayWoolDoubleSlabStates | LightGrayWoolSlabStates | LightGrayWoolStairsStates | LightWeightedPressurePlateStates | LightningRodStates | LilacStates | LimeCandleStates | LimeCandleCakeStates | LimeGlazedTerracottaStates | LimeWoolDoubleSlabStates | LimeWoolSlabStates | LimeWoolStairsStates | LitBlastFurnaceStates | LitFurnaceStates | LitPumpkinStates | LitSmokerStates | LoomStates | MagentaCandleStates | MagentaCandleCakeStates | MagentaGlazedTerracottaStates | MagentaWoolDoubleSlabStates | MagentaWoolSlabStates | MagentaWoolStairsStates | MangroveButtonStates | MangroveDoorStates | MangroveDoubleSlabStates | MangroveFenceGateStates | MangroveHangingSignStates | MangroveLeavesStates | MangroveLogStates | MangrovePressurePlateStates | MangrovePropaguleStates | MangroveShelfStates | MangroveSlabStates | MangroveStairsStates | MangroveStandingSignStates | MangroveTrapdoorStates | MangroveWallSignStates | MangroveWoodStates | MaterialReducerStates | MediumAmethystBudStates | MelonStemStates | MossyCobblestoneDoubleSlabStates | MossyCobblestoneSlabStates | MossyCobblestoneStairsStates | MossyCobblestoneWallStates | MossyStoneBrickDoubleSlabStates | MossyStoneBrickSlabStates | MossyStoneBrickStairsStates | MossyStoneBrickWallStates | MudBrickDoubleSlabStates | MudBrickSlabStates | MudBrickStairsStates | MudBrickWallStates | MuddyMangroveRootsStates | MushroomStemStates | NetherBrickDoubleSlabStates | NetherBrickSlabStates | NetherBrickStairsStates | NetherBrickWallStates | NetherWartStates | NormalStoneDoubleSlabStates | NormalStoneSlabStates | NormalStoneStairsStates | OakDoubleSlabStates | OakHangingSignStates | OakLeavesStates | OakLogStates | OakSaplingStates | OakShelfStates | OakSlabStates | OakStairsStates | OakWoodStates | ObserverStates | OchreFroglightStates | OrangeCandleStates | OrangeCandleCakeStates | OrangeGlazedTerracottaStates | OrangePoplarLeavesStates | OrangeWoolDoubleSlabStates | OrangeWoolSlabStates | OrangeWoolStairsStates | OxidizedCopperBulbStates | OxidizedCopperChainStates | OxidizedCopperChestStates | OxidizedCopperDoorStates | OxidizedCopperGolemStatueStates | OxidizedCopperLanternStates | OxidizedCopperTrapdoorStates | OxidizedCutCopperSlabStates | OxidizedCutCopperStairsStates | OxidizedDoubleCutCopperSlabStates | OxidizedLightningRodStates | PaleHangingMossStates | PaleMossCarpetStates | PaleOakButtonStates | PaleOakDoorStates | PaleOakDoubleSlabStates | PaleOakFenceGateStates | PaleOakHangingSignStates | PaleOakLeavesStates | PaleOakLogStates | PaleOakPressurePlateStates | PaleOakSaplingStates | PaleOakShelfStates | PaleOakSlabStates | PaleOakStairsStates | PaleOakStandingSignStates | PaleOakTrapdoorStates | PaleOakWallSignStates | PaleOakWoodStates | PearlescentFroglightStates | PeonyStates | PetrifiedOakDoubleSlabStates | PetrifiedOakSlabStates | PiglinHeadStates | PinkCandleStates | PinkCandleCakeStates | PinkGlazedTerracottaStates | PinkPetalsStates | PinkWoolDoubleSlabStates | PinkWoolSlabStates | PinkWoolStairsStates | PistonStates | PistonArmCollisionStates | PitcherCropStates | PitcherPlantStates | PlayerHeadStates | PointedDripstoneStates | PolishedAndesiteDoubleSlabStates | PolishedAndesiteSlabStates | PolishedAndesiteStairsStates | PolishedBasaltStates | PolishedBlackstoneBrickDoubleSlabStates | PolishedBlackstoneBrickSlabStates | PolishedBlackstoneBrickStairsStates | PolishedBlackstoneBrickWallStates | PolishedBlackstoneButtonStates | PolishedBlackstoneDoubleSlabStates | PolishedBlackstonePressurePlateStates | PolishedBlackstoneSlabStates | PolishedBlackstoneStairsStates | PolishedBlackstoneWallStates | PolishedCinnabarDoubleSlabStates | PolishedCinnabarSlabStates | PolishedCinnabarStairsStates | PolishedCinnabarWallStates | PolishedDeepslateDoubleSlabStates | PolishedDeepslateSlabStates | PolishedDeepslateStairsStates | PolishedDeepslateWallStates | PolishedDioriteDoubleSlabStates | PolishedDioriteSlabStates | PolishedDioriteStairsStates | PolishedGraniteDoubleSlabStates | PolishedGraniteSlabStates | PolishedGraniteStairsStates | PolishedSulfurDoubleSlabStates | PolishedSulfurSlabStates | PolishedSulfurStairsStates | PolishedSulfurWallStates | PolishedTuffDoubleSlabStates | PolishedTuffSlabStates | PolishedTuffStairsStates | PolishedTuffWallStates | PoplarButtonStates | PoplarDoorStates | PoplarDoubleSlabStates | PoplarFenceGateStates | PoplarHangingSignStates | PoplarLogStates | PoplarPressurePlateStates | PoplarSaplingStates | PoplarShelfStates | PoplarSlabStates | PoplarStairsStates | PoplarStandingSignStates | PoplarTrapdoorStates | PoplarWallSignStates | PoplarWoodStates | PortalStates | PotatoesStates | PotentSulfurStates | PoweredComparatorStates | PoweredRepeaterStates | PrismarineBrickDoubleSlabStates | PrismarineBrickSlabStates | PrismarineBricksStairsStates | PrismarineDoubleSlabStates | PrismarineSlabStates | PrismarineStairsStates | PrismarineWallStates | PumpkinStates | PumpkinStemStates | PurpleCandleStates | PurpleCandleCakeStates | PurpleGlazedTerracottaStates | PurpleWoolDoubleSlabStates | PurpleWoolSlabStates | PurpleWoolStairsStates | PurpurBlockStates | PurpurDoubleSlabStates | PurpurPillarStates | PurpurSlabStates | PurpurStairsStates | QuartzBlockStates | QuartzDoubleSlabStates | QuartzPillarStates | QuartzSlabStates | QuartzStairsStates | RailStates | RedCandleStates | RedCandleCakeStates | RedGlazedTerracottaStates | RedMushroomBlockStates | RedNetherBrickDoubleSlabStates | RedNetherBrickSlabStates | RedNetherBrickStairsStates | RedNetherBrickWallStates | RedPoplarLeavesStates | RedSandstoneDoubleSlabStates | RedSandstoneSlabStates | RedSandstoneStairsStates | RedSandstoneWallStates | RedWoolDoubleSlabStates | RedWoolSlabStates | RedWoolStairsStates | RedstoneTorchStates | RedstoneWireStates | ReedsStates | RepeatingCommandBlockStates | ResinBrickDoubleSlabStates | ResinBrickSlabStates | ResinBrickStairsStates | ResinBrickWallStates | ResinClumpStates | RespawnAnchorStates | RoseBushStates | SandstoneDoubleSlabStates | SandstoneSlabStates | SandstoneStairsStates | SandstoneWallStates | ScaffoldingStates | SculkCatalystStates | SculkSensorStates | SculkShriekerStates | SculkVeinStates | SeaPickleStates | SeagrassStates | ShelfMushroomStates | SilverGlazedTerracottaStates | SkeletonSkullStates | SmallAmethystBudStates | SmallDripleafBlockStates | SmokerStates | SmoothQuartzStates | SmoothQuartzDoubleSlabStates | SmoothQuartzSlabStates | SmoothQuartzStairsStates | SmoothRedSandstoneDoubleSlabStates | SmoothRedSandstoneSlabStates | SmoothRedSandstoneStairsStates | SmoothSandstoneDoubleSlabStates | SmoothSandstoneSlabStates | SmoothSandstoneStairsStates | SmoothStoneDoubleSlabStates | SmoothStoneSlabStates | SnifferEggStates | SnowLayerStates | SoulCampfireStates | SoulFireStates | SoulLanternStates | SoulTorchStates | SpruceButtonStates | SpruceDoorStates | SpruceDoubleSlabStates | SpruceFenceGateStates | SpruceHangingSignStates | SpruceLeavesStates | SpruceLogStates | SprucePressurePlateStates | SpruceSaplingStates | SpruceShelfStates | SpruceSlabStates | SpruceStairsStates | SpruceStandingSignStates | SpruceTrapdoorStates | SpruceWallSignStates | SpruceWoodStates | StandingBannerStates | StandingSignStates | StickyPistonStates | StickyPistonArmCollisionStates | StoneBrickDoubleSlabStates | StoneBrickSlabStates | StoneBrickStairsStates | StoneBrickWallStates | StoneButtonStates | StonePressurePlateStates | StoneStairsStates | StonecutterBlockStates | StrawBedStates | StrippedAcaciaLogStates | StrippedAcaciaWoodStates | StrippedBambooBlockStates | StrippedBirchLogStates | StrippedBirchWoodStates | StrippedCherryLogStates | StrippedCherryWoodStates | StrippedCrimsonHyphaeStates | StrippedCrimsonStemStates | StrippedDarkOakLogStates | StrippedDarkOakWoodStates | StrippedJungleLogStates | StrippedJungleWoodStates | StrippedMangroveLogStates | StrippedMangroveWoodStates | StrippedOakLogStates | StrippedOakWoodStates | StrippedPaleOakLogStates | StrippedPaleOakWoodStates | StrippedPoplarLogStates | StrippedPoplarWoodStates | StrippedSpruceLogStates | StrippedSpruceWoodStates | StrippedWarpedHyphaeStates | StrippedWarpedStemStates | StructureBlockStates | SulfurBrickDoubleSlabStates | SulfurBrickSlabStates | SulfurBrickStairsStates | SulfurBrickWallStates | SulfurDoubleSlabStates | SulfurSlabStates | SulfurSpikeStates | SulfurStairsStates | SulfurWallStates | SunflowerStates | SuspiciousGravelStates | SuspiciousSandStates | SweetBerryBushStates | TallGrassStates | TntStates | TorchStates | TorchflowerCropStates | TrapdoorStates | TrappedChestStates | TrialSpawnerStates | TripWireStates | TripwireHookStates | TubeCoralFanStates | TubeCoralWallFanStates | TuffBrickDoubleSlabStates | TuffBrickSlabStates | TuffBrickStairsStates | TuffBrickWallStates | TuffDoubleSlabStates | TuffSlabStates | TuffStairsStates | TuffWallStates | TurtleEggStates | TwistingVinesStates | UnderwaterTntStates | UnderwaterTorchStates | UnlitRedstoneTorchStates | UnpoweredComparatorStates | UnpoweredRepeaterStates | VaultStates | VerdantFroglightStates | VineStates | WallBannerStates | WallSignStates | WarpedButtonStates | WarpedDoorStates | WarpedDoubleSlabStates | WarpedFenceGateStates | WarpedHangingSignStates | WarpedHyphaeStates | WarpedPressurePlateStates | WarpedShelfStates | WarpedSlabStates | WarpedStairsStates | WarpedStandingSignStates | WarpedStemStates | WarpedTrapdoorStates | WarpedWallSignStates | WaterStates | WaxedCopperBulbStates | WaxedCopperChainStates | WaxedCopperChestStates | WaxedCopperDoorStates | WaxedCopperGolemStatueStates | WaxedCopperLanternStates | WaxedCopperTrapdoorStates | WaxedCutCopperSlabStates | WaxedCutCopperStairsStates | WaxedDoubleCutCopperSlabStates | WaxedExposedCopperBulbStates | WaxedExposedCopperChainStates | WaxedExposedCopperChestStates | WaxedExposedCopperDoorStates | WaxedExposedCopperGolemStatueStates | WaxedExposedCopperLanternStates | WaxedExposedCopperTrapdoorStates | WaxedExposedCutCopperSlabStates | WaxedExposedCutCopperStairsStates | WaxedExposedDoubleCutCopperSlabStates | WaxedExposedLightningRodStates | WaxedLightningRodStates | WaxedOxidizedCopperBulbStates | WaxedOxidizedCopperChainStates | WaxedOxidizedCopperChestStates | WaxedOxidizedCopperDoorStates | WaxedOxidizedCopperGolemStatueStates | WaxedOxidizedCopperLanternStates | WaxedOxidizedCopperTrapdoorStates | WaxedOxidizedCutCopperSlabStates | WaxedOxidizedCutCopperStairsStates | WaxedOxidizedDoubleCutCopperSlabStates | WaxedOxidizedLightningRodStates | WaxedWeatheredCopperBulbStates | WaxedWeatheredCopperChainStates | WaxedWeatheredCopperChestStates | WaxedWeatheredCopperDoorStates | WaxedWeatheredCopperGolemStatueStates | WaxedWeatheredCopperLanternStates | WaxedWeatheredCopperTrapdoorStates | WaxedWeatheredCutCopperSlabStates | WaxedWeatheredCutCopperStairsStates | WaxedWeatheredDoubleCutCopperSlabStates | WaxedWeatheredLightningRodStates | WeatheredCopperBulbStates | WeatheredCopperChainStates | WeatheredCopperChestStates | WeatheredCopperDoorStates | WeatheredCopperGolemStatueStates | WeatheredCopperLanternStates | WeatheredCopperTrapdoorStates | WeatheredCutCopperSlabStates | WeatheredCutCopperStairsStates | WeatheredDoubleCutCopperSlabStates | WeatheredLightningRodStates | WeepingVinesStates | WheatStates | WhiteCandleStates | WhiteCandleCakeStates | WhiteGlazedTerracottaStates | WhiteWoolDoubleSlabStates | WhiteWoolSlabStates | WhiteWoolStairsStates | WildflowersStates | WitherSkeletonSkullStates | WoodenButtonStates | WoodenDoorStates | WoodenPressurePlateStates | YellowCandleStates | YellowCandleCakeStates | YellowGlazedTerracottaStates | YellowPoplarLeavesStates | YellowWoolDoubleSlabStates | YellowWoolSlabStates | YellowWoolStairsStates | ZombieHeadStates;
 /**
  * Mapping of each Block name to it's states
  */
@@ -4705,6 +5059,12 @@ type BlockStateMapping = {
     'minecraft:black_candle_cake': BlackCandleCakeStates;
     black_glazed_terracotta: BlackGlazedTerracottaStates;
     'minecraft:black_glazed_terracotta': BlackGlazedTerracottaStates;
+    black_wool_double_slab: BlackWoolDoubleSlabStates;
+    'minecraft:black_wool_double_slab': BlackWoolDoubleSlabStates;
+    black_wool_slab: BlackWoolSlabStates;
+    'minecraft:black_wool_slab': BlackWoolSlabStates;
+    black_wool_stairs: BlackWoolStairsStates;
+    'minecraft:black_wool_stairs': BlackWoolStairsStates;
     blackstone_double_slab: BlackstoneDoubleSlabStates;
     'minecraft:blackstone_double_slab': BlackstoneDoubleSlabStates;
     blackstone_slab: BlackstoneSlabStates;
@@ -4721,6 +5081,12 @@ type BlockStateMapping = {
     'minecraft:blue_candle_cake': BlueCandleCakeStates;
     blue_glazed_terracotta: BlueGlazedTerracottaStates;
     'minecraft:blue_glazed_terracotta': BlueGlazedTerracottaStates;
+    blue_wool_double_slab: BlueWoolDoubleSlabStates;
+    'minecraft:blue_wool_double_slab': BlueWoolDoubleSlabStates;
+    blue_wool_slab: BlueWoolSlabStates;
+    'minecraft:blue_wool_slab': BlueWoolSlabStates;
+    blue_wool_stairs: BlueWoolStairsStates;
+    'minecraft:blue_wool_stairs': BlueWoolStairsStates;
     bone_block: BoneBlockStates;
     'minecraft:bone_block': BoneBlockStates;
     border_block: BorderBlockStates;
@@ -4747,6 +5113,12 @@ type BlockStateMapping = {
     'minecraft:brown_glazed_terracotta': BrownGlazedTerracottaStates;
     brown_mushroom_block: BrownMushroomBlockStates;
     'minecraft:brown_mushroom_block': BrownMushroomBlockStates;
+    brown_wool_double_slab: BrownWoolDoubleSlabStates;
+    'minecraft:brown_wool_double_slab': BrownWoolDoubleSlabStates;
+    brown_wool_slab: BrownWoolSlabStates;
+    'minecraft:brown_wool_slab': BrownWoolSlabStates;
+    brown_wool_stairs: BrownWoolStairsStates;
+    'minecraft:brown_wool_stairs': BrownWoolStairsStates;
     bubble_column: BubbleColumnStates;
     'minecraft:bubble_column': BubbleColumnStates;
     bubble_coral_fan: BubbleCoralFanStates;
@@ -4935,6 +5307,12 @@ type BlockStateMapping = {
     'minecraft:cyan_candle_cake': CyanCandleCakeStates;
     cyan_glazed_terracotta: CyanGlazedTerracottaStates;
     'minecraft:cyan_glazed_terracotta': CyanGlazedTerracottaStates;
+    cyan_wool_double_slab: CyanWoolDoubleSlabStates;
+    'minecraft:cyan_wool_double_slab': CyanWoolDoubleSlabStates;
+    cyan_wool_slab: CyanWoolSlabStates;
+    'minecraft:cyan_wool_slab': CyanWoolSlabStates;
+    cyan_wool_stairs: CyanWoolStairsStates;
+    'minecraft:cyan_wool_stairs': CyanWoolStairsStates;
     damaged_anvil: DamagedAnvilStates;
     'minecraft:damaged_anvil': DamagedAnvilStates;
     dark_oak_button: DarkOakButtonStates;
@@ -5119,12 +5497,24 @@ type BlockStateMapping = {
     'minecraft:gray_candle_cake': GrayCandleCakeStates;
     gray_glazed_terracotta: GrayGlazedTerracottaStates;
     'minecraft:gray_glazed_terracotta': GrayGlazedTerracottaStates;
+    gray_wool_double_slab: GrayWoolDoubleSlabStates;
+    'minecraft:gray_wool_double_slab': GrayWoolDoubleSlabStates;
+    gray_wool_slab: GrayWoolSlabStates;
+    'minecraft:gray_wool_slab': GrayWoolSlabStates;
+    gray_wool_stairs: GrayWoolStairsStates;
+    'minecraft:gray_wool_stairs': GrayWoolStairsStates;
     green_candle: GreenCandleStates;
     'minecraft:green_candle': GreenCandleStates;
     green_candle_cake: GreenCandleCakeStates;
     'minecraft:green_candle_cake': GreenCandleCakeStates;
     green_glazed_terracotta: GreenGlazedTerracottaStates;
     'minecraft:green_glazed_terracotta': GreenGlazedTerracottaStates;
+    green_wool_double_slab: GreenWoolDoubleSlabStates;
+    'minecraft:green_wool_double_slab': GreenWoolDoubleSlabStates;
+    green_wool_slab: GreenWoolSlabStates;
+    'minecraft:green_wool_slab': GreenWoolSlabStates;
+    green_wool_stairs: GreenWoolStairsStates;
+    'minecraft:green_wool_stairs': GreenWoolStairsStates;
     grindstone: GrindstoneStates;
     'minecraft:grindstone': GrindstoneStates;
     hay_block: HayBlockStates;
@@ -5205,10 +5595,22 @@ type BlockStateMapping = {
     'minecraft:light_blue_candle_cake': LightBlueCandleCakeStates;
     light_blue_glazed_terracotta: LightBlueGlazedTerracottaStates;
     'minecraft:light_blue_glazed_terracotta': LightBlueGlazedTerracottaStates;
+    light_blue_wool_double_slab: LightBlueWoolDoubleSlabStates;
+    'minecraft:light_blue_wool_double_slab': LightBlueWoolDoubleSlabStates;
+    light_blue_wool_slab: LightBlueWoolSlabStates;
+    'minecraft:light_blue_wool_slab': LightBlueWoolSlabStates;
+    light_blue_wool_stairs: LightBlueWoolStairsStates;
+    'minecraft:light_blue_wool_stairs': LightBlueWoolStairsStates;
     light_gray_candle: LightGrayCandleStates;
     'minecraft:light_gray_candle': LightGrayCandleStates;
     light_gray_candle_cake: LightGrayCandleCakeStates;
     'minecraft:light_gray_candle_cake': LightGrayCandleCakeStates;
+    light_gray_wool_double_slab: LightGrayWoolDoubleSlabStates;
+    'minecraft:light_gray_wool_double_slab': LightGrayWoolDoubleSlabStates;
+    light_gray_wool_slab: LightGrayWoolSlabStates;
+    'minecraft:light_gray_wool_slab': LightGrayWoolSlabStates;
+    light_gray_wool_stairs: LightGrayWoolStairsStates;
+    'minecraft:light_gray_wool_stairs': LightGrayWoolStairsStates;
     light_weighted_pressure_plate: LightWeightedPressurePlateStates;
     'minecraft:light_weighted_pressure_plate': LightWeightedPressurePlateStates;
     lightning_rod: LightningRodStates;
@@ -5221,6 +5623,12 @@ type BlockStateMapping = {
     'minecraft:lime_candle_cake': LimeCandleCakeStates;
     lime_glazed_terracotta: LimeGlazedTerracottaStates;
     'minecraft:lime_glazed_terracotta': LimeGlazedTerracottaStates;
+    lime_wool_double_slab: LimeWoolDoubleSlabStates;
+    'minecraft:lime_wool_double_slab': LimeWoolDoubleSlabStates;
+    lime_wool_slab: LimeWoolSlabStates;
+    'minecraft:lime_wool_slab': LimeWoolSlabStates;
+    lime_wool_stairs: LimeWoolStairsStates;
+    'minecraft:lime_wool_stairs': LimeWoolStairsStates;
     lit_blast_furnace: LitBlastFurnaceStates;
     'minecraft:lit_blast_furnace': LitBlastFurnaceStates;
     lit_furnace: LitFurnaceStates;
@@ -5237,6 +5645,12 @@ type BlockStateMapping = {
     'minecraft:magenta_candle_cake': MagentaCandleCakeStates;
     magenta_glazed_terracotta: MagentaGlazedTerracottaStates;
     'minecraft:magenta_glazed_terracotta': MagentaGlazedTerracottaStates;
+    magenta_wool_double_slab: MagentaWoolDoubleSlabStates;
+    'minecraft:magenta_wool_double_slab': MagentaWoolDoubleSlabStates;
+    magenta_wool_slab: MagentaWoolSlabStates;
+    'minecraft:magenta_wool_slab': MagentaWoolSlabStates;
+    magenta_wool_stairs: MagentaWoolStairsStates;
+    'minecraft:magenta_wool_stairs': MagentaWoolStairsStates;
     mangrove_button: MangroveButtonStates;
     'minecraft:mangrove_button': MangroveButtonStates;
     mangrove_door: MangroveDoorStates;
@@ -5347,6 +5761,14 @@ type BlockStateMapping = {
     'minecraft:orange_candle_cake': OrangeCandleCakeStates;
     orange_glazed_terracotta: OrangeGlazedTerracottaStates;
     'minecraft:orange_glazed_terracotta': OrangeGlazedTerracottaStates;
+    orange_poplar_leaves: OrangePoplarLeavesStates;
+    'minecraft:orange_poplar_leaves': OrangePoplarLeavesStates;
+    orange_wool_double_slab: OrangeWoolDoubleSlabStates;
+    'minecraft:orange_wool_double_slab': OrangeWoolDoubleSlabStates;
+    orange_wool_slab: OrangeWoolSlabStates;
+    'minecraft:orange_wool_slab': OrangeWoolSlabStates;
+    orange_wool_stairs: OrangeWoolStairsStates;
+    'minecraft:orange_wool_stairs': OrangeWoolStairsStates;
     oxidized_copper_bulb: OxidizedCopperBulbStates;
     'minecraft:oxidized_copper_bulb': OxidizedCopperBulbStates;
     oxidized_copper_chain: OxidizedCopperChainStates;
@@ -5423,6 +5845,12 @@ type BlockStateMapping = {
     'minecraft:pink_glazed_terracotta': PinkGlazedTerracottaStates;
     pink_petals: PinkPetalsStates;
     'minecraft:pink_petals': PinkPetalsStates;
+    pink_wool_double_slab: PinkWoolDoubleSlabStates;
+    'minecraft:pink_wool_double_slab': PinkWoolDoubleSlabStates;
+    pink_wool_slab: PinkWoolSlabStates;
+    'minecraft:pink_wool_slab': PinkWoolSlabStates;
+    pink_wool_stairs: PinkWoolStairsStates;
+    'minecraft:pink_wool_stairs': PinkWoolStairsStates;
     piston: PistonStates;
     'minecraft:piston': PistonStates;
     piston_arm_collision: PistonArmCollisionStates;
@@ -5507,6 +5935,36 @@ type BlockStateMapping = {
     'minecraft:polished_tuff_stairs': PolishedTuffStairsStates;
     polished_tuff_wall: PolishedTuffWallStates;
     'minecraft:polished_tuff_wall': PolishedTuffWallStates;
+    poplar_button: PoplarButtonStates;
+    'minecraft:poplar_button': PoplarButtonStates;
+    poplar_door: PoplarDoorStates;
+    'minecraft:poplar_door': PoplarDoorStates;
+    poplar_double_slab: PoplarDoubleSlabStates;
+    'minecraft:poplar_double_slab': PoplarDoubleSlabStates;
+    poplar_fence_gate: PoplarFenceGateStates;
+    'minecraft:poplar_fence_gate': PoplarFenceGateStates;
+    poplar_hanging_sign: PoplarHangingSignStates;
+    'minecraft:poplar_hanging_sign': PoplarHangingSignStates;
+    poplar_log: PoplarLogStates;
+    'minecraft:poplar_log': PoplarLogStates;
+    poplar_pressure_plate: PoplarPressurePlateStates;
+    'minecraft:poplar_pressure_plate': PoplarPressurePlateStates;
+    poplar_sapling: PoplarSaplingStates;
+    'minecraft:poplar_sapling': PoplarSaplingStates;
+    poplar_shelf: PoplarShelfStates;
+    'minecraft:poplar_shelf': PoplarShelfStates;
+    poplar_slab: PoplarSlabStates;
+    'minecraft:poplar_slab': PoplarSlabStates;
+    poplar_stairs: PoplarStairsStates;
+    'minecraft:poplar_stairs': PoplarStairsStates;
+    poplar_standing_sign: PoplarStandingSignStates;
+    'minecraft:poplar_standing_sign': PoplarStandingSignStates;
+    poplar_trapdoor: PoplarTrapdoorStates;
+    'minecraft:poplar_trapdoor': PoplarTrapdoorStates;
+    poplar_wall_sign: PoplarWallSignStates;
+    'minecraft:poplar_wall_sign': PoplarWallSignStates;
+    poplar_wood: PoplarWoodStates;
+    'minecraft:poplar_wood': PoplarWoodStates;
     portal: PortalStates;
     'minecraft:portal': PortalStates;
     potatoes: PotatoesStates;
@@ -5541,6 +5999,12 @@ type BlockStateMapping = {
     'minecraft:purple_candle_cake': PurpleCandleCakeStates;
     purple_glazed_terracotta: PurpleGlazedTerracottaStates;
     'minecraft:purple_glazed_terracotta': PurpleGlazedTerracottaStates;
+    purple_wool_double_slab: PurpleWoolDoubleSlabStates;
+    'minecraft:purple_wool_double_slab': PurpleWoolDoubleSlabStates;
+    purple_wool_slab: PurpleWoolSlabStates;
+    'minecraft:purple_wool_slab': PurpleWoolSlabStates;
+    purple_wool_stairs: PurpleWoolStairsStates;
+    'minecraft:purple_wool_stairs': PurpleWoolStairsStates;
     purpur_block: PurpurBlockStates;
     'minecraft:purpur_block': PurpurBlockStates;
     purpur_double_slab: PurpurDoubleSlabStates;
@@ -5579,6 +6043,8 @@ type BlockStateMapping = {
     'minecraft:red_nether_brick_stairs': RedNetherBrickStairsStates;
     red_nether_brick_wall: RedNetherBrickWallStates;
     'minecraft:red_nether_brick_wall': RedNetherBrickWallStates;
+    red_poplar_leaves: RedPoplarLeavesStates;
+    'minecraft:red_poplar_leaves': RedPoplarLeavesStates;
     red_sandstone_double_slab: RedSandstoneDoubleSlabStates;
     'minecraft:red_sandstone_double_slab': RedSandstoneDoubleSlabStates;
     red_sandstone_slab: RedSandstoneSlabStates;
@@ -5587,6 +6053,12 @@ type BlockStateMapping = {
     'minecraft:red_sandstone_stairs': RedSandstoneStairsStates;
     red_sandstone_wall: RedSandstoneWallStates;
     'minecraft:red_sandstone_wall': RedSandstoneWallStates;
+    red_wool_double_slab: RedWoolDoubleSlabStates;
+    'minecraft:red_wool_double_slab': RedWoolDoubleSlabStates;
+    red_wool_slab: RedWoolSlabStates;
+    'minecraft:red_wool_slab': RedWoolSlabStates;
+    red_wool_stairs: RedWoolStairsStates;
+    'minecraft:red_wool_stairs': RedWoolStairsStates;
     redstone_torch: RedstoneTorchStates;
     'minecraft:redstone_torch': RedstoneTorchStates;
     redstone_wire: RedstoneWireStates;
@@ -5631,6 +6103,8 @@ type BlockStateMapping = {
     'minecraft:sea_pickle': SeaPickleStates;
     seagrass: SeagrassStates;
     'minecraft:seagrass': SeagrassStates;
+    shelf_mushroom: ShelfMushroomStates;
+    'minecraft:shelf_mushroom': ShelfMushroomStates;
     silver_glazed_terracotta: SilverGlazedTerracottaStates;
     'minecraft:silver_glazed_terracotta': SilverGlazedTerracottaStates;
     skeleton_skull: SkeletonSkullStates;
@@ -5733,6 +6207,8 @@ type BlockStateMapping = {
     'minecraft:stone_stairs': StoneStairsStates;
     stonecutter_block: StonecutterBlockStates;
     'minecraft:stonecutter_block': StonecutterBlockStates;
+    straw_bed: StrawBedStates;
+    'minecraft:straw_bed': StrawBedStates;
     stripped_acacia_log: StrippedAcaciaLogStates;
     'minecraft:stripped_acacia_log': StrippedAcaciaLogStates;
     stripped_acacia_wood: StrippedAcaciaWoodStates;
@@ -5771,6 +6247,10 @@ type BlockStateMapping = {
     'minecraft:stripped_pale_oak_log': StrippedPaleOakLogStates;
     stripped_pale_oak_wood: StrippedPaleOakWoodStates;
     'minecraft:stripped_pale_oak_wood': StrippedPaleOakWoodStates;
+    stripped_poplar_log: StrippedPoplarLogStates;
+    'minecraft:stripped_poplar_log': StrippedPoplarLogStates;
+    stripped_poplar_wood: StrippedPoplarWoodStates;
+    'minecraft:stripped_poplar_wood': StrippedPoplarWoodStates;
     stripped_spruce_log: StrippedSpruceLogStates;
     'minecraft:stripped_spruce_log': StrippedSpruceLogStates;
     stripped_spruce_wood: StrippedSpruceWoodStates;
@@ -6019,6 +6499,12 @@ type BlockStateMapping = {
     'minecraft:white_candle_cake': WhiteCandleCakeStates;
     white_glazed_terracotta: WhiteGlazedTerracottaStates;
     'minecraft:white_glazed_terracotta': WhiteGlazedTerracottaStates;
+    white_wool_double_slab: WhiteWoolDoubleSlabStates;
+    'minecraft:white_wool_double_slab': WhiteWoolDoubleSlabStates;
+    white_wool_slab: WhiteWoolSlabStates;
+    'minecraft:white_wool_slab': WhiteWoolSlabStates;
+    white_wool_stairs: WhiteWoolStairsStates;
+    'minecraft:white_wool_stairs': WhiteWoolStairsStates;
     wildflowers: WildflowersStates;
     'minecraft:wildflowers': WildflowersStates;
     wither_skeleton_skull: WitherSkeletonSkullStates;
@@ -6035,6 +6521,14 @@ type BlockStateMapping = {
     'minecraft:yellow_candle_cake': YellowCandleCakeStates;
     yellow_glazed_terracotta: YellowGlazedTerracottaStates;
     'minecraft:yellow_glazed_terracotta': YellowGlazedTerracottaStates;
+    yellow_poplar_leaves: YellowPoplarLeavesStates;
+    'minecraft:yellow_poplar_leaves': YellowPoplarLeavesStates;
+    yellow_wool_double_slab: YellowWoolDoubleSlabStates;
+    'minecraft:yellow_wool_double_slab': YellowWoolDoubleSlabStates;
+    yellow_wool_slab: YellowWoolSlabStates;
+    'minecraft:yellow_wool_slab': YellowWoolSlabStates;
+    yellow_wool_stairs: YellowWoolStairsStates;
+    'minecraft:yellow_wool_stairs': YellowWoolStairsStates;
     zombie_head: ZombieHeadStates;
     'minecraft:zombie_head': ZombieHeadStates;
 };
@@ -6215,6 +6709,7 @@ declare enum MinecraftEntityTypes {
     Cow = "minecraft:cow",
     Creaking = "minecraft:creaking",
     Creeper = "minecraft:creeper",
+    Cushion = "minecraft:cushion",
     Dolphin = "minecraft:dolphin",
     Donkey = "minecraft:donkey",
     DragonFireball = "minecraft:dragon_fireball",
@@ -6458,6 +6953,7 @@ declare enum MinecraftItemTypes {
     BlackCarpet = "minecraft:black_carpet",
     BlackConcrete = "minecraft:black_concrete",
     BlackConcretePowder = "minecraft:black_concrete_powder",
+    BlackCushion = "minecraft:black_cushion",
     BlackDye = "minecraft:black_dye",
     BlackGlazedTerracotta = "minecraft:black_glazed_terracotta",
     BlackHarness = "minecraft:black_harness",
@@ -6466,6 +6962,9 @@ declare enum MinecraftItemTypes {
     BlackStainedGlassPane = "minecraft:black_stained_glass_pane",
     BlackTerracotta = "minecraft:black_terracotta",
     BlackWool = "minecraft:black_wool",
+    BlackWoolDoubleSlab = "minecraft:black_wool_double_slab",
+    BlackWoolSlab = "minecraft:black_wool_slab",
+    BlackWoolStairs = "minecraft:black_wool_stairs",
     Blackstone = "minecraft:blackstone",
     BlackstoneSlab = "minecraft:blackstone_slab",
     BlackstoneStairs = "minecraft:blackstone_stairs",
@@ -6480,6 +6979,7 @@ declare enum MinecraftItemTypes {
     BlueCarpet = "minecraft:blue_carpet",
     BlueConcrete = "minecraft:blue_concrete",
     BlueConcretePowder = "minecraft:blue_concrete_powder",
+    BlueCushion = "minecraft:blue_cushion",
     BlueDye = "minecraft:blue_dye",
     BlueEgg = "minecraft:blue_egg",
     BlueGlazedTerracotta = "minecraft:blue_glazed_terracotta",
@@ -6491,6 +6991,9 @@ declare enum MinecraftItemTypes {
     BlueStainedGlassPane = "minecraft:blue_stained_glass_pane",
     BlueTerracotta = "minecraft:blue_terracotta",
     BlueWool = "minecraft:blue_wool",
+    BlueWoolDoubleSlab = "minecraft:blue_wool_double_slab",
+    BlueWoolSlab = "minecraft:blue_wool_slab",
+    BlueWoolStairs = "minecraft:blue_wool_stairs",
     BoggedSpawnEgg = "minecraft:bogged_spawn_egg",
     BoltArmorTrimSmithingTemplate = "minecraft:bolt_armor_trim_smithing_template",
     Bone = "minecraft:bone",
@@ -6520,6 +7023,7 @@ declare enum MinecraftItemTypes {
     BrownCarpet = "minecraft:brown_carpet",
     BrownConcrete = "minecraft:brown_concrete",
     BrownConcretePowder = "minecraft:brown_concrete_powder",
+    BrownCushion = "minecraft:brown_cushion",
     BrownDye = "minecraft:brown_dye",
     BrownEgg = "minecraft:brown_egg",
     BrownGlazedTerracotta = "minecraft:brown_glazed_terracotta",
@@ -6531,6 +7035,9 @@ declare enum MinecraftItemTypes {
     BrownStainedGlassPane = "minecraft:brown_stained_glass_pane",
     BrownTerracotta = "minecraft:brown_terracotta",
     BrownWool = "minecraft:brown_wool",
+    BrownWoolDoubleSlab = "minecraft:brown_wool_double_slab",
+    BrownWoolSlab = "minecraft:brown_wool_slab",
+    BrownWoolStairs = "minecraft:brown_wool_stairs",
     Brush = "minecraft:brush",
     BubbleCoral = "minecraft:bubble_coral",
     BubbleCoralBlock = "minecraft:bubble_coral_block",
@@ -6716,6 +7223,7 @@ declare enum MinecraftItemTypes {
     CyanCarpet = "minecraft:cyan_carpet",
     CyanConcrete = "minecraft:cyan_concrete",
     CyanConcretePowder = "minecraft:cyan_concrete_powder",
+    CyanCushion = "minecraft:cyan_cushion",
     CyanDye = "minecraft:cyan_dye",
     CyanGlazedTerracotta = "minecraft:cyan_glazed_terracotta",
     CyanHarness = "minecraft:cyan_harness",
@@ -6724,6 +7232,9 @@ declare enum MinecraftItemTypes {
     CyanStainedGlassPane = "minecraft:cyan_stained_glass_pane",
     CyanTerracotta = "minecraft:cyan_terracotta",
     CyanWool = "minecraft:cyan_wool",
+    CyanWoolDoubleSlab = "minecraft:cyan_wool_double_slab",
+    CyanWoolSlab = "minecraft:cyan_wool_slab",
+    CyanWoolStairs = "minecraft:cyan_wool_stairs",
     DamagedAnvil = "minecraft:damaged_anvil",
     Dandelion = "minecraft:dandelion",
     DangerPotterySherd = "minecraft:danger_pottery_sherd",
@@ -6944,6 +7455,7 @@ declare enum MinecraftItemTypes {
     GrayCarpet = "minecraft:gray_carpet",
     GrayConcrete = "minecraft:gray_concrete",
     GrayConcretePowder = "minecraft:gray_concrete_powder",
+    GrayCushion = "minecraft:gray_cushion",
     GrayDye = "minecraft:gray_dye",
     GrayGlazedTerracotta = "minecraft:gray_glazed_terracotta",
     GrayHarness = "minecraft:gray_harness",
@@ -6952,11 +7464,15 @@ declare enum MinecraftItemTypes {
     GrayStainedGlassPane = "minecraft:gray_stained_glass_pane",
     GrayTerracotta = "minecraft:gray_terracotta",
     GrayWool = "minecraft:gray_wool",
+    GrayWoolDoubleSlab = "minecraft:gray_wool_double_slab",
+    GrayWoolSlab = "minecraft:gray_wool_slab",
+    GrayWoolStairs = "minecraft:gray_wool_stairs",
     GreenBundle = "minecraft:green_bundle",
     GreenCandle = "minecraft:green_candle",
     GreenCarpet = "minecraft:green_carpet",
     GreenConcrete = "minecraft:green_concrete",
     GreenConcretePowder = "minecraft:green_concrete_powder",
+    GreenCushion = "minecraft:green_cushion",
     GreenDye = "minecraft:green_dye",
     GreenGlazedTerracotta = "minecraft:green_glazed_terracotta",
     GreenHarness = "minecraft:green_harness",
@@ -6965,6 +7481,9 @@ declare enum MinecraftItemTypes {
     GreenStainedGlassPane = "minecraft:green_stained_glass_pane",
     GreenTerracotta = "minecraft:green_terracotta",
     GreenWool = "minecraft:green_wool",
+    GreenWoolDoubleSlab = "minecraft:green_wool_double_slab",
+    GreenWoolSlab = "minecraft:green_wool_slab",
+    GreenWoolStairs = "minecraft:green_wool_stairs",
     Grindstone = "minecraft:grindstone",
     GuardianSpawnEgg = "minecraft:guardian_spawn_egg",
     Gunpowder = "minecraft:gunpowder",
@@ -7083,6 +7602,7 @@ declare enum MinecraftItemTypes {
     LightBlueCarpet = "minecraft:light_blue_carpet",
     LightBlueConcrete = "minecraft:light_blue_concrete",
     LightBlueConcretePowder = "minecraft:light_blue_concrete_powder",
+    LightBlueCushion = "minecraft:light_blue_cushion",
     LightBlueDye = "minecraft:light_blue_dye",
     LightBlueGlazedTerracotta = "minecraft:light_blue_glazed_terracotta",
     LightBlueHarness = "minecraft:light_blue_harness",
@@ -7091,11 +7611,15 @@ declare enum MinecraftItemTypes {
     LightBlueStainedGlassPane = "minecraft:light_blue_stained_glass_pane",
     LightBlueTerracotta = "minecraft:light_blue_terracotta",
     LightBlueWool = "minecraft:light_blue_wool",
+    LightBlueWoolDoubleSlab = "minecraft:light_blue_wool_double_slab",
+    LightBlueWoolSlab = "minecraft:light_blue_wool_slab",
+    LightBlueWoolStairs = "minecraft:light_blue_wool_stairs",
     LightGrayBundle = "minecraft:light_gray_bundle",
     LightGrayCandle = "minecraft:light_gray_candle",
     LightGrayCarpet = "minecraft:light_gray_carpet",
     LightGrayConcrete = "minecraft:light_gray_concrete",
     LightGrayConcretePowder = "minecraft:light_gray_concrete_powder",
+    LightGrayCushion = "minecraft:light_gray_cushion",
     LightGrayDye = "minecraft:light_gray_dye",
     LightGrayHarness = "minecraft:light_gray_harness",
     LightGrayShulkerBox = "minecraft:light_gray_shulker_box",
@@ -7103,6 +7627,9 @@ declare enum MinecraftItemTypes {
     LightGrayStainedGlassPane = "minecraft:light_gray_stained_glass_pane",
     LightGrayTerracotta = "minecraft:light_gray_terracotta",
     LightGrayWool = "minecraft:light_gray_wool",
+    LightGrayWoolDoubleSlab = "minecraft:light_gray_wool_double_slab",
+    LightGrayWoolSlab = "minecraft:light_gray_wool_slab",
+    LightGrayWoolStairs = "minecraft:light_gray_wool_stairs",
     LightWeightedPressurePlate = "minecraft:light_weighted_pressure_plate",
     LightningRod = "minecraft:lightning_rod",
     Lilac = "minecraft:lilac",
@@ -7112,6 +7639,7 @@ declare enum MinecraftItemTypes {
     LimeCarpet = "minecraft:lime_carpet",
     LimeConcrete = "minecraft:lime_concrete",
     LimeConcretePowder = "minecraft:lime_concrete_powder",
+    LimeCushion = "minecraft:lime_cushion",
     LimeDye = "minecraft:lime_dye",
     LimeGlazedTerracotta = "minecraft:lime_glazed_terracotta",
     LimeHarness = "minecraft:lime_harness",
@@ -7120,6 +7648,9 @@ declare enum MinecraftItemTypes {
     LimeStainedGlassPane = "minecraft:lime_stained_glass_pane",
     LimeTerracotta = "minecraft:lime_terracotta",
     LimeWool = "minecraft:lime_wool",
+    LimeWoolDoubleSlab = "minecraft:lime_wool_double_slab",
+    LimeWoolSlab = "minecraft:lime_wool_slab",
+    LimeWoolStairs = "minecraft:lime_wool_stairs",
     LingeringPotion = "minecraft:lingering_potion",
     LitPumpkin = "minecraft:lit_pumpkin",
     LlamaSpawnEgg = "minecraft:llama_spawn_egg",
@@ -7132,6 +7663,7 @@ declare enum MinecraftItemTypes {
     MagentaCarpet = "minecraft:magenta_carpet",
     MagentaConcrete = "minecraft:magenta_concrete",
     MagentaConcretePowder = "minecraft:magenta_concrete_powder",
+    MagentaCushion = "minecraft:magenta_cushion",
     MagentaDye = "minecraft:magenta_dye",
     MagentaGlazedTerracotta = "minecraft:magenta_glazed_terracotta",
     MagentaHarness = "minecraft:magenta_harness",
@@ -7140,6 +7672,9 @@ declare enum MinecraftItemTypes {
     MagentaStainedGlassPane = "minecraft:magenta_stained_glass_pane",
     MagentaTerracotta = "minecraft:magenta_terracotta",
     MagentaWool = "minecraft:magenta_wool",
+    MagentaWoolDoubleSlab = "minecraft:magenta_wool_double_slab",
+    MagentaWoolSlab = "minecraft:magenta_wool_slab",
+    MagentaWoolStairs = "minecraft:magenta_wool_stairs",
     Magma = "minecraft:magma",
     MagmaCream = "minecraft:magma_cream",
     MagmaCubeSpawnEgg = "minecraft:magma_cube_spawn_egg",
@@ -7275,15 +7810,20 @@ declare enum MinecraftItemTypes {
     OrangeCarpet = "minecraft:orange_carpet",
     OrangeConcrete = "minecraft:orange_concrete",
     OrangeConcretePowder = "minecraft:orange_concrete_powder",
+    OrangeCushion = "minecraft:orange_cushion",
     OrangeDye = "minecraft:orange_dye",
     OrangeGlazedTerracotta = "minecraft:orange_glazed_terracotta",
     OrangeHarness = "minecraft:orange_harness",
+    OrangePoplarLeaves = "minecraft:orange_poplar_leaves",
     OrangeShulkerBox = "minecraft:orange_shulker_box",
     OrangeStainedGlass = "minecraft:orange_stained_glass",
     OrangeStainedGlassPane = "minecraft:orange_stained_glass_pane",
     OrangeTerracotta = "minecraft:orange_terracotta",
     OrangeTulip = "minecraft:orange_tulip",
     OrangeWool = "minecraft:orange_wool",
+    OrangeWoolDoubleSlab = "minecraft:orange_wool_double_slab",
+    OrangeWoolSlab = "minecraft:orange_wool_slab",
+    OrangeWoolStairs = "minecraft:orange_wool_stairs",
     OxeyeDaisy = "minecraft:oxeye_daisy",
     OxidizedChiseledCopper = "minecraft:oxidized_chiseled_copper",
     OxidizedCopper = "minecraft:oxidized_copper",
@@ -7344,6 +7884,7 @@ declare enum MinecraftItemTypes {
     PinkCarpet = "minecraft:pink_carpet",
     PinkConcrete = "minecraft:pink_concrete",
     PinkConcretePowder = "minecraft:pink_concrete_powder",
+    PinkCushion = "minecraft:pink_cushion",
     PinkDye = "minecraft:pink_dye",
     PinkGlazedTerracotta = "minecraft:pink_glazed_terracotta",
     PinkHarness = "minecraft:pink_harness",
@@ -7354,6 +7895,9 @@ declare enum MinecraftItemTypes {
     PinkTerracotta = "minecraft:pink_terracotta",
     PinkTulip = "minecraft:pink_tulip",
     PinkWool = "minecraft:pink_wool",
+    PinkWoolDoubleSlab = "minecraft:pink_wool_double_slab",
+    PinkWoolSlab = "minecraft:pink_wool_slab",
+    PinkWoolStairs = "minecraft:pink_wool_stairs",
     Piston = "minecraft:piston",
     PitcherPlant = "minecraft:pitcher_plant",
     PitcherPod = "minecraft:pitcher_pod",
@@ -7399,6 +7943,23 @@ declare enum MinecraftItemTypes {
     PolishedTuffSlab = "minecraft:polished_tuff_slab",
     PolishedTuffStairs = "minecraft:polished_tuff_stairs",
     PolishedTuffWall = "minecraft:polished_tuff_wall",
+    PoplarBoat = "minecraft:poplar_boat",
+    PoplarButton = "minecraft:poplar_button",
+    PoplarChestBoat = "minecraft:poplar_chest_boat",
+    PoplarDoor = "minecraft:poplar_door",
+    PoplarFence = "minecraft:poplar_fence",
+    PoplarFenceGate = "minecraft:poplar_fence_gate",
+    PoplarHangingSign = "minecraft:poplar_hanging_sign",
+    PoplarLog = "minecraft:poplar_log",
+    PoplarPlanks = "minecraft:poplar_planks",
+    PoplarPressurePlate = "minecraft:poplar_pressure_plate",
+    PoplarSapling = "minecraft:poplar_sapling",
+    PoplarShelf = "minecraft:poplar_shelf",
+    PoplarSign = "minecraft:poplar_sign",
+    PoplarSlab = "minecraft:poplar_slab",
+    PoplarStairs = "minecraft:poplar_stairs",
+    PoplarTrapdoor = "minecraft:poplar_trapdoor",
+    PoplarWood = "minecraft:poplar_wood",
     PoppedChorusFruit = "minecraft:popped_chorus_fruit",
     Poppy = "minecraft:poppy",
     Porkchop = "minecraft:porkchop",
@@ -7427,6 +7988,7 @@ declare enum MinecraftItemTypes {
     PurpleCarpet = "minecraft:purple_carpet",
     PurpleConcrete = "minecraft:purple_concrete",
     PurpleConcretePowder = "minecraft:purple_concrete_powder",
+    PurpleCushion = "minecraft:purple_cushion",
     PurpleDye = "minecraft:purple_dye",
     PurpleGlazedTerracotta = "minecraft:purple_glazed_terracotta",
     PurpleHarness = "minecraft:purple_harness",
@@ -7435,6 +7997,9 @@ declare enum MinecraftItemTypes {
     PurpleStainedGlassPane = "minecraft:purple_stained_glass_pane",
     PurpleTerracotta = "minecraft:purple_terracotta",
     PurpleWool = "minecraft:purple_wool",
+    PurpleWoolDoubleSlab = "minecraft:purple_wool_double_slab",
+    PurpleWoolSlab = "minecraft:purple_wool_slab",
+    PurpleWoolStairs = "minecraft:purple_wool_stairs",
     PurpurBlock = "minecraft:purpur_block",
     PurpurPillar = "minecraft:purpur_pillar",
     PurpurSlab = "minecraft:purpur_slab",
@@ -7466,6 +8031,7 @@ declare enum MinecraftItemTypes {
     RedCarpet = "minecraft:red_carpet",
     RedConcrete = "minecraft:red_concrete",
     RedConcretePowder = "minecraft:red_concrete_powder",
+    RedCushion = "minecraft:red_cushion",
     RedDye = "minecraft:red_dye",
     RedGlazedTerracotta = "minecraft:red_glazed_terracotta",
     RedHarness = "minecraft:red_harness",
@@ -7475,17 +8041,22 @@ declare enum MinecraftItemTypes {
     RedNetherBrickSlab = "minecraft:red_nether_brick_slab",
     RedNetherBrickStairs = "minecraft:red_nether_brick_stairs",
     RedNetherBrickWall = "minecraft:red_nether_brick_wall",
+    RedPoplarLeaves = "minecraft:red_poplar_leaves",
     RedSand = "minecraft:red_sand",
     RedSandstone = "minecraft:red_sandstone",
     RedSandstoneSlab = "minecraft:red_sandstone_slab",
     RedSandstoneStairs = "minecraft:red_sandstone_stairs",
     RedSandstoneWall = "minecraft:red_sandstone_wall",
+    RedShrub = "minecraft:red_shrub",
     RedShulkerBox = "minecraft:red_shulker_box",
     RedStainedGlass = "minecraft:red_stained_glass",
     RedStainedGlassPane = "minecraft:red_stained_glass_pane",
     RedTerracotta = "minecraft:red_terracotta",
     RedTulip = "minecraft:red_tulip",
     RedWool = "minecraft:red_wool",
+    RedWoolDoubleSlab = "minecraft:red_wool_double_slab",
+    RedWoolSlab = "minecraft:red_wool_slab",
+    RedWoolStairs = "minecraft:red_wool_stairs",
     Redstone = "minecraft:redstone",
     RedstoneBlock = "minecraft:redstone_block",
     RedstoneLamp = "minecraft:redstone_lamp",
@@ -7529,6 +8100,7 @@ declare enum MinecraftItemTypes {
     SheafPotterySherd = "minecraft:sheaf_pottery_sherd",
     Shears = "minecraft:shears",
     SheepSpawnEgg = "minecraft:sheep_spawn_egg",
+    ShelfMushroom = "minecraft:shelf_mushroom",
     ShelterPotterySherd = "minecraft:shelter_pottery_sherd",
     Shield = "minecraft:shield",
     ShortDryGrass = "minecraft:short_dry_grass",
@@ -7619,6 +8191,7 @@ declare enum MinecraftItemTypes {
     StoneStairs = "minecraft:stone_stairs",
     StoneSword = "minecraft:stone_sword",
     StonecutterBlock = "minecraft:stonecutter_block",
+    StrawBed = "minecraft:straw_bed",
     StraySpawnEgg = "minecraft:stray_spawn_egg",
     StriderSpawnEgg = "minecraft:strider_spawn_egg",
     String = "minecraft:string",
@@ -7641,6 +8214,8 @@ declare enum MinecraftItemTypes {
     StrippedOakWood = "minecraft:stripped_oak_wood",
     StrippedPaleOakLog = "minecraft:stripped_pale_oak_log",
     StrippedPaleOakWood = "minecraft:stripped_pale_oak_wood",
+    StrippedPoplarLog = "minecraft:stripped_poplar_log",
+    StrippedPoplarWood = "minecraft:stripped_poplar_wood",
     StrippedSpruceLog = "minecraft:stripped_spruce_log",
     StrippedSpruceWood = "minecraft:stripped_spruce_wood",
     StrippedWarpedHyphae = "minecraft:stripped_warped_hyphae",
@@ -7822,6 +8397,7 @@ declare enum MinecraftItemTypes {
     WhiteCarpet = "minecraft:white_carpet",
     WhiteConcrete = "minecraft:white_concrete",
     WhiteConcretePowder = "minecraft:white_concrete_powder",
+    WhiteCushion = "minecraft:white_cushion",
     WhiteDye = "minecraft:white_dye",
     WhiteGlazedTerracotta = "minecraft:white_glazed_terracotta",
     WhiteHarness = "minecraft:white_harness",
@@ -7831,6 +8407,9 @@ declare enum MinecraftItemTypes {
     WhiteTerracotta = "minecraft:white_terracotta",
     WhiteTulip = "minecraft:white_tulip",
     WhiteWool = "minecraft:white_wool",
+    WhiteWoolDoubleSlab = "minecraft:white_wool_double_slab",
+    WhiteWoolSlab = "minecraft:white_wool_slab",
+    WhiteWoolStairs = "minecraft:white_wool_stairs",
     WildArmorTrimSmithingTemplate = "minecraft:wild_armor_trim_smithing_template",
     Wildflowers = "minecraft:wildflowers",
     WindCharge = "minecraft:wind_charge",
@@ -7856,14 +8435,19 @@ declare enum MinecraftItemTypes {
     YellowCarpet = "minecraft:yellow_carpet",
     YellowConcrete = "minecraft:yellow_concrete",
     YellowConcretePowder = "minecraft:yellow_concrete_powder",
+    YellowCushion = "minecraft:yellow_cushion",
     YellowDye = "minecraft:yellow_dye",
     YellowGlazedTerracotta = "minecraft:yellow_glazed_terracotta",
     YellowHarness = "minecraft:yellow_harness",
+    YellowPoplarLeaves = "minecraft:yellow_poplar_leaves",
     YellowShulkerBox = "minecraft:yellow_shulker_box",
     YellowStainedGlass = "minecraft:yellow_stained_glass",
     YellowStainedGlassPane = "minecraft:yellow_stained_glass_pane",
     YellowTerracotta = "minecraft:yellow_terracotta",
     YellowWool = "minecraft:yellow_wool",
+    YellowWoolDoubleSlab = "minecraft:yellow_wool_double_slab",
+    YellowWoolSlab = "minecraft:yellow_wool_slab",
+    YellowWoolStairs = "minecraft:yellow_wool_stairs",
     ZoglinSpawnEgg = "minecraft:zoglin_spawn_egg",
     ZombieHead = "minecraft:zombie_head",
     ZombieHorseSpawnEgg = "minecraft:zombie_horse_spawn_egg",
@@ -7948,4 +8532,4 @@ declare enum MinecraftPotionEffectTypes {
 type MinecraftPotionEffectTypesUnion = keyof typeof MinecraftPotionEffectTypes;
 
 export { MinecraftBiomeTypes, MinecraftBlockTypes, MinecraftCameraPresetsTypes, MinecraftCooldownCategoryTypes, MinecraftDimensionTypes, MinecraftEffectTypes, MinecraftEnchantmentTypes, MinecraftEntityTypes, MinecraftFeatureTypes, MinecraftItemTypes, MinecraftPotionDeliveryTypes, MinecraftPotionEffectTypes };
-export type { AcaciaButtonStates, AcaciaDoorStates, AcaciaDoubleSlabStates, AcaciaFenceGateStates, AcaciaHangingSignStates, AcaciaLeavesStates, AcaciaLogStates, AcaciaPressurePlateStates, AcaciaSaplingStates, AcaciaShelfStates, AcaciaSlabStates, AcaciaStairsStates, AcaciaStandingSignStates, AcaciaTrapdoorStates, AcaciaWallSignStates, AcaciaWoodStates, ActivatorRailStates, AmethystClusterStates, AndesiteDoubleSlabStates, AndesiteSlabStates, AndesiteStairsStates, AndesiteWallStates, AnvilStates, AzaleaLeavesFloweredStates, AzaleaLeavesStates, BambooBlockStates, BambooButtonStates, BambooDoorStates, BambooDoubleSlabStates, BambooFenceGateStates, BambooHangingSignStates, BambooMosaicDoubleSlabStates, BambooMosaicSlabStates, BambooMosaicStairsStates, BambooPressurePlateStates, BambooSaplingStates, BambooShelfStates, BambooSlabStates, BambooStairsStates, BambooStandingSignStates, BambooStates, BambooTrapdoorStates, BambooWallSignStates, BarrelStates, BasaltStates, BedStates, BedrockStates, BeeNestStates, BeehiveStates, BeetrootStates, BellStates, BigDripleafStates, BirchButtonStates, BirchDoorStates, BirchDoubleSlabStates, BirchFenceGateStates, BirchHangingSignStates, BirchLeavesStates, BirchLogStates, BirchPressurePlateStates, BirchSaplingStates, BirchShelfStates, BirchSlabStates, BirchStairsStates, BirchStandingSignStates, BirchTrapdoorStates, BirchWallSignStates, BirchWoodStates, BlackCandleCakeStates, BlackCandleStates, BlackGlazedTerracottaStates, BlackstoneDoubleSlabStates, BlackstoneSlabStates, BlackstoneStairsStates, BlackstoneWallStates, BlastFurnaceStates, BlockStateMapping, BlockStateSuperset, BlockStates, BlueCandleCakeStates, BlueCandleStates, BlueGlazedTerracottaStates, BoneBlockStates, BorderBlockStates, BrainCoralFanStates, BrainCoralWallFanStates, BrewingStandStates, BrickDoubleSlabStates, BrickSlabStates, BrickStairsStates, BrickWallStates, BrownCandleCakeStates, BrownCandleStates, BrownGlazedTerracottaStates, BrownMushroomBlockStates, BubbleColumnStates, BubbleCoralFanStates, BubbleCoralWallFanStates, CactusStates, CakeStates, CalibratedSculkSensorStates, CampfireStates, CandleCakeStates, CandleStates, CarrotsStates, CarvedPumpkinStates, CauldronStates, CaveVinesBodyWithBerriesStates, CaveVinesHeadWithBerriesStates, CaveVinesStates, ChainCommandBlockStates, CherryButtonStates, CherryDoorStates, CherryDoubleSlabStates, CherryFenceGateStates, CherryHangingSignStates, CherryLeavesStates, CherryLogStates, CherryPressurePlateStates, CherrySaplingStates, CherryShelfStates, CherrySlabStates, CherryStairsStates, CherryStandingSignStates, CherryTrapdoorStates, CherryWallSignStates, CherryWoodStates, ChestStates, ChippedAnvilStates, ChiseledBookshelfStates, ChiseledQuartzBlockStates, ChorusFlowerStates, CinnabarBrickDoubleSlabStates, CinnabarBrickSlabStates, CinnabarBrickStairsStates, CinnabarBrickWallStates, CinnabarDoubleSlabStates, CinnabarSlabStates, CinnabarStairsStates, CinnabarWallStates, CobbledDeepslateDoubleSlabStates, CobbledDeepslateSlabStates, CobbledDeepslateStairsStates, CobbledDeepslateWallStates, CobblestoneDoubleSlabStates, CobblestoneSlabStates, CobblestoneWallStates, CocoaStates, ColoredTorchBlueStates, ColoredTorchGreenStates, ColoredTorchPurpleStates, ColoredTorchRedStates, CommandBlockStates, ComposterStates, CompoundCreatorStates, CopperBulbStates, CopperChainStates, CopperChestStates, CopperDoorStates, CopperGolemStatueStates, CopperLanternStates, CopperTorchStates, CopperTrapdoorStates, CrafterStates, CreakingHeartStates, CreeperHeadStates, CrimsonButtonStates, CrimsonDoorStates, CrimsonDoubleSlabStates, CrimsonFenceGateStates, CrimsonHangingSignStates, CrimsonHyphaeStates, CrimsonPressurePlateStates, CrimsonShelfStates, CrimsonSlabStates, CrimsonStairsStates, CrimsonStandingSignStates, CrimsonStemStates, CrimsonTrapdoorStates, CrimsonWallSignStates, CutCopperSlabStates, CutCopperStairsStates, CutRedSandstoneDoubleSlabStates, CutRedSandstoneSlabStates, CutSandstoneDoubleSlabStates, CutSandstoneSlabStates, CyanCandleCakeStates, CyanCandleStates, CyanGlazedTerracottaStates, DamagedAnvilStates, DarkOakButtonStates, DarkOakDoorStates, DarkOakDoubleSlabStates, DarkOakFenceGateStates, DarkOakHangingSignStates, DarkOakLeavesStates, DarkOakLogStates, DarkOakPressurePlateStates, DarkOakSaplingStates, DarkOakShelfStates, DarkOakSlabStates, DarkOakStairsStates, DarkOakTrapdoorStates, DarkOakWoodStates, DarkPrismarineDoubleSlabStates, DarkPrismarineSlabStates, DarkPrismarineStairsStates, DarkoakStandingSignStates, DarkoakWallSignStates, DaylightDetectorInvertedStates, DaylightDetectorStates, DeadBrainCoralFanStates, DeadBrainCoralWallFanStates, DeadBubbleCoralFanStates, DeadBubbleCoralWallFanStates, DeadFireCoralFanStates, DeadFireCoralWallFanStates, DeadHornCoralFanStates, DeadHornCoralWallFanStates, DeadTubeCoralFanStates, DeadTubeCoralWallFanStates, DecoratedPotStates, DeepslateBrickDoubleSlabStates, DeepslateBrickSlabStates, DeepslateBrickStairsStates, DeepslateBrickWallStates, DeepslateStates, DeepslateTileDoubleSlabStates, DeepslateTileSlabStates, DeepslateTileStairsStates, DeepslateTileWallStates, DetectorRailStates, DioriteDoubleSlabStates, DioriteSlabStates, DioriteStairsStates, DioriteWallStates, DispenserStates, DoubleCutCopperSlabStates, DragonHeadStates, DriedGhastStates, DropperStates, ElementConstructorStates, EndBrickStairsStates, EndPortalFrameStates, EndRodStates, EndStoneBrickDoubleSlabStates, EndStoneBrickSlabStates, EndStoneBrickWallStates, EnderChestStates, ExposedCopperBulbStates, ExposedCopperChainStates, ExposedCopperChestStates, ExposedCopperDoorStates, ExposedCopperGolemStatueStates, ExposedCopperLanternStates, ExposedCopperTrapdoorStates, ExposedCutCopperSlabStates, ExposedCutCopperStairsStates, ExposedDoubleCutCopperSlabStates, ExposedLightningRodStates, FarmlandStates, FenceGateStates, FireCoralFanStates, FireCoralWallFanStates, FireStates, FlowerPotStates, FlowingLavaStates, FlowingWaterStates, FrameStates, FrostedIceStates, FurnaceStates, GlowFrameStates, GlowLichenStates, GoldenRailStates, GraniteDoubleSlabStates, GraniteSlabStates, GraniteStairsStates, GraniteWallStates, GrayCandleCakeStates, GrayCandleStates, GrayGlazedTerracottaStates, GreenCandleCakeStates, GreenCandleStates, GreenGlazedTerracottaStates, GrindstoneStates, HayBlockStates, HeavyWeightedPressurePlateStates, HopperStates, HornCoralFanStates, HornCoralWallFanStates, InfestedDeepslateStates, IronChainStates, IronDoorStates, IronTrapdoorStates, JigsawStates, JungleButtonStates, JungleDoorStates, JungleDoubleSlabStates, JungleFenceGateStates, JungleHangingSignStates, JungleLeavesStates, JungleLogStates, JunglePressurePlateStates, JungleSaplingStates, JungleShelfStates, JungleSlabStates, JungleStairsStates, JungleStandingSignStates, JungleTrapdoorStates, JungleWallSignStates, JungleWoodStates, KelpStates, LabTableStates, LadderStates, LanternStates, LargeAmethystBudStates, LargeFernStates, LavaStates, LeafLitterStates, LecternStates, LeverStates, LightBlueCandleCakeStates, LightBlueCandleStates, LightBlueGlazedTerracottaStates, LightGrayCandleCakeStates, LightGrayCandleStates, LightWeightedPressurePlateStates, LightningRodStates, LilacStates, LimeCandleCakeStates, LimeCandleStates, LimeGlazedTerracottaStates, LitBlastFurnaceStates, LitFurnaceStates, LitPumpkinStates, LitSmokerStates, LoomStates, MagentaCandleCakeStates, MagentaCandleStates, MagentaGlazedTerracottaStates, MangroveButtonStates, MangroveDoorStates, MangroveDoubleSlabStates, MangroveFenceGateStates, MangroveHangingSignStates, MangroveLeavesStates, MangroveLogStates, MangrovePressurePlateStates, MangrovePropaguleStates, MangroveShelfStates, MangroveSlabStates, MangroveStairsStates, MangroveStandingSignStates, MangroveTrapdoorStates, MangroveWallSignStates, MangroveWoodStates, MaterialReducerStates, MediumAmethystBudStates, MelonStemStates, MinecraftBiomeTypesUnion, MinecraftBlockTypesUnion, MinecraftCameraPresetsTypesUnion, MinecraftCooldownCategoryTypesUnion, MinecraftDimensionTypesUnion, MinecraftEffectTypesUnion, MinecraftEnchantmentTypesUnion, MinecraftEntityTypesUnion, MinecraftFeatureTypesUnion, MinecraftItemTypesUnion, MinecraftPotionDeliveryTypesUnion, MinecraftPotionEffectTypesUnion, MossyCobblestoneDoubleSlabStates, MossyCobblestoneSlabStates, MossyCobblestoneStairsStates, MossyCobblestoneWallStates, MossyStoneBrickDoubleSlabStates, MossyStoneBrickSlabStates, MossyStoneBrickStairsStates, MossyStoneBrickWallStates, MudBrickDoubleSlabStates, MudBrickSlabStates, MudBrickStairsStates, MudBrickWallStates, MuddyMangroveRootsStates, MushroomStemStates, NetherBrickDoubleSlabStates, NetherBrickSlabStates, NetherBrickStairsStates, NetherBrickWallStates, NetherWartStates, NormalStoneDoubleSlabStates, NormalStoneSlabStates, NormalStoneStairsStates, OakDoubleSlabStates, OakHangingSignStates, OakLeavesStates, OakLogStates, OakSaplingStates, OakShelfStates, OakSlabStates, OakStairsStates, OakWoodStates, ObserverStates, OchreFroglightStates, OrangeCandleCakeStates, OrangeCandleStates, OrangeGlazedTerracottaStates, OxidizedCopperBulbStates, OxidizedCopperChainStates, OxidizedCopperChestStates, OxidizedCopperDoorStates, OxidizedCopperGolemStatueStates, OxidizedCopperLanternStates, OxidizedCopperTrapdoorStates, OxidizedCutCopperSlabStates, OxidizedCutCopperStairsStates, OxidizedDoubleCutCopperSlabStates, OxidizedLightningRodStates, PaleHangingMossStates, PaleMossCarpetStates, PaleOakButtonStates, PaleOakDoorStates, PaleOakDoubleSlabStates, PaleOakFenceGateStates, PaleOakHangingSignStates, PaleOakLeavesStates, PaleOakLogStates, PaleOakPressurePlateStates, PaleOakSaplingStates, PaleOakShelfStates, PaleOakSlabStates, PaleOakStairsStates, PaleOakStandingSignStates, PaleOakTrapdoorStates, PaleOakWallSignStates, PaleOakWoodStates, PearlescentFroglightStates, PeonyStates, PetrifiedOakDoubleSlabStates, PetrifiedOakSlabStates, PiglinHeadStates, PinkCandleCakeStates, PinkCandleStates, PinkGlazedTerracottaStates, PinkPetalsStates, PistonArmCollisionStates, PistonStates, PitcherCropStates, PitcherPlantStates, PlayerHeadStates, PointedDripstoneStates, PolishedAndesiteDoubleSlabStates, PolishedAndesiteSlabStates, PolishedAndesiteStairsStates, PolishedBasaltStates, PolishedBlackstoneBrickDoubleSlabStates, PolishedBlackstoneBrickSlabStates, PolishedBlackstoneBrickStairsStates, PolishedBlackstoneBrickWallStates, PolishedBlackstoneButtonStates, PolishedBlackstoneDoubleSlabStates, PolishedBlackstonePressurePlateStates, PolishedBlackstoneSlabStates, PolishedBlackstoneStairsStates, PolishedBlackstoneWallStates, PolishedCinnabarDoubleSlabStates, PolishedCinnabarSlabStates, PolishedCinnabarStairsStates, PolishedCinnabarWallStates, PolishedDeepslateDoubleSlabStates, PolishedDeepslateSlabStates, PolishedDeepslateStairsStates, PolishedDeepslateWallStates, PolishedDioriteDoubleSlabStates, PolishedDioriteSlabStates, PolishedDioriteStairsStates, PolishedGraniteDoubleSlabStates, PolishedGraniteSlabStates, PolishedGraniteStairsStates, PolishedSulfurDoubleSlabStates, PolishedSulfurSlabStates, PolishedSulfurStairsStates, PolishedSulfurWallStates, PolishedTuffDoubleSlabStates, PolishedTuffSlabStates, PolishedTuffStairsStates, PolishedTuffWallStates, PortalStates, PotatoesStates, PotentSulfurStates, PoweredComparatorStates, PoweredRepeaterStates, PrismarineBrickDoubleSlabStates, PrismarineBrickSlabStates, PrismarineBricksStairsStates, PrismarineDoubleSlabStates, PrismarineSlabStates, PrismarineStairsStates, PrismarineWallStates, PumpkinStates, PumpkinStemStates, PurpleCandleCakeStates, PurpleCandleStates, PurpleGlazedTerracottaStates, PurpurBlockStates, PurpurDoubleSlabStates, PurpurPillarStates, PurpurSlabStates, PurpurStairsStates, QuartzBlockStates, QuartzDoubleSlabStates, QuartzPillarStates, QuartzSlabStates, QuartzStairsStates, RailStates, RedCandleCakeStates, RedCandleStates, RedGlazedTerracottaStates, RedMushroomBlockStates, RedNetherBrickDoubleSlabStates, RedNetherBrickSlabStates, RedNetherBrickStairsStates, RedNetherBrickWallStates, RedSandstoneDoubleSlabStates, RedSandstoneSlabStates, RedSandstoneStairsStates, RedSandstoneWallStates, RedstoneTorchStates, RedstoneWireStates, ReedsStates, RepeatingCommandBlockStates, ResinBrickDoubleSlabStates, ResinBrickSlabStates, ResinBrickStairsStates, ResinBrickWallStates, ResinClumpStates, RespawnAnchorStates, RoseBushStates, SandstoneDoubleSlabStates, SandstoneSlabStates, SandstoneStairsStates, SandstoneWallStates, ScaffoldingStates, SculkCatalystStates, SculkSensorStates, SculkShriekerStates, SculkVeinStates, SeaPickleStates, SeagrassStates, SilverGlazedTerracottaStates, SkeletonSkullStates, SmallAmethystBudStates, SmallDripleafBlockStates, SmokerStates, SmoothQuartzDoubleSlabStates, SmoothQuartzSlabStates, SmoothQuartzStairsStates, SmoothQuartzStates, SmoothRedSandstoneDoubleSlabStates, SmoothRedSandstoneSlabStates, SmoothRedSandstoneStairsStates, SmoothSandstoneDoubleSlabStates, SmoothSandstoneSlabStates, SmoothSandstoneStairsStates, SmoothStoneDoubleSlabStates, SmoothStoneSlabStates, SnifferEggStates, SnowLayerStates, SoulCampfireStates, SoulFireStates, SoulLanternStates, SoulTorchStates, SpruceButtonStates, SpruceDoorStates, SpruceDoubleSlabStates, SpruceFenceGateStates, SpruceHangingSignStates, SpruceLeavesStates, SpruceLogStates, SprucePressurePlateStates, SpruceSaplingStates, SpruceShelfStates, SpruceSlabStates, SpruceStairsStates, SpruceStandingSignStates, SpruceTrapdoorStates, SpruceWallSignStates, SpruceWoodStates, StandingBannerStates, StandingSignStates, StickyPistonArmCollisionStates, StickyPistonStates, StoneBrickDoubleSlabStates, StoneBrickSlabStates, StoneBrickStairsStates, StoneBrickWallStates, StoneButtonStates, StonePressurePlateStates, StoneStairsStates, StonecutterBlockStates, StrippedAcaciaLogStates, StrippedAcaciaWoodStates, StrippedBambooBlockStates, StrippedBirchLogStates, StrippedBirchWoodStates, StrippedCherryLogStates, StrippedCherryWoodStates, StrippedCrimsonHyphaeStates, StrippedCrimsonStemStates, StrippedDarkOakLogStates, StrippedDarkOakWoodStates, StrippedJungleLogStates, StrippedJungleWoodStates, StrippedMangroveLogStates, StrippedMangroveWoodStates, StrippedOakLogStates, StrippedOakWoodStates, StrippedPaleOakLogStates, StrippedPaleOakWoodStates, StrippedSpruceLogStates, StrippedSpruceWoodStates, StrippedWarpedHyphaeStates, StrippedWarpedStemStates, StructureBlockStates, SulfurBrickDoubleSlabStates, SulfurBrickSlabStates, SulfurBrickStairsStates, SulfurBrickWallStates, SulfurDoubleSlabStates, SulfurSlabStates, SulfurSpikeStates, SulfurStairsStates, SulfurWallStates, SunflowerStates, SuspiciousGravelStates, SuspiciousSandStates, SweetBerryBushStates, TallGrassStates, TntStates, TorchStates, TorchflowerCropStates, TrapdoorStates, TrappedChestStates, TrialSpawnerStates, TripWireStates, TripwireHookStates, TubeCoralFanStates, TubeCoralWallFanStates, TuffBrickDoubleSlabStates, TuffBrickSlabStates, TuffBrickStairsStates, TuffBrickWallStates, TuffDoubleSlabStates, TuffSlabStates, TuffStairsStates, TuffWallStates, TurtleEggStates, TwistingVinesStates, UnderwaterTntStates, UnderwaterTorchStates, UnlitRedstoneTorchStates, UnpoweredComparatorStates, UnpoweredRepeaterStates, VaultStates, VerdantFroglightStates, VineStates, WallBannerStates, WallSignStates, WarpedButtonStates, WarpedDoorStates, WarpedDoubleSlabStates, WarpedFenceGateStates, WarpedHangingSignStates, WarpedHyphaeStates, WarpedPressurePlateStates, WarpedShelfStates, WarpedSlabStates, WarpedStairsStates, WarpedStandingSignStates, WarpedStemStates, WarpedTrapdoorStates, WarpedWallSignStates, WaterStates, WaxedCopperBulbStates, WaxedCopperChainStates, WaxedCopperChestStates, WaxedCopperDoorStates, WaxedCopperGolemStatueStates, WaxedCopperLanternStates, WaxedCopperTrapdoorStates, WaxedCutCopperSlabStates, WaxedCutCopperStairsStates, WaxedDoubleCutCopperSlabStates, WaxedExposedCopperBulbStates, WaxedExposedCopperChainStates, WaxedExposedCopperChestStates, WaxedExposedCopperDoorStates, WaxedExposedCopperGolemStatueStates, WaxedExposedCopperLanternStates, WaxedExposedCopperTrapdoorStates, WaxedExposedCutCopperSlabStates, WaxedExposedCutCopperStairsStates, WaxedExposedDoubleCutCopperSlabStates, WaxedExposedLightningRodStates, WaxedLightningRodStates, WaxedOxidizedCopperBulbStates, WaxedOxidizedCopperChainStates, WaxedOxidizedCopperChestStates, WaxedOxidizedCopperDoorStates, WaxedOxidizedCopperGolemStatueStates, WaxedOxidizedCopperLanternStates, WaxedOxidizedCopperTrapdoorStates, WaxedOxidizedCutCopperSlabStates, WaxedOxidizedCutCopperStairsStates, WaxedOxidizedDoubleCutCopperSlabStates, WaxedOxidizedLightningRodStates, WaxedWeatheredCopperBulbStates, WaxedWeatheredCopperChainStates, WaxedWeatheredCopperChestStates, WaxedWeatheredCopperDoorStates, WaxedWeatheredCopperGolemStatueStates, WaxedWeatheredCopperLanternStates, WaxedWeatheredCopperTrapdoorStates, WaxedWeatheredCutCopperSlabStates, WaxedWeatheredCutCopperStairsStates, WaxedWeatheredDoubleCutCopperSlabStates, WaxedWeatheredLightningRodStates, WeatheredCopperBulbStates, WeatheredCopperChainStates, WeatheredCopperChestStates, WeatheredCopperDoorStates, WeatheredCopperGolemStatueStates, WeatheredCopperLanternStates, WeatheredCopperTrapdoorStates, WeatheredCutCopperSlabStates, WeatheredCutCopperStairsStates, WeatheredDoubleCutCopperSlabStates, WeatheredLightningRodStates, WeepingVinesStates, WheatStates, WhiteCandleCakeStates, WhiteCandleStates, WhiteGlazedTerracottaStates, WildflowersStates, WitherSkeletonSkullStates, WoodenButtonStates, WoodenDoorStates, WoodenPressurePlateStates, YellowCandleCakeStates, YellowCandleStates, YellowGlazedTerracottaStates, ZombieHeadStates };
+export type { AcaciaButtonStates, AcaciaDoorStates, AcaciaDoubleSlabStates, AcaciaFenceGateStates, AcaciaHangingSignStates, AcaciaLeavesStates, AcaciaLogStates, AcaciaPressurePlateStates, AcaciaSaplingStates, AcaciaShelfStates, AcaciaSlabStates, AcaciaStairsStates, AcaciaStandingSignStates, AcaciaTrapdoorStates, AcaciaWallSignStates, AcaciaWoodStates, ActivatorRailStates, AmethystClusterStates, AndesiteDoubleSlabStates, AndesiteSlabStates, AndesiteStairsStates, AndesiteWallStates, AnvilStates, AzaleaLeavesFloweredStates, AzaleaLeavesStates, BambooBlockStates, BambooButtonStates, BambooDoorStates, BambooDoubleSlabStates, BambooFenceGateStates, BambooHangingSignStates, BambooMosaicDoubleSlabStates, BambooMosaicSlabStates, BambooMosaicStairsStates, BambooPressurePlateStates, BambooSaplingStates, BambooShelfStates, BambooSlabStates, BambooStairsStates, BambooStandingSignStates, BambooStates, BambooTrapdoorStates, BambooWallSignStates, BarrelStates, BasaltStates, BedStates, BedrockStates, BeeNestStates, BeehiveStates, BeetrootStates, BellStates, BigDripleafStates, BirchButtonStates, BirchDoorStates, BirchDoubleSlabStates, BirchFenceGateStates, BirchHangingSignStates, BirchLeavesStates, BirchLogStates, BirchPressurePlateStates, BirchSaplingStates, BirchShelfStates, BirchSlabStates, BirchStairsStates, BirchStandingSignStates, BirchTrapdoorStates, BirchWallSignStates, BirchWoodStates, BlackCandleCakeStates, BlackCandleStates, BlackGlazedTerracottaStates, BlackWoolDoubleSlabStates, BlackWoolSlabStates, BlackWoolStairsStates, BlackstoneDoubleSlabStates, BlackstoneSlabStates, BlackstoneStairsStates, BlackstoneWallStates, BlastFurnaceStates, BlockStateMapping, BlockStateSuperset, BlockStates, BlueCandleCakeStates, BlueCandleStates, BlueGlazedTerracottaStates, BlueWoolDoubleSlabStates, BlueWoolSlabStates, BlueWoolStairsStates, BoneBlockStates, BorderBlockStates, BrainCoralFanStates, BrainCoralWallFanStates, BrewingStandStates, BrickDoubleSlabStates, BrickSlabStates, BrickStairsStates, BrickWallStates, BrownCandleCakeStates, BrownCandleStates, BrownGlazedTerracottaStates, BrownMushroomBlockStates, BrownWoolDoubleSlabStates, BrownWoolSlabStates, BrownWoolStairsStates, BubbleColumnStates, BubbleCoralFanStates, BubbleCoralWallFanStates, CactusStates, CakeStates, CalibratedSculkSensorStates, CampfireStates, CandleCakeStates, CandleStates, CarrotsStates, CarvedPumpkinStates, CauldronStates, CaveVinesBodyWithBerriesStates, CaveVinesHeadWithBerriesStates, CaveVinesStates, ChainCommandBlockStates, CherryButtonStates, CherryDoorStates, CherryDoubleSlabStates, CherryFenceGateStates, CherryHangingSignStates, CherryLeavesStates, CherryLogStates, CherryPressurePlateStates, CherrySaplingStates, CherryShelfStates, CherrySlabStates, CherryStairsStates, CherryStandingSignStates, CherryTrapdoorStates, CherryWallSignStates, CherryWoodStates, ChestStates, ChippedAnvilStates, ChiseledBookshelfStates, ChiseledQuartzBlockStates, ChorusFlowerStates, CinnabarBrickDoubleSlabStates, CinnabarBrickSlabStates, CinnabarBrickStairsStates, CinnabarBrickWallStates, CinnabarDoubleSlabStates, CinnabarSlabStates, CinnabarStairsStates, CinnabarWallStates, CobbledDeepslateDoubleSlabStates, CobbledDeepslateSlabStates, CobbledDeepslateStairsStates, CobbledDeepslateWallStates, CobblestoneDoubleSlabStates, CobblestoneSlabStates, CobblestoneWallStates, CocoaStates, ColoredTorchBlueStates, ColoredTorchGreenStates, ColoredTorchPurpleStates, ColoredTorchRedStates, CommandBlockStates, ComposterStates, CompoundCreatorStates, CopperBulbStates, CopperChainStates, CopperChestStates, CopperDoorStates, CopperGolemStatueStates, CopperLanternStates, CopperTorchStates, CopperTrapdoorStates, CrafterStates, CreakingHeartStates, CreeperHeadStates, CrimsonButtonStates, CrimsonDoorStates, CrimsonDoubleSlabStates, CrimsonFenceGateStates, CrimsonHangingSignStates, CrimsonHyphaeStates, CrimsonPressurePlateStates, CrimsonShelfStates, CrimsonSlabStates, CrimsonStairsStates, CrimsonStandingSignStates, CrimsonStemStates, CrimsonTrapdoorStates, CrimsonWallSignStates, CutCopperSlabStates, CutCopperStairsStates, CutRedSandstoneDoubleSlabStates, CutRedSandstoneSlabStates, CutSandstoneDoubleSlabStates, CutSandstoneSlabStates, CyanCandleCakeStates, CyanCandleStates, CyanGlazedTerracottaStates, CyanWoolDoubleSlabStates, CyanWoolSlabStates, CyanWoolStairsStates, DamagedAnvilStates, DarkOakButtonStates, DarkOakDoorStates, DarkOakDoubleSlabStates, DarkOakFenceGateStates, DarkOakHangingSignStates, DarkOakLeavesStates, DarkOakLogStates, DarkOakPressurePlateStates, DarkOakSaplingStates, DarkOakShelfStates, DarkOakSlabStates, DarkOakStairsStates, DarkOakTrapdoorStates, DarkOakWoodStates, DarkPrismarineDoubleSlabStates, DarkPrismarineSlabStates, DarkPrismarineStairsStates, DarkoakStandingSignStates, DarkoakWallSignStates, DaylightDetectorInvertedStates, DaylightDetectorStates, DeadBrainCoralFanStates, DeadBrainCoralWallFanStates, DeadBubbleCoralFanStates, DeadBubbleCoralWallFanStates, DeadFireCoralFanStates, DeadFireCoralWallFanStates, DeadHornCoralFanStates, DeadHornCoralWallFanStates, DeadTubeCoralFanStates, DeadTubeCoralWallFanStates, DecoratedPotStates, DeepslateBrickDoubleSlabStates, DeepslateBrickSlabStates, DeepslateBrickStairsStates, DeepslateBrickWallStates, DeepslateStates, DeepslateTileDoubleSlabStates, DeepslateTileSlabStates, DeepslateTileStairsStates, DeepslateTileWallStates, DetectorRailStates, DioriteDoubleSlabStates, DioriteSlabStates, DioriteStairsStates, DioriteWallStates, DispenserStates, DoubleCutCopperSlabStates, DragonHeadStates, DriedGhastStates, DropperStates, ElementConstructorStates, EndBrickStairsStates, EndPortalFrameStates, EndRodStates, EndStoneBrickDoubleSlabStates, EndStoneBrickSlabStates, EndStoneBrickWallStates, EnderChestStates, ExposedCopperBulbStates, ExposedCopperChainStates, ExposedCopperChestStates, ExposedCopperDoorStates, ExposedCopperGolemStatueStates, ExposedCopperLanternStates, ExposedCopperTrapdoorStates, ExposedCutCopperSlabStates, ExposedCutCopperStairsStates, ExposedDoubleCutCopperSlabStates, ExposedLightningRodStates, FarmlandStates, FenceGateStates, FireCoralFanStates, FireCoralWallFanStates, FireStates, FlowerPotStates, FlowingLavaStates, FlowingWaterStates, FrameStates, FrostedIceStates, FurnaceStates, GlowFrameStates, GlowLichenStates, GoldenRailStates, GraniteDoubleSlabStates, GraniteSlabStates, GraniteStairsStates, GraniteWallStates, GrayCandleCakeStates, GrayCandleStates, GrayGlazedTerracottaStates, GrayWoolDoubleSlabStates, GrayWoolSlabStates, GrayWoolStairsStates, GreenCandleCakeStates, GreenCandleStates, GreenGlazedTerracottaStates, GreenWoolDoubleSlabStates, GreenWoolSlabStates, GreenWoolStairsStates, GrindstoneStates, HayBlockStates, HeavyWeightedPressurePlateStates, HopperStates, HornCoralFanStates, HornCoralWallFanStates, InfestedDeepslateStates, IronChainStates, IronDoorStates, IronTrapdoorStates, JigsawStates, JungleButtonStates, JungleDoorStates, JungleDoubleSlabStates, JungleFenceGateStates, JungleHangingSignStates, JungleLeavesStates, JungleLogStates, JunglePressurePlateStates, JungleSaplingStates, JungleShelfStates, JungleSlabStates, JungleStairsStates, JungleStandingSignStates, JungleTrapdoorStates, JungleWallSignStates, JungleWoodStates, KelpStates, LabTableStates, LadderStates, LanternStates, LargeAmethystBudStates, LargeFernStates, LavaStates, LeafLitterStates, LecternStates, LeverStates, LightBlueCandleCakeStates, LightBlueCandleStates, LightBlueGlazedTerracottaStates, LightBlueWoolDoubleSlabStates, LightBlueWoolSlabStates, LightBlueWoolStairsStates, LightGrayCandleCakeStates, LightGrayCandleStates, LightGrayWoolDoubleSlabStates, LightGrayWoolSlabStates, LightGrayWoolStairsStates, LightWeightedPressurePlateStates, LightningRodStates, LilacStates, LimeCandleCakeStates, LimeCandleStates, LimeGlazedTerracottaStates, LimeWoolDoubleSlabStates, LimeWoolSlabStates, LimeWoolStairsStates, LitBlastFurnaceStates, LitFurnaceStates, LitPumpkinStates, LitSmokerStates, LoomStates, MagentaCandleCakeStates, MagentaCandleStates, MagentaGlazedTerracottaStates, MagentaWoolDoubleSlabStates, MagentaWoolSlabStates, MagentaWoolStairsStates, MangroveButtonStates, MangroveDoorStates, MangroveDoubleSlabStates, MangroveFenceGateStates, MangroveHangingSignStates, MangroveLeavesStates, MangroveLogStates, MangrovePressurePlateStates, MangrovePropaguleStates, MangroveShelfStates, MangroveSlabStates, MangroveStairsStates, MangroveStandingSignStates, MangroveTrapdoorStates, MangroveWallSignStates, MangroveWoodStates, MaterialReducerStates, MediumAmethystBudStates, MelonStemStates, MinecraftBiomeTypesUnion, MinecraftBlockTypesUnion, MinecraftCameraPresetsTypesUnion, MinecraftCooldownCategoryTypesUnion, MinecraftDimensionTypesUnion, MinecraftEffectTypesUnion, MinecraftEnchantmentTypesUnion, MinecraftEntityTypesUnion, MinecraftFeatureTypesUnion, MinecraftItemTypesUnion, MinecraftPotionDeliveryTypesUnion, MinecraftPotionEffectTypesUnion, MossyCobblestoneDoubleSlabStates, MossyCobblestoneSlabStates, MossyCobblestoneStairsStates, MossyCobblestoneWallStates, MossyStoneBrickDoubleSlabStates, MossyStoneBrickSlabStates, MossyStoneBrickStairsStates, MossyStoneBrickWallStates, MudBrickDoubleSlabStates, MudBrickSlabStates, MudBrickStairsStates, MudBrickWallStates, MuddyMangroveRootsStates, MushroomStemStates, NetherBrickDoubleSlabStates, NetherBrickSlabStates, NetherBrickStairsStates, NetherBrickWallStates, NetherWartStates, NormalStoneDoubleSlabStates, NormalStoneSlabStates, NormalStoneStairsStates, OakDoubleSlabStates, OakHangingSignStates, OakLeavesStates, OakLogStates, OakSaplingStates, OakShelfStates, OakSlabStates, OakStairsStates, OakWoodStates, ObserverStates, OchreFroglightStates, OrangeCandleCakeStates, OrangeCandleStates, OrangeGlazedTerracottaStates, OrangePoplarLeavesStates, OrangeWoolDoubleSlabStates, OrangeWoolSlabStates, OrangeWoolStairsStates, OxidizedCopperBulbStates, OxidizedCopperChainStates, OxidizedCopperChestStates, OxidizedCopperDoorStates, OxidizedCopperGolemStatueStates, OxidizedCopperLanternStates, OxidizedCopperTrapdoorStates, OxidizedCutCopperSlabStates, OxidizedCutCopperStairsStates, OxidizedDoubleCutCopperSlabStates, OxidizedLightningRodStates, PaleHangingMossStates, PaleMossCarpetStates, PaleOakButtonStates, PaleOakDoorStates, PaleOakDoubleSlabStates, PaleOakFenceGateStates, PaleOakHangingSignStates, PaleOakLeavesStates, PaleOakLogStates, PaleOakPressurePlateStates, PaleOakSaplingStates, PaleOakShelfStates, PaleOakSlabStates, PaleOakStairsStates, PaleOakStandingSignStates, PaleOakTrapdoorStates, PaleOakWallSignStates, PaleOakWoodStates, PearlescentFroglightStates, PeonyStates, PetrifiedOakDoubleSlabStates, PetrifiedOakSlabStates, PiglinHeadStates, PinkCandleCakeStates, PinkCandleStates, PinkGlazedTerracottaStates, PinkPetalsStates, PinkWoolDoubleSlabStates, PinkWoolSlabStates, PinkWoolStairsStates, PistonArmCollisionStates, PistonStates, PitcherCropStates, PitcherPlantStates, PlayerHeadStates, PointedDripstoneStates, PolishedAndesiteDoubleSlabStates, PolishedAndesiteSlabStates, PolishedAndesiteStairsStates, PolishedBasaltStates, PolishedBlackstoneBrickDoubleSlabStates, PolishedBlackstoneBrickSlabStates, PolishedBlackstoneBrickStairsStates, PolishedBlackstoneBrickWallStates, PolishedBlackstoneButtonStates, PolishedBlackstoneDoubleSlabStates, PolishedBlackstonePressurePlateStates, PolishedBlackstoneSlabStates, PolishedBlackstoneStairsStates, PolishedBlackstoneWallStates, PolishedCinnabarDoubleSlabStates, PolishedCinnabarSlabStates, PolishedCinnabarStairsStates, PolishedCinnabarWallStates, PolishedDeepslateDoubleSlabStates, PolishedDeepslateSlabStates, PolishedDeepslateStairsStates, PolishedDeepslateWallStates, PolishedDioriteDoubleSlabStates, PolishedDioriteSlabStates, PolishedDioriteStairsStates, PolishedGraniteDoubleSlabStates, PolishedGraniteSlabStates, PolishedGraniteStairsStates, PolishedSulfurDoubleSlabStates, PolishedSulfurSlabStates, PolishedSulfurStairsStates, PolishedSulfurWallStates, PolishedTuffDoubleSlabStates, PolishedTuffSlabStates, PolishedTuffStairsStates, PolishedTuffWallStates, PoplarButtonStates, PoplarDoorStates, PoplarDoubleSlabStates, PoplarFenceGateStates, PoplarHangingSignStates, PoplarLogStates, PoplarPressurePlateStates, PoplarSaplingStates, PoplarShelfStates, PoplarSlabStates, PoplarStairsStates, PoplarStandingSignStates, PoplarTrapdoorStates, PoplarWallSignStates, PoplarWoodStates, PortalStates, PotatoesStates, PotentSulfurStates, PoweredComparatorStates, PoweredRepeaterStates, PrismarineBrickDoubleSlabStates, PrismarineBrickSlabStates, PrismarineBricksStairsStates, PrismarineDoubleSlabStates, PrismarineSlabStates, PrismarineStairsStates, PrismarineWallStates, PumpkinStates, PumpkinStemStates, PurpleCandleCakeStates, PurpleCandleStates, PurpleGlazedTerracottaStates, PurpleWoolDoubleSlabStates, PurpleWoolSlabStates, PurpleWoolStairsStates, PurpurBlockStates, PurpurDoubleSlabStates, PurpurPillarStates, PurpurSlabStates, PurpurStairsStates, QuartzBlockStates, QuartzDoubleSlabStates, QuartzPillarStates, QuartzSlabStates, QuartzStairsStates, RailStates, RedCandleCakeStates, RedCandleStates, RedGlazedTerracottaStates, RedMushroomBlockStates, RedNetherBrickDoubleSlabStates, RedNetherBrickSlabStates, RedNetherBrickStairsStates, RedNetherBrickWallStates, RedPoplarLeavesStates, RedSandstoneDoubleSlabStates, RedSandstoneSlabStates, RedSandstoneStairsStates, RedSandstoneWallStates, RedWoolDoubleSlabStates, RedWoolSlabStates, RedWoolStairsStates, RedstoneTorchStates, RedstoneWireStates, ReedsStates, RepeatingCommandBlockStates, ResinBrickDoubleSlabStates, ResinBrickSlabStates, ResinBrickStairsStates, ResinBrickWallStates, ResinClumpStates, RespawnAnchorStates, RoseBushStates, SandstoneDoubleSlabStates, SandstoneSlabStates, SandstoneStairsStates, SandstoneWallStates, ScaffoldingStates, SculkCatalystStates, SculkSensorStates, SculkShriekerStates, SculkVeinStates, SeaPickleStates, SeagrassStates, ShelfMushroomStates, SilverGlazedTerracottaStates, SkeletonSkullStates, SmallAmethystBudStates, SmallDripleafBlockStates, SmokerStates, SmoothQuartzDoubleSlabStates, SmoothQuartzSlabStates, SmoothQuartzStairsStates, SmoothQuartzStates, SmoothRedSandstoneDoubleSlabStates, SmoothRedSandstoneSlabStates, SmoothRedSandstoneStairsStates, SmoothSandstoneDoubleSlabStates, SmoothSandstoneSlabStates, SmoothSandstoneStairsStates, SmoothStoneDoubleSlabStates, SmoothStoneSlabStates, SnifferEggStates, SnowLayerStates, SoulCampfireStates, SoulFireStates, SoulLanternStates, SoulTorchStates, SpruceButtonStates, SpruceDoorStates, SpruceDoubleSlabStates, SpruceFenceGateStates, SpruceHangingSignStates, SpruceLeavesStates, SpruceLogStates, SprucePressurePlateStates, SpruceSaplingStates, SpruceShelfStates, SpruceSlabStates, SpruceStairsStates, SpruceStandingSignStates, SpruceTrapdoorStates, SpruceWallSignStates, SpruceWoodStates, StandingBannerStates, StandingSignStates, StickyPistonArmCollisionStates, StickyPistonStates, StoneBrickDoubleSlabStates, StoneBrickSlabStates, StoneBrickStairsStates, StoneBrickWallStates, StoneButtonStates, StonePressurePlateStates, StoneStairsStates, StonecutterBlockStates, StrawBedStates, StrippedAcaciaLogStates, StrippedAcaciaWoodStates, StrippedBambooBlockStates, StrippedBirchLogStates, StrippedBirchWoodStates, StrippedCherryLogStates, StrippedCherryWoodStates, StrippedCrimsonHyphaeStates, StrippedCrimsonStemStates, StrippedDarkOakLogStates, StrippedDarkOakWoodStates, StrippedJungleLogStates, StrippedJungleWoodStates, StrippedMangroveLogStates, StrippedMangroveWoodStates, StrippedOakLogStates, StrippedOakWoodStates, StrippedPaleOakLogStates, StrippedPaleOakWoodStates, StrippedPoplarLogStates, StrippedPoplarWoodStates, StrippedSpruceLogStates, StrippedSpruceWoodStates, StrippedWarpedHyphaeStates, StrippedWarpedStemStates, StructureBlockStates, SulfurBrickDoubleSlabStates, SulfurBrickSlabStates, SulfurBrickStairsStates, SulfurBrickWallStates, SulfurDoubleSlabStates, SulfurSlabStates, SulfurSpikeStates, SulfurStairsStates, SulfurWallStates, SunflowerStates, SuspiciousGravelStates, SuspiciousSandStates, SweetBerryBushStates, TallGrassStates, TntStates, TorchStates, TorchflowerCropStates, TrapdoorStates, TrappedChestStates, TrialSpawnerStates, TripWireStates, TripwireHookStates, TubeCoralFanStates, TubeCoralWallFanStates, TuffBrickDoubleSlabStates, TuffBrickSlabStates, TuffBrickStairsStates, TuffBrickWallStates, TuffDoubleSlabStates, TuffSlabStates, TuffStairsStates, TuffWallStates, TurtleEggStates, TwistingVinesStates, UnderwaterTntStates, UnderwaterTorchStates, UnlitRedstoneTorchStates, UnpoweredComparatorStates, UnpoweredRepeaterStates, VaultStates, VerdantFroglightStates, VineStates, WallBannerStates, WallSignStates, WarpedButtonStates, WarpedDoorStates, WarpedDoubleSlabStates, WarpedFenceGateStates, WarpedHangingSignStates, WarpedHyphaeStates, WarpedPressurePlateStates, WarpedShelfStates, WarpedSlabStates, WarpedStairsStates, WarpedStandingSignStates, WarpedStemStates, WarpedTrapdoorStates, WarpedWallSignStates, WaterStates, WaxedCopperBulbStates, WaxedCopperChainStates, WaxedCopperChestStates, WaxedCopperDoorStates, WaxedCopperGolemStatueStates, WaxedCopperLanternStates, WaxedCopperTrapdoorStates, WaxedCutCopperSlabStates, WaxedCutCopperStairsStates, WaxedDoubleCutCopperSlabStates, WaxedExposedCopperBulbStates, WaxedExposedCopperChainStates, WaxedExposedCopperChestStates, WaxedExposedCopperDoorStates, WaxedExposedCopperGolemStatueStates, WaxedExposedCopperLanternStates, WaxedExposedCopperTrapdoorStates, WaxedExposedCutCopperSlabStates, WaxedExposedCutCopperStairsStates, WaxedExposedDoubleCutCopperSlabStates, WaxedExposedLightningRodStates, WaxedLightningRodStates, WaxedOxidizedCopperBulbStates, WaxedOxidizedCopperChainStates, WaxedOxidizedCopperChestStates, WaxedOxidizedCopperDoorStates, WaxedOxidizedCopperGolemStatueStates, WaxedOxidizedCopperLanternStates, WaxedOxidizedCopperTrapdoorStates, WaxedOxidizedCutCopperSlabStates, WaxedOxidizedCutCopperStairsStates, WaxedOxidizedDoubleCutCopperSlabStates, WaxedOxidizedLightningRodStates, WaxedWeatheredCopperBulbStates, WaxedWeatheredCopperChainStates, WaxedWeatheredCopperChestStates, WaxedWeatheredCopperDoorStates, WaxedWeatheredCopperGolemStatueStates, WaxedWeatheredCopperLanternStates, WaxedWeatheredCopperTrapdoorStates, WaxedWeatheredCutCopperSlabStates, WaxedWeatheredCutCopperStairsStates, WaxedWeatheredDoubleCutCopperSlabStates, WaxedWeatheredLightningRodStates, WeatheredCopperBulbStates, WeatheredCopperChainStates, WeatheredCopperChestStates, WeatheredCopperDoorStates, WeatheredCopperGolemStatueStates, WeatheredCopperLanternStates, WeatheredCopperTrapdoorStates, WeatheredCutCopperSlabStates, WeatheredCutCopperStairsStates, WeatheredDoubleCutCopperSlabStates, WeatheredLightningRodStates, WeepingVinesStates, WheatStates, WhiteCandleCakeStates, WhiteCandleStates, WhiteGlazedTerracottaStates, WhiteWoolDoubleSlabStates, WhiteWoolSlabStates, WhiteWoolStairsStates, WildflowersStates, WitherSkeletonSkullStates, WoodenButtonStates, WoodenDoorStates, WoodenPressurePlateStates, YellowCandleCakeStates, YellowCandleStates, YellowGlazedTerracottaStates, YellowPoplarLeavesStates, YellowWoolDoubleSlabStates, YellowWoolSlabStates, YellowWoolStairsStates, ZombieHeadStates };
